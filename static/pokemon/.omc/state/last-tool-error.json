@@ -1,7 +1,0 @@
-{
-  "tool_name": "Read",
-  "tool_input_preview": "{\"file_path\":\"E:\\\\小程序开发_口袋冠军宝典\\\\pokemon-champion\\\\src\\\\static\\\\pokemon\\\\package.json\"}",
-  "error": "File does not exist. Note: your current working directory is E:\\小程序开发_口袋冠军宝典\\pokemon-champion\\src\\static\\pokemon.",
-  "timestamp": "2026-05-23T13:06:54.528Z",
-  "retry_count": 1
-}
