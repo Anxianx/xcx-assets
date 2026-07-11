@@ -1,0 +1,3795 @@
+{
+  "pokemon": [
+    {
+      "id": 3,
+      "name_cn": "妙蛙花",
+      "name_en": "Venusaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp_attack": 100,
+        "sp_defense": 100,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "venusaur-mega",
+          "form_name_cn": "超级妙蛙花",
+          "stats": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 123,
+            "sp_attack": 122,
+            "sp_defense": 120,
+            "speed": 80
+          }
+        }
+      ],
+      "ability1": "Overgrow",
+      "ability2": null,
+      "hidden_ability": "Chlorophyll"
+    },
+    {
+      "id": 6,
+      "name_cn": "喷火龙",
+      "name_en": "Charizard",
+      "type1": "Fire",
+      "type2": "Flying",
+      "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_attack": 109,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "forms": [
+        {
+          "form_name": "charizard-mega-x",
+          "form_name_cn": "超级喷火龙X",
+          "stats": {
+            "hp": 78,
+            "attack": 130,
+            "defense": 111,
+            "sp_attack": 130,
+            "sp_defense": 85,
+            "speed": 100
+          }
+        },
+        {
+          "form_name": "charizard-mega-y",
+          "form_name_cn": "超级喷火龙Y",
+          "stats": {
+            "hp": 78,
+            "attack": 104,
+            "defense": 78,
+            "sp_attack": 159,
+            "sp_defense": 115,
+            "speed": 100
+          }
+        }
+      ],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "SolarPower"
+    },
+    {
+      "id": 9,
+      "name_cn": "水箭龟",
+      "name_en": "Blastoise",
+      "type1": "Water",
+      "type2": null,
+      "stats": {
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "sp_attack": 85,
+        "sp_defense": 105,
+        "speed": 78
+      },
+      "forms": [
+        {
+          "form_name": "blastoise-mega",
+          "form_name_cn": "超级水箭龟",
+          "stats": {
+            "hp": 79,
+            "attack": 103,
+            "defense": 120,
+            "sp_attack": 135,
+            "sp_defense": 115,
+            "speed": 78
+          }
+        }
+      ],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "RainDish"
+    },
+    {
+      "id": 15,
+      "name_cn": "大针蜂",
+      "name_en": "Beedrill",
+      "type1": "Bug",
+      "type2": "Poison",
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 40,
+        "sp_attack": 45,
+        "sp_defense": 80,
+        "speed": 75
+      },
+      "forms": [],
+      "ability1": "Swarm",
+      "ability2": null,
+      "hidden_ability": "Sniper"
+    },
+    {
+      "id": 18,
+      "name_cn": "大比鸟",
+      "name_en": "Pidgeot",
+      "type1": "Normal",
+      "type2": "Flying",
+      "stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 101
+      },
+      "forms": [],
+      "ability1": "KeenEye",
+      "ability2": "TangledFeet",
+      "hidden_ability": "BigPecks"
+    },
+    {
+      "id": 26,
+      "name_cn": "雷丘",
+      "name_en": "Raichu",
+      "type1": "Electric",
+      "type2": null,
+      "stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 55,
+        "sp_attack": 90,
+        "sp_defense": 80,
+        "speed": 110
+      },
+      "forms": [
+        {
+          "form_name": "raichu-mega-x",
+          "form_name_cn": "超级雷丘X",
+          "stats": {
+            "hp": 60,
+            "attack": 135,
+            "defense": 95,
+            "sp_attack": 90,
+            "sp_defense": 95,
+            "speed": 110
+          },
+          "type1": "Electric",
+          "type2": null
+        },
+        {
+          "form_name": "raichu-mega-y",
+          "form_name_cn": "超级雷丘Y",
+          "stats": {
+            "hp": 60,
+            "attack": 100,
+            "defense": 55,
+            "sp_attack": 160,
+            "sp_defense": 80,
+            "speed": 130
+          },
+          "type1": "Electric",
+          "type2": null
+        },
+        {
+          "form_name": "raichu-alola",
+          "form_name_cn": "阿罗拉雷丘",
+          "stats": {
+            "hp": 60,
+            "attack": 85,
+            "defense": 50,
+            "sp_attack": 95,
+            "sp_defense": 85,
+            "speed": 110
+          },
+          "type1": "Electric",
+          "type2": "Psychic"
+        }
+      ],
+      "ability1": "Static",
+      "ability2": null,
+      "hidden_ability": "LightningRod"
+    },
+    {
+      "id": 36,
+      "name_cn": "皮可西",
+      "name_en": "Clefable",
+      "type1": "Fairy",
+      "type2": null,
+      "stats": {
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "sp_attack": 95,
+        "sp_defense": 90,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "CuteCharm",
+      "ability2": "MagicGuard",
+      "hidden_ability": "Unaware"
+    },
+    {
+      "id": 38,
+      "name_cn": "九尾",
+      "name_en": "Ninetales",
+      "type1": "Fire",
+      "type2": null,
+      "stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "sp_attack": 81,
+        "sp_defense": 100,
+        "speed": 100
+      },
+      "forms": [],
+      "ability1": "FlashFire",
+      "ability2": null,
+      "hidden_ability": "Drought"
+    },
+    {
+      "id": 45,
+      "name_cn": "霸王花",
+      "name_en": "Vileplume",
+      "type1": "Grass",
+      "type2": "Poison",
+      "stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 85,
+        "sp_attack": 110,
+        "sp_defense": 90,
+        "speed": 50
+      },
+      "forms": [],
+      "ability1": "Chlorophyll",
+      "ability2": null,
+      "hidden_ability": "EffectSpore"
+    },
+    {
+      "id": 65,
+      "name_cn": "胡地",
+      "name_en": "Alakazam",
+      "type1": "Psychic",
+      "type2": null,
+      "stats": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "sp_attack": 135,
+        "sp_defense": 95,
+        "speed": 120
+      },
+      "forms": [
+        {
+          "form_name": "alakazam-mega",
+          "form_name_cn": "超级胡地",
+          "stats": {
+            "hp": 55,
+            "attack": 50,
+            "defense": 65,
+            "sp_attack": 175,
+            "sp_defense": 105,
+            "speed": 150
+          },
+          "type1": "Psychic",
+          "type2": null
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 71,
+      "name_cn": "大食花",
+      "name_en": "Victreebel",
+      "type1": "Grass",
+      "type2": "Poison",
+      "stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "sp_attack": 100,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "forms": [],
+      "ability1": "Chlorophyll",
+      "ability2": null,
+      "hidden_ability": "Gluttony"
+    },
+    {
+      "id": 94,
+      "name_cn": "耿鬼",
+      "name_en": "Gengar",
+      "type1": "Ghost",
+      "type2": "Poison",
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 130,
+        "sp_defense": 75,
+        "speed": 110
+      },
+      "forms": [
+        {
+          "form_name": "gengar-mega",
+          "form_name_cn": "超级耿鬼",
+          "stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 80,
+            "sp_attack": 170,
+            "sp_defense": 95,
+            "speed": 130
+          }
+        }
+      ],
+      "ability1": "CursedBody",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 115,
+      "name_cn": "袋兽",
+      "name_en": "Kangaskhan",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 105,
+        "attack": 95,
+        "defense": 80,
+        "sp_attack": 40,
+        "sp_defense": 80,
+        "speed": 90
+      },
+      "forms": [
+        {
+          "form_name": "超级袋兽",
+          "form_name_cn": "超级袋兽",
+          "stats": {
+            "hp": 105,
+            "attack": 125,
+            "defense": 100,
+            "sp_attack": 60,
+            "sp_defense": 100,
+            "speed": 100
+          }
+        }
+      ],
+      "ability1": "EarlyBird",
+      "ability2": "Scrappy",
+      "hidden_ability": "InnerFocus"
+    },
+    {
+      "id": 121,
+      "name_cn": "宝石海星",
+      "name_en": "Starmie",
+      "type1": "Water",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "sp_attack": 100,
+        "sp_defense": 85,
+        "speed": 115
+      },
+      "forms": [
+        {
+          "form_name": "starmie-mega",
+          "form_name_cn": "超级宝石海星",
+          "stats": {
+            "hp": 60,
+            "attack": 100,
+            "defense": 105,
+            "sp_attack": 130,
+            "sp_defense": 105,
+            "speed": 120
+          }
+        }
+      ],
+      "ability1": "Illuminate",
+      "ability2": "NaturalCure",
+      "hidden_ability": "Analytic"
+    },
+    {
+      "id": 127,
+      "name_cn": "凯罗斯",
+      "name_en": "Pinsir",
+      "type1": "Bug",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "sp_attack": 55,
+        "sp_defense": 70,
+        "speed": 85
+      },
+      "forms": [
+        {
+          "form_name": "超级大针蜂",
+          "form_name_cn": "超级大针蜂",
+          "stats": {
+            "hp": 65,
+            "attack": 155,
+            "defense": 120,
+            "sp_attack": 65,
+            "sp_defense": 90,
+            "speed": 105
+          }
+        }
+      ],
+      "ability1": "HyperCutter",
+      "ability2": "MoldBreaker",
+      "hidden_ability": "Moxie"
+    },
+    {
+      "id": 128,
+      "name_cn": "Tauros",
+      "name_en": "Tauros",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 95,
+        "sp_attack": 40,
+        "sp_defense": 70,
+        "speed": 110
+      },
+      "forms": [
+        {
+          "form_name": "tauros-paldea-combat",
+          "form_name_cn": "帕底亚肯泰罗(格斗种)",
+          "stats": {
+            "hp": 75,
+            "attack": 110,
+            "defense": 105,
+            "sp_attack": 30,
+            "sp_defense": 70,
+            "speed": 100
+          },
+          "type1": "Fighting",
+          "type2": null
+        },
+        {
+          "form_name": "tauros-paldea-blaze",
+          "form_name_cn": "帕底亚肯泰罗(火焰种)",
+          "stats": {
+            "hp": 75,
+            "attack": 110,
+            "defense": 105,
+            "sp_attack": 30,
+            "sp_defense": 70,
+            "speed": 100
+          },
+          "type1": "Fighting",
+          "type2": "Fire"
+        },
+        {
+          "form_name": "tauros-paldea-aqua",
+          "form_name_cn": "帕底亚肯泰罗(流水种)",
+          "stats": {
+            "hp": 75,
+            "attack": 110,
+            "defense": 105,
+            "sp_attack": 30,
+            "sp_defense": 70,
+            "speed": 100
+          },
+          "type1": "Fighting",
+          "type2": "Water"
+        }
+      ],
+      "ability1": "Intimidate",
+      "ability2": "AngerPoint",
+      "hidden_ability": "SheerForce"
+    },
+    {
+      "id": 130,
+      "name_cn": "暴鲤龙",
+      "name_en": "Gyarados",
+      "type1": "Water",
+      "type2": "Flying",
+      "stats": {
+        "hp": 95,
+        "attack": 125,
+        "defense": 79,
+        "sp_attack": 60,
+        "sp_defense": 100,
+        "speed": 81
+      },
+      "forms": [
+        {
+          "form_name": "gyarados-mega",
+          "form_name_cn": "超级暴鲤龙",
+          "stats": {
+            "hp": 95,
+            "attack": 155,
+            "defense": 109,
+            "sp_attack": 70,
+            "sp_defense": 130,
+            "speed": 81
+          }
+        }
+      ],
+      "ability1": "Intimidate",
+      "ability2": null,
+      "hidden_ability": "Moxie"
+    },
+    {
+      "id": 132,
+      "name_cn": "百变怪",
+      "name_en": "Ditto",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "sp_attack": 48,
+        "sp_defense": 48,
+        "speed": 48
+      },
+      "forms": [],
+      "ability1": "Limber",
+      "ability2": null,
+      "hidden_ability": "Imposter"
+    },
+    {
+      "id": 134,
+      "name_cn": "水伊布",
+      "name_en": "Vaporeon",
+      "type1": "Water",
+      "type2": null,
+      "stats": {
+        "hp": 130,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 110,
+        "sp_defense": 95,
+        "speed": 65
+      },
+      "forms": [],
+      "ability1": "WaterAbsorb",
+      "ability2": null,
+      "hidden_ability": "Hydration"
+    },
+    {
+      "id": 136,
+      "name_cn": "火伊布",
+      "name_en": "Flareon",
+      "type1": "Fire",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "sp_attack": 95,
+        "sp_defense": 110,
+        "speed": 65
+      },
+      "forms": [],
+      "ability1": "FlashFire",
+      "ability2": null,
+      "hidden_ability": "Guts"
+    },
+    {
+      "id": 142,
+      "name_cn": "化石翼龙",
+      "name_en": "Aerodactyl",
+      "type1": "Rock",
+      "type2": "Flying",
+      "stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "sp_attack": 60,
+        "sp_defense": 75,
+        "speed": 130
+      },
+      "forms": [
+        {
+          "form_name": "aerodactyl-mega",
+          "form_name_cn": "超级化石翼龙",
+          "stats": {
+            "hp": 80,
+            "attack": 135,
+            "defense": 85,
+            "sp_attack": 70,
+            "sp_defense": 95,
+            "speed": 150
+          },
+          "type1": "Rock",
+          "type2": "Flying"
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 143,
+      "name_cn": "卡比兽",
+      "name_en": "Snorlax",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 160,
+        "attack": 110,
+        "defense": 65,
+        "sp_attack": 65,
+        "sp_defense": 110,
+        "speed": 30
+      },
+      "forms": [],
+      "ability1": "Immunity",
+      "ability2": "ThickFat",
+      "hidden_ability": "Gluttony"
+    },
+    {
+      "id": 149,
+      "name_cn": "快龙",
+      "name_en": "Dragonite",
+      "type1": "Dragon",
+      "type2": "Flying",
+      "stats": {
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "sp_attack": 100,
+        "sp_defense": 100,
+        "speed": 80
+      },
+      "forms": [],
+      "ability1": "InnerFocus",
+      "ability2": null,
+      "hidden_ability": "Multiscale"
+    },
+    {
+      "id": 154,
+      "name_cn": "大竺葵",
+      "name_en": "Meganium",
+      "type1": "Grass",
+      "type2": null,
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 100,
+        "sp_attack": 83,
+        "sp_defense": 100,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "meganium-mega",
+          "form_name_cn": "超级大竺葵",
+          "stats": {
+            "hp": 80,
+            "attack": 92,
+            "defense": 115,
+            "sp_attack": 143,
+            "sp_defense": 115,
+            "speed": 80
+          }
+        }
+      ],
+      "ability1": "Overgrow",
+      "ability2": null,
+      "hidden_ability": "LeafGuard"
+    },
+    {
+      "id": 157,
+      "name_cn": "火暴兽",
+      "name_en": "Typhlosion",
+      "type1": "Fire",
+      "type2": null,
+      "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_attack": 109,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "forms": [
+        {
+          "form_name": "typhlosion-hisui",
+          "form_name_cn": "洗翠火暴兽",
+          "stats": {
+            "hp": 73,
+            "attack": 84,
+            "defense": 78,
+            "sp_attack": 119,
+            "sp_defense": 85,
+            "speed": 95
+          },
+          "type1": "Fire",
+          "type2": "Ghost"
+        }
+      ],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "FlashFire"
+    },
+    {
+      "id": 184,
+      "name_cn": "玛力露丽",
+      "name_en": "Azumarill",
+      "type1": "Water",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 100,
+        "attack": 50,
+        "defense": 80,
+        "sp_attack": 60,
+        "sp_defense": 80,
+        "speed": 50
+      },
+      "forms": [],
+      "ability1": "ThickFat",
+      "ability2": "HugePower",
+      "hidden_ability": "SapSipper"
+    },
+    {
+      "id": 186,
+      "name_cn": "蚊香蛙皇",
+      "name_en": "Politoed",
+      "type1": "Water",
+      "type2": null,
+      "stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 75,
+        "sp_attack": 90,
+        "sp_defense": 100,
+        "speed": 70
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 196,
+      "name_cn": "太阳伊布",
+      "name_en": "Espeon",
+      "type1": "Psychic",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 130,
+        "sp_defense": 95,
+        "speed": 110
+      },
+      "forms": [],
+      "ability1": "Synchronize",
+      "ability2": null,
+      "hidden_ability": "MagicBounce"
+    },
+    {
+      "id": 197,
+      "name_cn": "月亮伊布",
+      "name_en": "Umbreon",
+      "type1": "Dark",
+      "type2": null,
+      "stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 110,
+        "sp_attack": 60,
+        "sp_defense": 130,
+        "speed": 65
+      },
+      "forms": [],
+      "ability1": "Synchronize",
+      "ability2": null,
+      "hidden_ability": "InnerFocus"
+    },
+    {
+      "id": 199,
+      "name_cn": "呆呆王",
+      "name_en": "Slowking",
+      "type1": "Water",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 80,
+        "sp_attack": 100,
+        "sp_defense": 110,
+        "speed": 30
+      },
+      "forms": [],
+      "ability1": "Oblivious",
+      "ability2": "OwnTempo",
+      "hidden_ability": "Regenerator"
+    },
+    {
+      "id": 211,
+      "name_cn": "千针鱼",
+      "name_en": "Qwilfish",
+      "type1": "Water",
+      "type2": "Poison",
+      "stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 85,
+        "sp_attack": 55,
+        "sp_defense": 55,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": "PoisonPoint",
+      "ability2": "SwiftSwim",
+      "hidden_ability": "Intimidate"
+    },
+    {
+      "id": 212,
+      "name_cn": "巨钳螳螂",
+      "name_en": "Scizor",
+      "type1": "Bug",
+      "type2": "Steel",
+      "stats": {
+        "hp": 70,
+        "attack": 130,
+        "defense": 100,
+        "sp_attack": 55,
+        "sp_defense": 80,
+        "speed": 65
+      },
+      "forms": [
+        {
+          "form_name": "scizor-mega",
+          "form_name_cn": "超级巨钳螳螂",
+          "stats": {
+            "hp": 70,
+            "attack": 150,
+            "defense": 140,
+            "sp_attack": 65,
+            "sp_defense": 100,
+            "speed": 75
+          }
+        }
+      ],
+      "ability1": "Swarm",
+      "ability2": "Technician",
+      "hidden_ability": "LightMetal"
+    },
+    {
+      "id": 214,
+      "name_cn": "赫拉克罗斯",
+      "name_en": "Heracross",
+      "type1": "Bug",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 75,
+        "sp_attack": 40,
+        "sp_defense": 95,
+        "speed": 85
+      },
+      "forms": [
+        {
+          "form_name": "heracross-mega",
+          "form_name_cn": "超级赫拉克罗斯",
+          "stats": {
+            "hp": 80,
+            "attack": 185,
+            "defense": 115,
+            "sp_attack": 40,
+            "sp_defense": 105,
+            "speed": 75
+          }
+        }
+      ],
+      "ability1": "Swarm",
+      "ability2": "Guts",
+      "hidden_ability": "Moxie"
+    },
+    {
+      "id": 227,
+      "name_cn": "盔甲鸟",
+      "name_en": "Skarmory",
+      "type1": "Steel",
+      "type2": "Flying",
+      "stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 140,
+        "sp_attack": 40,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "forms": [],
+      "ability1": "KeenEye",
+      "ability2": "Sturdy",
+      "hidden_ability": "WeakArmor"
+    },
+    {
+      "id": 229,
+      "name_cn": "黑鲁加",
+      "name_en": "Houndoom",
+      "type1": "Dark",
+      "type2": "Fire",
+      "stats": {
+        "hp": 75,
+        "attack": 90,
+        "defense": 50,
+        "sp_attack": 110,
+        "sp_defense": 80,
+        "speed": 95
+      },
+      "forms": [
+        {
+          "form_name": "houndoom-mega",
+          "form_name_cn": "超级黑鲁加",
+          "stats": {
+            "hp": 75,
+            "attack": 90,
+            "defense": 90,
+            "sp_attack": 140,
+            "sp_defense": 90,
+            "speed": 115
+          },
+          "type1": "Dark",
+          "type2": "Fire"
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 248,
+      "name_cn": "班基拉斯",
+      "name_en": "Tyranitar",
+      "type1": "Rock",
+      "type2": "Dark",
+      "stats": {
+        "hp": 100,
+        "attack": 134,
+        "defense": 110,
+        "sp_attack": 95,
+        "sp_defense": 100,
+        "speed": 61
+      },
+      "forms": [
+        {
+          "form_name": "tyranitar-mega",
+          "form_name_cn": "超级班基拉斯",
+          "stats": {
+            "hp": 100,
+            "attack": 164,
+            "defense": 150,
+            "sp_attack": 95,
+            "sp_defense": 120,
+            "speed": 71
+          }
+        }
+      ],
+      "ability1": "SandStream",
+      "ability2": null,
+      "hidden_ability": "Unnerve"
+    },
+    {
+      "id": 254,
+      "name_cn": "蜥蜴王",
+      "name_en": "Sceptile",
+      "type1": "Grass",
+      "type2": null,
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "sp_attack": 105,
+        "sp_defense": 85,
+        "speed": 120
+      },
+      "forms": [
+        {
+          "form_name": "sceptile-mega",
+          "form_name_cn": "超级蜥蜴王",
+          "stats": {
+            "hp": 70,
+            "attack": 110,
+            "defense": 75,
+            "sp_attack": 145,
+            "sp_defense": 85,
+            "speed": 145
+          },
+          "type1": "Grass",
+          "type2": "Dragon"
+        }
+      ],
+      "ability1": "Overgrow",
+      "ability2": null,
+      "hidden_ability": "Unburden"
+    },
+    {
+      "id": 257,
+      "name_cn": "火焰鸡",
+      "name_en": "Blaziken",
+      "type1": "Fire",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 70,
+        "sp_attack": 110,
+        "sp_defense": 70,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "blaziken-mega",
+          "form_name_cn": "超级火焰鸡",
+          "stats": {
+            "hp": 80,
+            "attack": 160,
+            "defense": 80,
+            "sp_attack": 130,
+            "sp_defense": 80,
+            "speed": 100
+          },
+          "type1": "Fire",
+          "type2": "Fighting"
+        }
+      ],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "SpeedBoost"
+    },
+    {
+      "id": 260,
+      "name_cn": "巨沼怪",
+      "name_en": "Swampert",
+      "type1": "Water",
+      "type2": "Ground",
+      "stats": {
+        "hp": 100,
+        "attack": 110,
+        "defense": 90,
+        "sp_attack": 85,
+        "sp_defense": 90,
+        "speed": 60
+      },
+      "forms": [
+        {
+          "form_name": "swampert-mega",
+          "form_name_cn": "超级巨沼怪",
+          "stats": {
+            "hp": 100,
+            "attack": 150,
+            "defense": 110,
+            "sp_attack": 95,
+            "sp_defense": 110,
+            "speed": 70
+          },
+          "type1": "Water",
+          "type2": "Ground"
+        }
+      ],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "Damp"
+    },
+    {
+      "id": 279,
+      "name_cn": "大嘴鸥",
+      "name_en": "Pelipper",
+      "type1": "Water",
+      "type2": "Flying",
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 100,
+        "sp_attack": 95,
+        "sp_defense": 70,
+        "speed": 65
+      },
+      "forms": [],
+      "ability1": "KeenEye",
+      "ability2": "Drizzle",
+      "hidden_ability": "RainDish"
+    },
+    {
+      "id": 282,
+      "name_cn": "沙奈朵",
+      "name_en": "Gardevoir",
+      "type1": "Psychic",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 65,
+        "sp_attack": 125,
+        "sp_defense": 115,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "gardevoir-mega",
+          "form_name_cn": "超级沙奈朵",
+          "stats": {
+            "hp": 68,
+            "attack": 85,
+            "defense": 65,
+            "sp_attack": 165,
+            "sp_defense": 135,
+            "speed": 100
+          }
+        }
+      ],
+      "ability1": "Synchronize",
+      "ability2": "Trace",
+      "hidden_ability": "Telepathy"
+    },
+    {
+      "id": 302,
+      "name_cn": "勾魂眼",
+      "name_en": "Sableye",
+      "type1": "Dark",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 75,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 50
+      },
+      "forms": [],
+      "ability1": "KeenEye",
+      "ability2": "Stall",
+      "hidden_ability": "Prankster"
+    },
+    {
+      "id": 303,
+      "name_cn": "大嘴娃",
+      "name_en": "Mawile",
+      "type1": "Steel",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 85,
+        "sp_attack": 55,
+        "sp_defense": 55,
+        "speed": 50
+      },
+      "forms": [
+        {
+          "form_name": "mawile-mega",
+          "form_name_cn": "超级大嘴娃",
+          "stats": {
+            "hp": 50,
+            "attack": 105,
+            "defense": 125,
+            "sp_attack": 55,
+            "sp_defense": 95,
+            "speed": 50
+          },
+          "type1": "Steel",
+          "type2": "Fairy"
+        }
+      ],
+      "ability1": "HyperCutter",
+      "ability2": "Intimidate",
+      "hidden_ability": "SheerForce"
+    },
+    {
+      "id": 306,
+      "name_cn": "波士可多拉",
+      "name_en": "Aggron",
+      "type1": "Steel",
+      "type2": "Rock",
+      "stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 180,
+        "sp_attack": 60,
+        "sp_defense": 60,
+        "speed": 50
+      },
+      "forms": [
+        {
+          "form_name": "aggron-mega",
+          "form_name_cn": "超级波士可多拉",
+          "stats": {
+            "hp": 70,
+            "attack": 140,
+            "defense": 230,
+            "sp_attack": 60,
+            "sp_defense": 80,
+            "speed": 50
+          }
+        }
+      ],
+      "ability1": "Sturdy",
+      "ability2": "RockHead",
+      "hidden_ability": "HeavyMetal"
+    },
+    {
+      "id": 308,
+      "name_cn": "恰雷姆",
+      "name_en": "Medicham",
+      "type1": "Fighting",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "sp_attack": 60,
+        "sp_defense": 75,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "medicham-mega",
+          "form_name_cn": "超级恰雷姆",
+          "stats": {
+            "hp": 60,
+            "attack": 100,
+            "defense": 85,
+            "sp_attack": 80,
+            "sp_defense": 85,
+            "speed": 100
+          }
+        }
+      ],
+      "ability1": "PurePower",
+      "ability2": null,
+      "hidden_ability": "Telepathy"
+    },
+    {
+      "id": 319,
+      "name_cn": "巨牙鲨",
+      "name_en": "Sharpedo",
+      "type1": "Water",
+      "type2": "Dark",
+      "stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 40,
+        "sp_attack": 95,
+        "sp_defense": 40,
+        "speed": 95
+      },
+      "forms": [
+        {
+          "form_name": "sharpedo-mega",
+          "form_name_cn": "超级巨牙鲨",
+          "stats": {
+            "hp": 70,
+            "attack": 140,
+            "defense": 70,
+            "sp_attack": 110,
+            "sp_defense": 65,
+            "speed": 105
+          }
+        }
+      ],
+      "ability1": "RoughSkin",
+      "ability2": null,
+      "hidden_ability": "SpeedBoost"
+    },
+    {
+      "id": 323,
+      "name_cn": "喷火驼",
+      "name_en": "Camerupt",
+      "type1": "Fire",
+      "type2": "Ground",
+      "stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "sp_attack": 105,
+        "sp_defense": 75,
+        "speed": 40
+      },
+      "forms": [
+        {
+          "form_name": "camerupt-mega",
+          "form_name_cn": "超级喷火驼",
+          "stats": {
+            "hp": 70,
+            "attack": 120,
+            "defense": 100,
+            "sp_attack": 145,
+            "sp_defense": 105,
+            "speed": 20
+          },
+          "type1": "Fire",
+          "type2": "Ground"
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 324,
+      "name_cn": "煤炭龟",
+      "name_en": "Torkoal",
+      "type1": "Fire",
+      "type2": null,
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 140,
+        "sp_attack": 85,
+        "sp_defense": 70,
+        "speed": 20
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 334,
+      "name_cn": "七夕青鸟",
+      "name_en": "Altaria",
+      "type1": "Dragon",
+      "type2": "Flying",
+      "stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 90,
+        "sp_attack": 70,
+        "sp_defense": 105,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "altaria-mega",
+          "form_name_cn": "超级七夕青鸟",
+          "stats": {
+            "hp": 75,
+            "attack": 110,
+            "defense": 110,
+            "sp_attack": 110,
+            "sp_defense": 105,
+            "speed": 80
+          },
+          "type1": "Dragon",
+          "type2": "Fairy"
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 350,
+      "name_cn": "美纳斯",
+      "name_en": "Milotic",
+      "type1": "Water",
+      "type2": null,
+      "stats": {
+        "hp": 95,
+        "attack": 60,
+        "defense": 79,
+        "sp_attack": 100,
+        "sp_defense": 125,
+        "speed": 81
+      },
+      "forms": [],
+      "ability1": "MarvelScale",
+      "ability2": "Competitive",
+      "hidden_ability": "CuteCharm"
+    },
+    {
+      "id": 354,
+      "name_cn": "诅咒娃娃",
+      "name_en": "Banette",
+      "type1": "Ghost",
+      "type2": null,
+      "stats": {
+        "hp": 64,
+        "attack": 115,
+        "defense": 65,
+        "sp_attack": 83,
+        "sp_defense": 63,
+        "speed": 65
+      },
+      "forms": [
+        {
+          "form_name": "banette-mega",
+          "form_name_cn": "超级诅咒娃娃",
+          "stats": {
+            "hp": 64,
+            "attack": 165,
+            "defense": 75,
+            "sp_attack": 93,
+            "sp_defense": 83,
+            "speed": 75
+          }
+        }
+      ],
+      "ability1": "Insomnia",
+      "ability2": "Frisk",
+      "hidden_ability": "CursedBody"
+    },
+    {
+      "id": 358,
+      "name_cn": "风铃铃",
+      "name_en": "Chimecho",
+      "type1": "Psychic",
+      "type2": null,
+      "stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 80,
+        "sp_attack": 95,
+        "sp_defense": 90,
+        "speed": 65
+      },
+      "forms": [
+        {
+          "form_name": "chimecho-mega",
+          "form_name_cn": "超级风铃铃",
+          "stats": {
+            "hp": 75,
+            "attack": 50,
+            "defense": 110,
+            "sp_attack": 135,
+            "sp_defense": 120,
+            "speed": 65
+          }
+        }
+      ],
+      "ability1": "Levitate",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 362,
+      "name_cn": "冰鬼护",
+      "name_en": "Glalie",
+      "type1": "Ice",
+      "type2": null,
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 80,
+        "sp_defense": 80,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "glalie-mega",
+          "form_name_cn": "超级冰鬼护",
+          "stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 80,
+            "sp_attack": 120,
+            "sp_defense": 80,
+            "speed": 100
+          }
+        }
+      ],
+      "ability1": "InnerFocus",
+      "ability2": "IceBody",
+      "hidden_ability": "Moody"
+    },
+    {
+      "id": 376,
+      "name_cn": "巨金怪",
+      "name_en": "Metagross",
+      "type1": "Steel",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 80,
+        "attack": 135,
+        "defense": 130,
+        "sp_attack": 95,
+        "sp_defense": 90,
+        "speed": 70
+      },
+      "forms": [
+        {
+          "form_name": "metagross-mega",
+          "form_name_cn": "超级巨金怪",
+          "stats": {
+            "hp": 80,
+            "attack": 145,
+            "defense": 150,
+            "sp_attack": 105,
+            "sp_defense": 110,
+            "speed": 110
+          },
+          "type1": "Steel",
+          "type2": "Psychic"
+        }
+      ],
+      "ability1": "ClearBody",
+      "ability2": null,
+      "hidden_ability": "LightMetal"
+    },
+    {
+      "id": 389,
+      "name_cn": "土台龟",
+      "name_en": "Torterra",
+      "type1": "Grass",
+      "type2": "Ground",
+      "stats": {
+        "hp": 95,
+        "attack": 109,
+        "defense": 105,
+        "sp_attack": 75,
+        "sp_defense": 85,
+        "speed": 56
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 392,
+      "name_cn": "烈焰猴",
+      "name_en": "Infernape",
+      "type1": "Fire",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 76,
+        "attack": 104,
+        "defense": 71,
+        "sp_attack": 104,
+        "sp_defense": 71,
+        "speed": 108
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 395,
+      "name_cn": "帝王拿波",
+      "name_en": "Empoleon",
+      "type1": "Water",
+      "type2": "Steel",
+      "stats": {
+        "hp": 84,
+        "attack": 86,
+        "defense": 88,
+        "sp_attack": 111,
+        "sp_defense": 101,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "Competitive"
+    },
+    {
+      "id": 398,
+      "name_cn": "姆克鹰",
+      "name_en": "Staraptor",
+      "type1": "Normal",
+      "type2": "Flying",
+      "stats": {
+        "hp": 85,
+        "attack": 120,
+        "defense": 70,
+        "sp_attack": 50,
+        "sp_defense": 60,
+        "speed": 100
+      },
+      "forms": [
+        {
+          "form_name": "staraptor-mega",
+          "form_name_cn": "超级姆克鹰",
+          "stats": {
+            "hp": 85,
+            "attack": 140,
+            "defense": 100,
+            "sp_attack": 60,
+            "sp_defense": 90,
+            "speed": 110
+          },
+          "type1": "Fighting",
+          "type2": "Flying"
+        }
+      ],
+      "ability1": "Intimidate",
+      "ability2": null,
+      "hidden_ability": "Reckless"
+    },
+    {
+      "id": 428,
+      "name_cn": "长耳兔",
+      "name_en": "Lopunny",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 76,
+        "defense": 84,
+        "sp_attack": 54,
+        "sp_defense": 96,
+        "speed": 105
+      },
+      "forms": [
+        {
+          "form_name": "lopunny-mega",
+          "form_name_cn": "超级长耳兔",
+          "stats": {
+            "hp": 65,
+            "attack": 136,
+            "defense": 94,
+            "sp_attack": 54,
+            "sp_defense": 96,
+            "speed": 135
+          }
+        }
+      ],
+      "ability1": "CuteCharm",
+      "ability2": "Klutz",
+      "hidden_ability": "Limber"
+    },
+    {
+      "id": 445,
+      "name_cn": "烈咬陆鲨",
+      "name_en": "Garchomp",
+      "type1": "Dragon",
+      "type2": "Ground",
+      "stats": {
+        "hp": 108,
+        "attack": 130,
+        "defense": 95,
+        "sp_attack": 80,
+        "sp_defense": 85,
+        "speed": 102
+      },
+      "forms": [
+        {
+          "form_name": "garchomp-mega",
+          "form_name_cn": "超级烈咬陆鲨",
+          "stats": {
+            "hp": 108,
+            "attack": 170,
+            "defense": 115,
+            "sp_attack": 120,
+            "sp_defense": 95,
+            "speed": 92
+          }
+        }
+      ],
+      "ability1": "SandVeil",
+      "ability2": null,
+      "hidden_ability": "RoughSkin"
+    },
+    {
+      "id": 448,
+      "name_cn": "路卡利欧",
+      "name_en": "Lucario",
+      "type1": "Fighting",
+      "type2": "Steel",
+      "stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 70,
+        "sp_attack": 115,
+        "sp_defense": 70,
+        "speed": 90
+      },
+      "forms": [
+        {
+          "form_name": "lucario-mega",
+          "form_name_cn": "超级路卡利欧",
+          "stats": {
+            "hp": 70,
+            "attack": 145,
+            "defense": 88,
+            "sp_attack": 140,
+            "sp_defense": 70,
+            "speed": 112
+          }
+        }
+      ],
+      "ability1": "Steadfast",
+      "ability2": "InnerFocus",
+      "hidden_ability": "Justified"
+    },
+    {
+      "id": 450,
+      "name_cn": "河马兽",
+      "name_en": "Hippowdon",
+      "type1": "Ground",
+      "type2": null,
+      "stats": {
+        "hp": 108,
+        "attack": 112,
+        "defense": 118,
+        "sp_attack": 68,
+        "sp_defense": 72,
+        "speed": 47
+      },
+      "forms": [],
+      "ability1": "SandStream",
+      "ability2": null,
+      "hidden_ability": "SandForce"
+    },
+    {
+      "id": 460,
+      "name_cn": "暴雪王",
+      "name_en": "Abomasnow",
+      "type1": "Grass",
+      "type2": "Ice",
+      "stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 75,
+        "sp_attack": 92,
+        "sp_defense": 85,
+        "speed": 60
+      },
+      "forms": [
+        {
+          "form_name": "abomasnow-mega",
+          "form_name_cn": "超级暴雪王",
+          "stats": {
+            "hp": 90,
+            "attack": 132,
+            "defense": 105,
+            "sp_attack": 132,
+            "sp_defense": 105,
+            "speed": 30
+          },
+          "type1": "Grass",
+          "type2": "Ice"
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 461,
+      "name_cn": "玛狃拉",
+      "name_en": "Weavile",
+      "type1": "Dark",
+      "type2": "Ice",
+      "stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 65,
+        "sp_attack": 45,
+        "sp_defense": 85,
+        "speed": 125
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 470,
+      "name_cn": "叶伊布",
+      "name_en": "Leafeon",
+      "type1": "Grass",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 110,
+        "defense": 130,
+        "sp_attack": 60,
+        "sp_defense": 65,
+        "speed": 95
+      },
+      "forms": [],
+      "ability1": "LeafGuard",
+      "ability2": null,
+      "hidden_ability": "Chlorophyll"
+    },
+    {
+      "id": 471,
+      "name_cn": "冰伊布",
+      "name_en": "Glaceon",
+      "type1": "Ice",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 110,
+        "sp_attack": 130,
+        "sp_defense": 95,
+        "speed": 65
+      },
+      "forms": [],
+      "ability1": "SnowCloak",
+      "ability2": null,
+      "hidden_ability": "IceBody"
+    },
+    {
+      "id": 472,
+      "name_cn": "天蝎王",
+      "name_en": "Gliscor",
+      "type1": "Ground",
+      "type2": "Flying",
+      "stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 125,
+        "sp_attack": 45,
+        "sp_defense": 75,
+        "speed": 95
+      },
+      "forms": [],
+      "ability1": "HyperCutter",
+      "ability2": "SandVeil",
+      "hidden_ability": "PoisonHeal"
+    },
+    {
+      "id": 473,
+      "name_cn": "象牙猪",
+      "name_en": "Mamoswine",
+      "type1": "Ice",
+      "type2": "Ground",
+      "stats": {
+        "hp": 110,
+        "attack": 130,
+        "defense": 80,
+        "sp_attack": 70,
+        "sp_defense": 60,
+        "speed": 80
+      },
+      "forms": [],
+      "ability1": "Oblivious",
+      "ability2": "SnowCloak",
+      "hidden_ability": "ThickFat"
+    },
+    {
+      "id": 475,
+      "name_cn": "艾路雷朵",
+      "name_en": "Gallade",
+      "type1": "Psychic",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 68,
+        "attack": 125,
+        "defense": 65,
+        "sp_attack": 65,
+        "sp_defense": 115,
+        "speed": 80
+      },
+      "forms": [
+        {
+          "form_name": "gallade-mega",
+          "form_name_cn": "超级艾路雷朵",
+          "stats": {
+            "hp": 68,
+            "attack": 165,
+            "defense": 95,
+            "sp_attack": 65,
+            "sp_defense": 115,
+            "speed": 110
+          }
+        }
+      ],
+      "ability1": "Steadfast",
+      "ability2": "Sharpness",
+      "hidden_ability": "Justified"
+    },
+    {
+      "id": 478,
+      "name_cn": "雪妖女",
+      "name_en": "Froslass",
+      "type1": "Ice",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 70,
+        "sp_attack": 80,
+        "sp_defense": 70,
+        "speed": 110
+      },
+      "forms": [],
+      "ability1": "SnowCloak",
+      "ability2": null,
+      "hidden_ability": "CursedBody"
+    },
+    {
+      "id": 497,
+      "name_cn": "君主蛇",
+      "name_en": "Serperior",
+      "type1": "Grass",
+      "type2": null,
+      "stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 95,
+        "sp_attack": 75,
+        "sp_defense": 95,
+        "speed": 113
+      },
+      "forms": [],
+      "ability1": "Overgrow",
+      "ability2": null,
+      "hidden_ability": "Contrary"
+    },
+    {
+      "id": 500,
+      "name_cn": "炎武王",
+      "name_en": "Emboar",
+      "type1": "Fire",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 110,
+        "attack": 123,
+        "defense": 65,
+        "sp_attack": 100,
+        "sp_defense": 65,
+        "speed": 65
+      },
+      "forms": [
+        {
+          "form_name": "emboar-mega",
+          "form_name_cn": "超级炎武王",
+          "stats": {
+            "hp": 110,
+            "attack": 148,
+            "defense": 75,
+            "sp_attack": 110,
+            "sp_defense": 110,
+            "speed": 75
+          }
+        }
+      ],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "Reckless"
+    },
+    {
+      "id": 503,
+      "name_cn": "大剑鬼",
+      "name_en": "Samurott",
+      "type1": "Water",
+      "type2": null,
+      "stats": {
+        "hp": 95,
+        "attack": 100,
+        "defense": 85,
+        "sp_attack": 108,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "forms": [],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "ShellArmor"
+    },
+    {
+      "id": 518,
+      "name_cn": "梦梦蚀",
+      "name_en": "Musharna",
+      "type1": "Psychic",
+      "type2": null,
+      "stats": {
+        "hp": 116,
+        "attack": 55,
+        "defense": 85,
+        "sp_attack": 107,
+        "sp_defense": 95,
+        "speed": 29
+      },
+      "forms": [],
+      "ability1": "Forewarn",
+      "ability2": "Synchronize",
+      "hidden_ability": "Telepathy"
+    },
+    {
+      "id": 530,
+      "name_cn": "龙头地鼠",
+      "name_en": "Excadrill",
+      "type1": "Ground",
+      "type2": "Steel",
+      "stats": {
+        "hp": 110,
+        "attack": 135,
+        "defense": 60,
+        "sp_attack": 50,
+        "sp_defense": 65,
+        "speed": 88
+      },
+      "forms": [],
+      "ability1": "SandRush",
+      "ability2": "SandForce",
+      "hidden_ability": "MoldBreaker"
+    },
+    {
+      "id": 531,
+      "name_cn": "差不多娃娃",
+      "name_en": "Audino",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 103,
+        "attack": 60,
+        "defense": 86,
+        "sp_attack": 60,
+        "sp_defense": 86,
+        "speed": 50
+      },
+      "forms": [
+        {
+          "form_name": "audino-mega",
+          "form_name_cn": "超级差不多娃娃",
+          "stats": {
+            "hp": 103,
+            "attack": 60,
+            "defense": 126,
+            "sp_attack": 80,
+            "sp_defense": 126,
+            "speed": 50
+          },
+          "type1": "Normal",
+          "type2": "Fairy"
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 534,
+      "name_cn": "修建老匠",
+      "name_en": "Conkeldurr",
+      "type1": "Fighting",
+      "type2": null,
+      "stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 95,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 45
+      },
+      "forms": [],
+      "ability1": "Guts",
+      "ability2": "SheerForce",
+      "hidden_ability": "IronFist"
+    },
+    {
+      "id": 545,
+      "name_cn": "蜈蚣王",
+      "name_en": "Scolipede",
+      "type1": "Bug",
+      "type2": "Poison",
+      "stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 89,
+        "sp_attack": 55,
+        "sp_defense": 69,
+        "speed": 112
+      },
+      "forms": [
+        {
+          "form_name": "scolipede-mega",
+          "form_name_cn": "超级蜈蚣王",
+          "stats": {
+            "hp": 60,
+            "attack": 140,
+            "defense": 149,
+            "sp_attack": 75,
+            "sp_defense": 99,
+            "speed": 62
+          },
+          "type1": "Bug",
+          "type2": "Poison"
+        }
+      ],
+      "ability1": "PoisonPoint",
+      "ability2": "Swarm",
+      "hidden_ability": "SpeedBoost"
+    },
+    {
+      "id": 547,
+      "name_cn": "风妖精",
+      "name_en": "Whimsicott",
+      "type1": "Grass",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 60,
+        "attack": 67,
+        "defense": 85,
+        "sp_attack": 77,
+        "sp_defense": 75,
+        "speed": 116
+      },
+      "forms": [],
+      "ability1": "Prankster",
+      "ability2": "Infiltrator",
+      "hidden_ability": "Chlorophyll"
+    },
+    {
+      "id": 553,
+      "name_cn": "流氓鳄",
+      "name_en": "Krookodile",
+      "type1": "Ground",
+      "type2": "Dark",
+      "stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 80,
+        "sp_attack": 65,
+        "sp_defense": 70,
+        "speed": 92
+      },
+      "forms": [],
+      "ability1": "Intimidate",
+      "ability2": "Moxie",
+      "hidden_ability": "AngerPoint"
+    },
+    {
+      "id": 560,
+      "name_cn": "头巾混混",
+      "name_en": "Scrafty",
+      "type1": "Dark",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 115,
+        "sp_attack": 45,
+        "sp_defense": 115,
+        "speed": 58
+      },
+      "forms": [
+        {
+          "form_name": "scrafty-mega",
+          "form_name_cn": "超级头巾混混",
+          "stats": {
+            "hp": 65,
+            "attack": 130,
+            "defense": 135,
+            "sp_attack": 55,
+            "sp_defense": 135,
+            "speed": 68
+          },
+          "type1": "Dark",
+          "type2": "Fighting"
+        }
+      ],
+      "ability1": "ShedSkin",
+      "ability2": "Moxie",
+      "hidden_ability": "Intimidate"
+    },
+    {
+      "id": 584,
+      "name_cn": "双倍多多冰",
+      "name_en": "Vanilluxe",
+      "type1": "Ice",
+      "type2": null,
+      "stats": {
+        "hp": 71,
+        "attack": 95,
+        "defense": 85,
+        "sp_attack": 110,
+        "sp_defense": 95,
+        "speed": 79
+      },
+      "forms": [],
+      "ability1": "IceBody",
+      "ability2": "SnowWarning",
+      "hidden_ability": "WeakArmor"
+    },
+    {
+      "id": 604,
+      "name_cn": "麻麻鳗鱼王",
+      "name_en": "Eelektross",
+      "type1": "Electric",
+      "type2": null,
+      "stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 80,
+        "sp_attack": 105,
+        "sp_defense": 80,
+        "speed": 50
+      },
+      "forms": [
+        {
+          "form_name": "eelektross-mega",
+          "form_name_cn": "超级麻麻鳗鱼王",
+          "stats": {
+            "hp": 85,
+            "attack": 145,
+            "defense": 80,
+            "sp_attack": 135,
+            "sp_defense": 90,
+            "speed": 80
+          },
+          "type1": "Electric",
+          "type2": null
+        }
+      ],
+      "ability1": "Levitate",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 609,
+      "name_cn": "水晶灯火灵",
+      "name_en": "Chandelure",
+      "type1": "Ghost",
+      "type2": "Fire",
+      "stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 90,
+        "sp_attack": 145,
+        "sp_defense": 90,
+        "speed": 80
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 623,
+      "name_cn": "泥偶巨人",
+      "name_en": "Golurk",
+      "type1": "Ground",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 89,
+        "attack": 124,
+        "defense": 80,
+        "sp_attack": 55,
+        "sp_defense": 80,
+        "speed": 55
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 635,
+      "name_cn": "三首恶龙",
+      "name_en": "Hydreigon",
+      "type1": "Dark",
+      "type2": "Dragon",
+      "stats": {
+        "hp": 92,
+        "attack": 105,
+        "defense": 90,
+        "sp_attack": 125,
+        "sp_defense": 90,
+        "speed": 98
+      },
+      "forms": [],
+      "ability1": "Levitate",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 637,
+      "name_cn": "火神蛾",
+      "name_en": "Volcarona",
+      "type1": "Bug",
+      "type2": "Fire",
+      "stats": {
+        "hp": 85,
+        "attack": 60,
+        "defense": 65,
+        "sp_attack": 135,
+        "sp_defense": 105,
+        "speed": 100
+      },
+      "forms": [],
+      "ability1": "FlameBody",
+      "ability2": null,
+      "hidden_ability": "Swarm"
+    },
+    {
+      "id": 652,
+      "name_cn": "布里卡隆",
+      "name_en": "Chesnaught",
+      "type1": "Grass",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 88,
+        "attack": 107,
+        "defense": 122,
+        "sp_attack": 74,
+        "sp_defense": 75,
+        "speed": 64
+      },
+      "forms": [
+        {
+          "form_name": "chesnaught-mega",
+          "form_name_cn": "超级布里卡隆",
+          "stats": {
+            "hp": 88,
+            "attack": 137,
+            "defense": 172,
+            "sp_attack": 74,
+            "sp_defense": 115,
+            "speed": 44
+          }
+        }
+      ],
+      "ability1": "Overgrow",
+      "ability2": null,
+      "hidden_ability": "Bulletproof"
+    },
+    {
+      "id": 655,
+      "name_cn": "妖火红狐",
+      "name_en": "Delphox",
+      "type1": "Fire",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 75,
+        "attack": 69,
+        "defense": 72,
+        "sp_attack": 114,
+        "sp_defense": 100,
+        "speed": 104
+      },
+      "forms": [
+        {
+          "form_name": "delphox-mega",
+          "form_name_cn": "超级妖火红狐",
+          "stats": {
+            "hp": 75,
+            "attack": 69,
+            "defense": 72,
+            "sp_attack": 159,
+            "sp_defense": 125,
+            "speed": 134
+          }
+        }
+      ],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "Magician"
+    },
+    {
+      "id": 658,
+      "name_cn": "甲贺忍蛙",
+      "name_en": "Greninja",
+      "type1": "Water",
+      "type2": "Dark",
+      "stats": {
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "sp_attack": 103,
+        "sp_defense": 71,
+        "speed": 122
+      },
+      "forms": [],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "Protean"
+    },
+    {
+      "id": 660,
+      "name_cn": "掘地兔",
+      "name_en": "Diggersby",
+      "type1": "Normal",
+      "type2": "Ground",
+      "stats": {
+        "hp": 85,
+        "attack": 56,
+        "defense": 77,
+        "sp_attack": 50,
+        "sp_defense": 77,
+        "speed": 78
+      },
+      "forms": [],
+      "ability1": "Pickup",
+      "ability2": "CheekPouch",
+      "hidden_ability": "HugePower"
+    },
+    {
+      "id": 663,
+      "name_cn": "烈箭鹰",
+      "name_en": "Talonflame",
+      "type1": "Fire",
+      "type2": "Flying",
+      "stats": {
+        "hp": 78,
+        "attack": 81,
+        "defense": 71,
+        "sp_attack": 74,
+        "sp_defense": 69,
+        "speed": 126
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 666,
+      "name_cn": "彩粉蝶",
+      "name_en": "Vivillon",
+      "type1": "Bug",
+      "type2": "Flying",
+      "stats": {
+        "hp": 80,
+        "attack": 52,
+        "defense": 50,
+        "sp_attack": 90,
+        "sp_defense": 50,
+        "speed": 89
+      },
+      "forms": [],
+      "ability1": "ShieldDust",
+      "ability2": "CompoundEyes",
+      "hidden_ability": "FriendGuard"
+    },
+    {
+      "id": 668,
+      "name_cn": "火炎狮",
+      "name_en": "Pyroar",
+      "type1": "Fire",
+      "type2": "Normal",
+      "stats": {
+        "hp": 86,
+        "attack": 68,
+        "defense": 72,
+        "sp_attack": 109,
+        "sp_defense": 66,
+        "speed": 106
+      },
+      "forms": [
+        {
+          "form_name": "pyroar-mega",
+          "form_name_cn": "超级火炎狮",
+          "stats": {
+            "hp": 86,
+            "attack": 88,
+            "defense": 92,
+            "sp_attack": 129,
+            "sp_defense": 86,
+            "speed": 126
+          },
+          "type1": "Fire",
+          "type2": "Normal"
+        }
+      ],
+      "ability1": "Rivalry",
+      "ability2": "Unnerve",
+      "hidden_ability": "Moxie"
+    },
+    {
+      "id": 670,
+      "name_cn": "花叶蒂",
+      "name_en": "Floette",
+      "type1": "Fairy",
+      "type2": null,
+      "stats": {
+        "hp": 54,
+        "attack": 45,
+        "defense": 47,
+        "sp_attack": 75,
+        "sp_defense": 98,
+        "speed": 52
+      },
+      "forms": [
+        {
+          "form_name": "floette-mega",
+          "form_name_cn": "超级花叶蒂",
+          "stats": {
+            "hp": 74,
+            "attack": 85,
+            "defense": 87,
+            "sp_attack": 155,
+            "sp_defense": 148,
+            "speed": 102
+          }
+        }
+      ],
+      "ability1": "FlowerVeil",
+      "ability2": null,
+      "hidden_ability": "Symbiosis"
+    },
+    {
+      "id": 678,
+      "name_cn": "超能妙喵",
+      "name_en": "Meowstic",
+      "type1": "Psychic",
+      "type2": null,
+      "stats": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "sp_attack": 83,
+        "sp_defense": 81,
+        "speed": 104
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 681,
+      "name_cn": "坚盾剑怪",
+      "name_en": "Aegislash",
+      "type1": "Steel",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 140,
+        "sp_attack": 50,
+        "sp_defense": 140,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "StanceChange",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 687,
+      "name_cn": "乌贼王",
+      "name_en": "Malamar",
+      "type1": "Dark",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 86,
+        "attack": 92,
+        "defense": 88,
+        "sp_attack": 68,
+        "sp_defense": 75,
+        "speed": 73
+      },
+      "forms": [
+        {
+          "form_name": "malamar-mega",
+          "form_name_cn": "超级乌贼王",
+          "stats": {
+            "hp": 86,
+            "attack": 102,
+            "defense": 88,
+            "sp_attack": 98,
+            "sp_defense": 120,
+            "speed": 88
+          },
+          "type1": "Dark",
+          "type2": "Psychic"
+        }
+      ],
+      "ability1": "Contrary",
+      "ability2": "SuctionCups",
+      "hidden_ability": "Infiltrator"
+    },
+    {
+      "id": 689,
+      "name_cn": "龟足巨铠",
+      "name_en": "Barbaracle",
+      "type1": "Rock",
+      "type2": "Water",
+      "stats": {
+        "hp": 72,
+        "attack": 105,
+        "defense": 115,
+        "sp_attack": 54,
+        "sp_defense": 86,
+        "speed": 68
+      },
+      "forms": [
+        {
+          "form_name": "barbaracle-mega",
+          "form_name_cn": "超级龟足巨铠",
+          "stats": {
+            "hp": 72,
+            "attack": 140,
+            "defense": 130,
+            "sp_attack": 64,
+            "sp_defense": 106,
+            "speed": 88
+          },
+          "type1": "Rock",
+          "type2": "Fighting"
+        }
+      ],
+      "ability1": "ToughClaws",
+      "ability2": "Sniper",
+      "hidden_ability": "Pickpocket"
+    },
+    {
+      "id": 691,
+      "name_cn": "毒藻龙",
+      "name_en": "Dragalge",
+      "type1": "Poison",
+      "type2": "Dragon",
+      "stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 90,
+        "sp_attack": 97,
+        "sp_defense": 123,
+        "speed": 44
+      },
+      "forms": [
+        {
+          "form_name": "dragalge-mega",
+          "form_name_cn": "超级毒藻龙",
+          "stats": {
+            "hp": 65,
+            "attack": 85,
+            "defense": 105,
+            "sp_attack": 132,
+            "sp_defense": 163,
+            "speed": 44
+          },
+          "type1": "Poison",
+          "type2": "Dragon"
+        }
+      ],
+      "ability1": "PoisonPoint",
+      "ability2": "PoisonTouch",
+      "hidden_ability": "Adaptability"
+    },
+    {
+      "id": 695,
+      "name_cn": "光电伞蜥",
+      "name_en": "Heliolisk",
+      "type1": "Electric",
+      "type2": "Normal",
+      "stats": {
+        "hp": 62,
+        "attack": 55,
+        "defense": 52,
+        "sp_attack": 109,
+        "sp_defense": 94,
+        "speed": 109
+      },
+      "forms": [],
+      "ability1": "DrySkin",
+      "ability2": "SandVeil",
+      "hidden_ability": "SolarPower"
+    },
+    {
+      "id": 700,
+      "name_cn": "仙子伊布",
+      "name_en": "Sylveon",
+      "type1": "Fairy",
+      "type2": null,
+      "stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 65,
+        "sp_attack": 110,
+        "sp_defense": 130,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "CuteCharm",
+      "ability2": null,
+      "hidden_ability": "Pixilate"
+    },
+    {
+      "id": 701,
+      "name_cn": "摔角鹰人",
+      "name_en": "Hawlucha",
+      "type1": "Fighting",
+      "type2": "Flying",
+      "stats": {
+        "hp": 78,
+        "attack": 92,
+        "defense": 75,
+        "sp_attack": 74,
+        "sp_defense": 63,
+        "speed": 118
+      },
+      "forms": [],
+      "ability1": "Limber",
+      "ability2": "Unburden",
+      "hidden_ability": "MoldBreaker"
+    },
+    {
+      "id": 707,
+      "name_cn": "钥圈儿",
+      "name_en": "Klefki",
+      "type1": "Steel",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 57,
+        "attack": 80,
+        "defense": 91,
+        "sp_attack": 80,
+        "sp_defense": 87,
+        "speed": 75
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 727,
+      "name_cn": "炽焰咆哮虎",
+      "name_en": "Incineroar",
+      "type1": "Fire",
+      "type2": "Dark",
+      "stats": {
+        "hp": 95,
+        "attack": 115,
+        "defense": 90,
+        "sp_attack": 80,
+        "sp_defense": 90,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "Intimidate"
+    },
+    {
+      "id": 730,
+      "name_cn": "西狮海壬",
+      "name_en": "Primarina",
+      "type1": "Water",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 80,
+        "attack": 74,
+        "defense": 74,
+        "sp_attack": 126,
+        "sp_defense": 116,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "LiquidVoice"
+    },
+    {
+      "id": 733,
+      "name_cn": "铳嘴大鸟",
+      "name_en": "Toucannon",
+      "type1": "Normal",
+      "type2": "Flying",
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 75,
+        "sp_attack": 75,
+        "sp_defense": 75,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "KeenEye",
+      "ability2": "SkillLink",
+      "hidden_ability": "SheerForce"
+    },
+    {
+      "id": 740,
+      "name_cn": "好胜毛蟹",
+      "name_en": "Crabominable",
+      "type1": "Fighting",
+      "type2": "Ice",
+      "stats": {
+        "hp": 97,
+        "attack": 132,
+        "defense": 77,
+        "sp_attack": 62,
+        "sp_defense": 67,
+        "speed": 43
+      },
+      "forms": [],
+      "ability1": "HyperCutter",
+      "ability2": "IronFist",
+      "hidden_ability": "AngerPoint"
+    },
+    {
+      "id": 745,
+      "name_cn": "鬃岩狼人",
+      "name_en": "Lycanroc",
+      "type1": "Rock",
+      "type2": null,
+      "stats": {
+        "hp": 75,
+        "attack": 115,
+        "defense": 65,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 112
+      },
+      "forms": [
+        {
+          "form_name": "lycanroc-midnight",
+          "form_name_cn": "鬃岩狼人(黑夜)",
+          "stats": {
+            "hp": 85,
+            "attack": 115,
+            "defense": 75,
+            "sp_attack": 55,
+            "sp_defense": 75,
+            "speed": 82
+          },
+          "type1": "Rock",
+          "type2": null
+        },
+        {
+          "form_name": "lycanroc-dusk",
+          "form_name_cn": "鬃岩狼人(黄昏)",
+          "stats": {
+            "hp": 75,
+            "attack": 117,
+            "defense": 65,
+            "sp_attack": 55,
+            "sp_defense": 65,
+            "speed": 110
+          },
+          "type1": "Rock",
+          "type2": null
+        }
+      ],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 748,
+      "name_cn": "超坏星",
+      "name_en": "Toxapex",
+      "type1": "Poison",
+      "type2": "Water",
+      "stats": {
+        "hp": 50,
+        "attack": 63,
+        "defense": 152,
+        "sp_attack": 53,
+        "sp_defense": 142,
+        "speed": 35
+      },
+      "forms": [],
+      "ability1": "Merciless",
+      "ability2": "Limber",
+      "hidden_ability": "Regenerator"
+    },
+    {
+      "id": 750,
+      "name_cn": "重泥挽马",
+      "name_en": "Mudsdale",
+      "type1": "Ground",
+      "type2": null,
+      "stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 100,
+        "sp_attack": 55,
+        "sp_defense": 85,
+        "speed": 35
+      },
+      "forms": [],
+      "ability1": "OwnTempo",
+      "ability2": "Stamina",
+      "hidden_ability": "InnerFocus"
+    },
+    {
+      "id": 752,
+      "name_cn": "滴蛛霸",
+      "name_en": "Araquanid",
+      "type1": "Water",
+      "type2": "Bug",
+      "stats": {
+        "hp": 68,
+        "attack": 70,
+        "defense": 92,
+        "sp_attack": 50,
+        "sp_defense": 132,
+        "speed": 42
+      },
+      "forms": [],
+      "ability1": "WaterBubble",
+      "ability2": null,
+      "hidden_ability": "WaterAbsorb"
+    },
+    {
+      "id": 763,
+      "name_cn": "甜冷美后",
+      "name_en": "Tsareena",
+      "type1": "Grass",
+      "type2": null,
+      "stats": {
+        "hp": 72,
+        "attack": 120,
+        "defense": 98,
+        "sp_attack": 50,
+        "sp_defense": 98,
+        "speed": 72
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 778,
+      "name_cn": "谜拟Ｑ",
+      "name_en": "Mimikyu",
+      "type1": "Ghost",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 105,
+        "speed": 96
+      },
+      "forms": [],
+      "ability1": "Disguise",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 780,
+      "name_cn": "老翁龙",
+      "name_en": "Drampa",
+      "type1": "Normal",
+      "type2": "Dragon",
+      "stats": {
+        "hp": 78,
+        "attack": 60,
+        "defense": 85,
+        "sp_attack": 135,
+        "sp_defense": 91,
+        "speed": 36
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 784,
+      "name_cn": "杖尾鳞甲龙",
+      "name_en": "Kommo-o",
+      "type1": "Dragon",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "sp_attack": 100,
+        "sp_defense": 105,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 823,
+      "name_cn": "钢铠鸦",
+      "name_en": "Corviknight",
+      "type1": "Flying",
+      "type2": "Steel",
+      "stats": {
+        "hp": 98,
+        "attack": 87,
+        "defense": 105,
+        "sp_attack": 53,
+        "sp_defense": 85,
+        "speed": 67
+      },
+      "forms": [],
+      "ability1": "Pressure",
+      "ability2": "Unnerve",
+      "hidden_ability": "MirrorArmor"
+    },
+    {
+      "id": 855,
+      "name_cn": "怖思壶",
+      "name_en": "Polteageist",
+      "type1": "Ghost",
+      "type2": null,
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 65,
+        "sp_attack": 134,
+        "sp_defense": 114,
+        "speed": 70
+      },
+      "forms": [],
+      "ability1": "WeakArmor",
+      "ability2": null,
+      "hidden_ability": "CursedBody"
+    },
+    {
+      "id": 858,
+      "name_cn": "布莉姆温",
+      "name_en": "Hatterene",
+      "type1": "Psychic",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 57,
+        "attack": 90,
+        "defense": 95,
+        "sp_attack": 136,
+        "sp_defense": 103,
+        "speed": 29
+      },
+      "forms": [],
+      "ability1": "Healer",
+      "ability2": "Anticipation",
+      "hidden_ability": "MagicBounce"
+    },
+    {
+      "id": 861,
+      "name_cn": "长毛巨魔",
+      "name_en": "Grimmsnarl",
+      "type1": "Dark",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 95,
+        "attack": 120,
+        "defense": 65,
+        "sp_attack": 95,
+        "sp_defense": 75,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": "Prankster",
+      "ability2": "Frisk",
+      "hidden_ability": "Pickpocket"
+    },
+    {
+      "id": 870,
+      "name_cn": "列阵兵",
+      "name_en": "Falinks",
+      "type1": "Fighting",
+      "type2": null,
+      "stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 100,
+        "sp_attack": 70,
+        "sp_defense": 60,
+        "speed": 75
+      },
+      "forms": [
+        {
+          "form_name": "falinks-mega",
+          "form_name_cn": "超级列阵兵",
+          "stats": {
+            "hp": 65,
+            "attack": 135,
+            "defense": 135,
+            "sp_attack": 70,
+            "sp_defense": 65,
+            "speed": 100
+          },
+          "type1": "Fighting",
+          "type2": null
+        }
+      ],
+      "ability1": "BattleArmor",
+      "ability2": null,
+      "hidden_ability": "Defiant"
+    },
+    {
+      "id": 877,
+      "name_cn": "莫鲁贝可",
+      "name_en": "Morpeko",
+      "type1": "Electric",
+      "type2": "Dark",
+      "stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 58,
+        "sp_attack": 70,
+        "sp_defense": 58,
+        "speed": 97
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 887,
+      "name_cn": "多龙巴鲁托",
+      "name_en": "Dragapult",
+      "type1": "Dragon",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 88,
+        "attack": 120,
+        "defense": 75,
+        "sp_attack": 100,
+        "sp_defense": 75,
+        "speed": 142
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 900,
+      "name_cn": "劈斧螳螂",
+      "name_en": "Kleavor",
+      "type1": "Bug",
+      "type2": "Rock",
+      "stats": {
+        "hp": 70,
+        "attack": 135,
+        "defense": 95,
+        "sp_attack": 45,
+        "sp_defense": 70,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 902,
+      "name_cn": "幽尾玄鱼",
+      "name_en": "Basculegion",
+      "type1": "Water",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 120,
+        "attack": 112,
+        "defense": 65,
+        "sp_attack": 80,
+        "sp_defense": 75,
+        "speed": 78
+      },
+      "forms": [],
+      "ability1": "SwiftSwim",
+      "ability2": "Adaptability",
+      "hidden_ability": "MoldBreaker"
+    },
+    {
+      "id": 903,
+      "name_cn": "大狃拉(洗翠)",
+      "name_en": "Sneasler",
+      "type1": "Fighting",
+      "type2": "Poison",
+      "stats": {
+        "hp": 80,
+        "attack": 130,
+        "defense": 60,
+        "sp_attack": 40,
+        "sp_defense": 80,
+        "speed": 120
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 904,
+      "name_cn": "万针鱼",
+      "name_en": "Overqwil",
+      "type1": "Dark",
+      "type2": "Poison",
+      "stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 95,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": "PoisonPoint",
+      "ability2": "SwiftSwim",
+      "hidden_ability": "Intimidate"
+    },
+    {
+      "id": 908,
+      "name_cn": "魔幻假面喵",
+      "name_en": "Meowscarada",
+      "type1": "Grass",
+      "type2": "Dark",
+      "stats": {
+        "hp": 76,
+        "attack": 110,
+        "defense": 70,
+        "sp_attack": 81,
+        "sp_defense": 70,
+        "speed": 123
+      },
+      "forms": [],
+      "ability1": "Overgrow",
+      "ability2": null,
+      "hidden_ability": "Protean"
+    },
+    {
+      "id": 911,
+      "name_cn": "骨纹巨声鳄",
+      "name_en": "Skeledirge",
+      "type1": "Fire",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 104,
+        "attack": 75,
+        "defense": 100,
+        "sp_attack": 110,
+        "sp_defense": 75,
+        "speed": 66
+      },
+      "forms": [],
+      "ability1": "Blaze",
+      "ability2": null,
+      "hidden_ability": "Unaware"
+    },
+    {
+      "id": 914,
+      "name_cn": "狂欢浪舞鸭",
+      "name_en": "Quaquaval",
+      "type1": "Water",
+      "type2": "Fighting",
+      "stats": {
+        "hp": 85,
+        "attack": 120,
+        "defense": 80,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": "Torrent",
+      "ability2": null,
+      "hidden_ability": "Moxie"
+    },
+    {
+      "id": 925,
+      "name_cn": "一家鼠",
+      "name_en": "Maushold",
+      "type1": "Normal",
+      "type2": null,
+      "stats": {
+        "hp": 74,
+        "attack": 75,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 75,
+        "speed": 111
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 934,
+      "name_cn": "盐石巨灵",
+      "name_en": "Garganacl",
+      "type1": "Rock",
+      "type2": null,
+      "stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 130,
+        "sp_attack": 45,
+        "sp_defense": 90,
+        "speed": 35
+      },
+      "forms": [],
+      "ability1": "PurifyingSalt",
+      "ability2": "Sturdy",
+      "hidden_ability": "ClearBody"
+    },
+    {
+      "id": 936,
+      "name_cn": "红莲铠骑",
+      "name_en": "Armarouge",
+      "type1": "Fire",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 85,
+        "attack": 60,
+        "defense": 100,
+        "sp_attack": 125,
+        "sp_defense": 80,
+        "speed": 75
+      },
+      "forms": [],
+      "ability1": "FlashFire",
+      "ability2": null,
+      "hidden_ability": "WeakArmor"
+    },
+    {
+      "id": 937,
+      "name_cn": "苍炎刃鬼",
+      "name_en": "Ceruledge",
+      "type1": "Fire",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 80,
+        "sp_attack": 60,
+        "sp_defense": 100,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": "FlashFire",
+      "ability2": null,
+      "hidden_ability": "WeakArmor"
+    },
+    {
+      "id": 939,
+      "name_cn": "电肚蛙",
+      "name_en": "Bellibolt",
+      "type1": "Electric",
+      "type2": null,
+      "stats": {
+        "hp": 109,
+        "attack": 64,
+        "defense": 91,
+        "sp_attack": 103,
+        "sp_defense": 83,
+        "speed": 45
+      },
+      "forms": [],
+      "ability1": "Electromorphosis",
+      "ability2": "Static",
+      "hidden_ability": "Damp"
+    },
+    {
+      "id": 952,
+      "name_cn": "狠辣椒",
+      "name_en": "Scovillain",
+      "type1": "Grass",
+      "type2": "Fire",
+      "stats": {
+        "hp": 65,
+        "attack": 108,
+        "defense": 65,
+        "sp_attack": 108,
+        "sp_defense": 65,
+        "speed": 75
+      },
+      "forms": [],
+      "ability1": "Chlorophyll",
+      "ability2": "Insomnia",
+      "hidden_ability": "Moody"
+    },
+    {
+      "id": 956,
+      "name_cn": "超能艳鸵",
+      "name_en": "Espathra",
+      "type1": "Psychic",
+      "type2": null,
+      "stats": {
+        "hp": 95,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 101,
+        "sp_defense": 60,
+        "speed": 105
+      },
+      "forms": [],
+      "ability1": "Opportunist",
+      "ability2": "Frisk",
+      "hidden_ability": "SpeedBoost"
+    },
+    {
+      "id": 959,
+      "name_cn": "巨锻匠",
+      "name_en": "Tinkaton",
+      "type1": "Fairy",
+      "type2": "Steel",
+      "stats": {
+        "hp": 85,
+        "attack": 75,
+        "defense": 77,
+        "sp_attack": 70,
+        "sp_defense": 105,
+        "speed": 94
+      },
+      "forms": [],
+      "ability1": "MoldBreaker",
+      "ability2": "OwnTempo",
+      "hidden_ability": "Pickpocket"
+    },
+    {
+      "id": 964,
+      "name_cn": "海豚侠",
+      "name_en": "Palafin",
+      "type1": "Water",
+      "type2": null,
+      "stats": {
+        "hp": 100,
+        "attack": 70,
+        "defense": 72,
+        "sp_attack": 53,
+        "sp_defense": 62,
+        "speed": 100
+      },
+      "forms": [],
+      "ability1": "ZeroToHero",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 968,
+      "name_cn": "拖拖蚓",
+      "name_en": "Orthworm",
+      "type1": "Steel",
+      "type2": null,
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 145,
+        "sp_attack": 60,
+        "sp_defense": 55,
+        "speed": 65
+      },
+      "forms": [],
+      "ability1": "EarthEater",
+      "ability2": null,
+      "hidden_ability": "SandVeil"
+    },
+    {
+      "id": 970,
+      "name_cn": "晶光花",
+      "name_en": "Glimmora",
+      "type1": "Rock",
+      "type2": "Poison",
+      "stats": {
+        "hp": 83,
+        "attack": 55,
+        "defense": 90,
+        "sp_attack": 130,
+        "sp_defense": 81,
+        "speed": 86
+      },
+      "forms": [],
+      "ability1": "ToxicDebris",
+      "ability2": null,
+      "hidden_ability": "Corrosion"
+    },
+    {
+      "id": 972,
+      "name_cn": "墓扬犬",
+      "name_en": "Houndstone",
+      "type1": "Ghost",
+      "type2": null,
+      "stats": {
+        "hp": 72,
+        "attack": 101,
+        "defense": 100,
+        "sp_attack": 50,
+        "sp_defense": 97,
+        "speed": 68
+      },
+      "forms": [],
+      "ability1": "SandRush",
+      "ability2": null,
+      "hidden_ability": "Fluffy"
+    },
+    {
+      "id": 979,
+      "name_cn": "弃世猴",
+      "name_en": "Annihilape",
+      "type1": "Fighting",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 110,
+        "attack": 115,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 90,
+        "speed": 90
+      },
+      "forms": [],
+      "ability1": "VitalSpirit",
+      "ability2": "InnerFocus",
+      "hidden_ability": "Defiant"
+    },
+    {
+      "id": 981,
+      "name_cn": "奇麒麟",
+      "name_en": "Farigiraf",
+      "type1": "Normal",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 120,
+        "attack": 90,
+        "defense": 70,
+        "sp_attack": 110,
+        "sp_defense": 70,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 983,
+      "name_cn": "仆刀将军",
+      "name_en": "Kingambit",
+      "type1": "Dark",
+      "type2": "Steel",
+      "stats": {
+        "hp": 100,
+        "attack": 135,
+        "defense": 120,
+        "sp_attack": 60,
+        "sp_defense": 85,
+        "speed": 50
+      },
+      "forms": [],
+      "ability1": "Defiant",
+      "ability2": "SupremeOverlord",
+      "hidden_ability": "Pressure"
+    },
+    {
+      "id": 1000,
+      "name_cn": "赛富豪",
+      "name_en": "Gholdengo",
+      "type1": "Steel",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 87,
+        "attack": 60,
+        "defense": 95,
+        "sp_attack": 133,
+        "sp_defense": 91,
+        "speed": 84
+      },
+      "forms": [],
+      "ability1": "GoodAsGold",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1013,
+      "name_cn": "来悲粗茶",
+      "name_en": "Sinistcha",
+      "type1": "Grass",
+      "type2": "Ghost",
+      "stats": {
+        "hp": 71,
+        "attack": 60,
+        "defense": 106,
+        "sp_attack": 121,
+        "sp_defense": 80,
+        "speed": 70
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1018,
+      "name_cn": "铝钢桥龙",
+      "name_en": "Archaludon",
+      "type1": "Steel",
+      "type2": "Dragon",
+      "stats": {
+        "hp": 90,
+        "attack": 105,
+        "defense": 130,
+        "sp_attack": 125,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": "Stamina",
+      "ability2": "Sturdy",
+      "hidden_ability": "Stalwart"
+    },
+    {
+      "id": 1024,
+      "name_cn": "洗翠大剑鬼",
+      "name_en": "Hisuian Samurott",
+      "type1": "Water",
+      "type2": "Dark",
+      "stats": {
+        "hp": 90,
+        "attack": 108,
+        "defense": 80,
+        "sp_attack": 100,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "forms": [],
+      "ability1": "TeraShift",
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1026,
+      "name_cn": "伽勒尔呆呆王",
+      "name_en": "Galarian Slowking",
+      "type1": "Poison",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 110,
+        "sp_attack": 125,
+        "sp_defense": 80,
+        "speed": 45
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1027,
+      "name_cn": "洗翠索罗亚克",
+      "name_en": "Hisuian Zoroark",
+      "type1": "Psychic",
+      "type2": "Dark",
+      "stats": {
+        "hp": 75,
+        "attack": 115,
+        "defense": 60,
+        "sp_attack": 125,
+        "sp_defense": 60,
+        "speed": 110
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1028,
+      "name_cn": "洗翠风速狗",
+      "name_en": "Hisuian Arcanine",
+      "type1": "Fire",
+      "type2": "Rock",
+      "stats": {
+        "hp": 95,
+        "attack": 115,
+        "defense": 80,
+        "sp_attack": 95,
+        "sp_defense": 80,
+        "speed": 90
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1029,
+      "name_cn": "洗翠黏美龙",
+      "name_en": "Hisuian Goodra",
+      "type1": "Steel",
+      "type2": "Dragon",
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 100,
+        "sp_attack": 110,
+        "sp_defense": 150,
+        "speed": 60
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1030,
+      "name_cn": "阿罗拉九尾",
+      "name_en": "Alolan Ninetales",
+      "type1": "Ice",
+      "type2": "Fairy",
+      "stats": {
+        "hp": 73,
+        "attack": 67,
+        "defense": 75,
+        "sp_attack": 81,
+        "sp_defense": 100,
+        "speed": 109
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1031,
+      "name_cn": "呆壳兽",
+      "name_en": "Galarian Slowbro",
+      "type1": "Poison",
+      "type2": "Psychic",
+      "stats": {
+        "hp": 95,
+        "attack": 100,
+        "defense": 95,
+        "sp_attack": 100,
+        "sp_defense": 70,
+        "speed": 30
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1032,
+      "name_cn": "加热洛托姆",
+      "name_en": "Heat Rotom",
+      "type1": "Fire",
+      "type2": "Flying",
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    },
+    {
+      "id": 1033,
+      "name_cn": "清洗洛托姆",
+      "name_en": "Wash Rotom",
+      "type1": "Water",
+      "type2": "Flying",
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "forms": [],
+      "ability1": null,
+      "ability2": null,
+      "hidden_ability": null
+    }
+  ]
+}

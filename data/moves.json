@@ -1,0 +1,4712 @@
+[
+  {
+    "name_cn": "超极巨地狱灭焰",
+    "name_en": "G-Max Wildfire",
+    "type": "火"
+  },
+  {
+    "name_cn": "拍击",
+    "name_en": "Pound",
+    "type": "一般"
+  },
+  {
+    "name_cn": "空手劈",
+    "name_en": "Karate Chop",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "连环巴掌",
+    "name_en": "Double Slap",
+    "type": "一般"
+  },
+  {
+    "name_cn": "连续拳",
+    "name_en": "Comet Punch",
+    "type": "一般"
+  },
+  {
+    "name_cn": "百万吨重拳",
+    "name_en": "Mega Punch",
+    "type": "一般"
+  },
+  {
+    "name_cn": "聚宝功",
+    "name_en": "Pay Day",
+    "type": "一般"
+  },
+  {
+    "name_cn": "火焰拳",
+    "name_en": "Fire Punch",
+    "type": "火"
+  },
+  {
+    "name_cn": "冰冻拳",
+    "name_en": "Ice Punch",
+    "type": "冰"
+  },
+  {
+    "name_cn": "雷电拳",
+    "name_en": "Thunder Punch",
+    "type": "电"
+  },
+  {
+    "name_cn": "抓",
+    "name_en": "Scratch",
+    "type": "一般"
+  },
+  {
+    "name_cn": "夹住",
+    "name_en": "Vise Grip",
+    "type": "一般"
+  },
+  {
+    "name_cn": "断头钳",
+    "name_en": "Guillotine",
+    "type": "一般"
+  },
+  {
+    "name_cn": "旋风刀",
+    "name_en": "Razor Wind",
+    "type": "一般"
+  },
+  {
+    "name_cn": "剑舞",
+    "name_en": "Swords Dance",
+    "type": "一般"
+  },
+  {
+    "name_cn": "居合斩",
+    "name_en": "Cut",
+    "type": "一般"
+  },
+  {
+    "name_cn": "起风",
+    "name_en": "Gust",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "翅膀攻击",
+    "name_en": "Wing Attack",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "吹飞",
+    "name_en": "Whirlwind",
+    "type": "一般"
+  },
+  {
+    "name_cn": "飞翔",
+    "name_en": "Fly",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "绑紧",
+    "name_en": "Bind",
+    "type": "一般"
+  },
+  {
+    "name_cn": "摔打",
+    "name_en": "Slam",
+    "type": "一般"
+  },
+  {
+    "name_cn": "藤鞭",
+    "name_en": "Vine Whip",
+    "type": "草"
+  },
+  {
+    "name_cn": "踩踏",
+    "name_en": "Stomp",
+    "type": "一般"
+  },
+  {
+    "name_cn": "二连踢",
+    "name_en": "Double Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "百万吨重踢",
+    "name_en": "Mega Kick",
+    "type": "一般"
+  },
+  {
+    "name_cn": "飞踢",
+    "name_en": "Jump Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "回旋踢",
+    "name_en": "Rolling Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "泼沙",
+    "name_en": "Sand Attack",
+    "type": "地面"
+  },
+  {
+    "name_cn": "头锤",
+    "name_en": "Headbutt",
+    "type": "一般"
+  },
+  {
+    "name_cn": "角撞",
+    "name_en": "Horn Attack",
+    "type": "一般"
+  },
+  {
+    "name_cn": "乱击",
+    "name_en": "Fury Attack",
+    "type": "一般"
+  },
+  {
+    "name_cn": "角钻",
+    "name_en": "Horn Drill",
+    "type": "一般"
+  },
+  {
+    "name_cn": "撞击",
+    "name_en": "Tackle",
+    "type": "一般"
+  },
+  {
+    "name_cn": "泰山压顶",
+    "name_en": "Body Slam",
+    "type": "一般"
+  },
+  {
+    "name_cn": "紧束",
+    "name_en": "Wrap",
+    "type": "一般"
+  },
+  {
+    "name_cn": "猛撞",
+    "name_en": "Take Down",
+    "type": "一般"
+  },
+  {
+    "name_cn": "大闹一番",
+    "name_en": "Thrash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "舍身冲撞",
+    "name_en": "Double-Edge",
+    "type": "一般"
+  },
+  {
+    "name_cn": "摇尾巴",
+    "name_en": "Tail Whip",
+    "type": "一般"
+  },
+  {
+    "name_cn": "毒针",
+    "name_en": "Poison Sting",
+    "type": "毒"
+  },
+  {
+    "name_cn": "双针",
+    "name_en": "Twineedle",
+    "type": "虫"
+  },
+  {
+    "name_cn": "飞弹针",
+    "name_en": "Pin Missile",
+    "type": "虫"
+  },
+  {
+    "name_cn": "瞪眼",
+    "name_en": "Leer",
+    "type": "一般"
+  },
+  {
+    "name_cn": "咬住",
+    "name_en": "Bite",
+    "type": "恶"
+  },
+  {
+    "name_cn": "叫声",
+    "name_en": "Growl",
+    "type": "一般"
+  },
+  {
+    "name_cn": "吼叫",
+    "name_en": "Roar",
+    "type": "一般"
+  },
+  {
+    "name_cn": "唱歌",
+    "name_en": "Sing",
+    "type": "一般"
+  },
+  {
+    "name_cn": "超音波",
+    "name_en": "Supersonic",
+    "type": "一般"
+  },
+  {
+    "name_cn": "音爆",
+    "name_en": "Sonic Boom",
+    "type": "一般"
+  },
+  {
+    "name_cn": "定身法",
+    "name_en": "Disable",
+    "type": "一般"
+  },
+  {
+    "name_cn": "溶解液",
+    "name_en": "Acid",
+    "type": "毒"
+  },
+  {
+    "name_cn": "火花",
+    "name_en": "Ember",
+    "type": "火"
+  },
+  {
+    "name_cn": "喷射火焰",
+    "name_en": "Flamethrower",
+    "type": "火"
+  },
+  {
+    "name_cn": "白雾",
+    "name_en": "Mist",
+    "type": "冰"
+  },
+  {
+    "name_cn": "水枪",
+    "name_en": "Water Gun",
+    "type": "水"
+  },
+  {
+    "name_cn": "水炮",
+    "name_en": "Hydro Pump",
+    "type": "水"
+  },
+  {
+    "name_cn": "冲浪",
+    "name_en": "Surf",
+    "type": "水"
+  },
+  {
+    "name_cn": "冰冻光束",
+    "name_en": "Ice Beam",
+    "type": "冰"
+  },
+  {
+    "name_cn": "暴风雪",
+    "name_en": "Blizzard",
+    "type": "冰"
+  },
+  {
+    "name_cn": "幻象光线",
+    "name_en": "Psybeam",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "泡沫光线",
+    "name_en": "Bubble Beam",
+    "type": "水"
+  },
+  {
+    "name_cn": "极光束",
+    "name_en": "Aurora Beam",
+    "type": "冰"
+  },
+  {
+    "name_cn": "破坏光线",
+    "name_en": "Hyper Beam",
+    "type": "一般"
+  },
+  {
+    "name_cn": "啄",
+    "name_en": "Peck",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "啄钻",
+    "name_en": "Drill Peck",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "地狱翻滚",
+    "name_en": "Submission",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "踢倒",
+    "name_en": "Low Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "双倍奉还",
+    "name_en": "Counter",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "地球上投",
+    "name_en": "Seismic Toss",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "怪力",
+    "name_en": "Strength",
+    "type": "一般"
+  },
+  {
+    "name_cn": "吸取",
+    "name_en": "Absorb",
+    "type": "草"
+  },
+  {
+    "name_cn": "超级吸取",
+    "name_en": "Mega Drain",
+    "type": "草"
+  },
+  {
+    "name_cn": "寄生种子",
+    "name_en": "Leech Seed",
+    "type": "草"
+  },
+  {
+    "name_cn": "生长",
+    "name_en": "Growth",
+    "type": "草"
+  },
+  {
+    "name_cn": "飞叶快刀",
+    "name_en": "Razor Leaf",
+    "type": "草"
+  },
+  {
+    "name_cn": "日光束",
+    "name_en": "Solar Beam",
+    "type": "草"
+  },
+  {
+    "name_cn": "毒粉",
+    "name_en": "Poison Powder",
+    "type": "毒"
+  },
+  {
+    "name_cn": "麻痹粉",
+    "name_en": "Stun Spore",
+    "type": "草"
+  },
+  {
+    "name_cn": "催眠粉",
+    "name_en": "Sleep Powder",
+    "type": "草"
+  },
+  {
+    "name_cn": "花瓣舞",
+    "name_en": "Petal Dance",
+    "type": "草"
+  },
+  {
+    "name_cn": "吐丝",
+    "name_en": "String Shot",
+    "type": "虫"
+  },
+  {
+    "name_cn": "龙之怒",
+    "name_en": "Dragon Rage",
+    "type": "龙"
+  },
+  {
+    "name_cn": "火焰旋涡",
+    "name_en": "Fire Spin",
+    "type": "火"
+  },
+  {
+    "name_cn": "电击",
+    "name_en": "Thunder Shock",
+    "type": "电"
+  },
+  {
+    "name_cn": "十万伏特",
+    "name_en": "Thunderbolt",
+    "type": "电"
+  },
+  {
+    "name_cn": "电磁波",
+    "name_en": "Thunder Wave",
+    "type": "电"
+  },
+  {
+    "name_cn": "打雷",
+    "name_en": "Thunder",
+    "type": "电"
+  },
+  {
+    "name_cn": "落石",
+    "name_en": "Rock Throw",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "地震",
+    "name_en": "Earthquake",
+    "type": "地面"
+  },
+  {
+    "name_cn": "地裂",
+    "name_en": "Fissure",
+    "type": "地面"
+  },
+  {
+    "name_cn": "挖洞",
+    "name_en": "Dig",
+    "type": "地面"
+  },
+  {
+    "name_cn": "剧毒",
+    "name_en": "Toxic",
+    "type": "毒"
+  },
+  {
+    "name_cn": "念力",
+    "name_en": "Confusion",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "精神强念",
+    "name_en": "Psychic",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "催眠术",
+    "name_en": "Hypnosis",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "瑜伽姿势",
+    "name_en": "Meditate",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "高速移动",
+    "name_en": "Agility",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "电光一闪",
+    "name_en": "Quick Attack",
+    "type": "一般"
+  },
+  {
+    "name_cn": "愤怒",
+    "name_en": "Rage",
+    "type": "一般"
+  },
+  {
+    "name_cn": "瞬间移动",
+    "name_en": "Teleport",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "黑夜魔影",
+    "name_en": "Night Shade",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "模仿",
+    "name_en": "Mimic",
+    "type": "一般"
+  },
+  {
+    "name_cn": "刺耳声",
+    "name_en": "Screech",
+    "type": "一般"
+  },
+  {
+    "name_cn": "影子分身",
+    "name_en": "Double Team",
+    "type": "一般"
+  },
+  {
+    "name_cn": "自我再生",
+    "name_en": "Recover",
+    "type": "一般"
+  },
+  {
+    "name_cn": "变硬",
+    "name_en": "Harden",
+    "type": "一般"
+  },
+  {
+    "name_cn": "变小",
+    "name_en": "Minimize",
+    "type": "一般"
+  },
+  {
+    "name_cn": "烟幕",
+    "name_en": "Smokescreen",
+    "type": "一般"
+  },
+  {
+    "name_cn": "奇异之光",
+    "name_en": "Confuse Ray",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "缩入壳中",
+    "name_en": "Withdraw",
+    "type": "水"
+  },
+  {
+    "name_cn": "变圆",
+    "name_en": "Defense Curl",
+    "type": "一般"
+  },
+  {
+    "name_cn": "屏障",
+    "name_en": "Barrier",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "光墙",
+    "name_en": "Light Screen",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "黑雾",
+    "name_en": "Haze",
+    "type": "冰"
+  },
+  {
+    "name_cn": "反射壁",
+    "name_en": "Reflect",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "聚气",
+    "name_en": "Focus Energy",
+    "type": "一般"
+  },
+  {
+    "name_cn": "忍耐",
+    "name_en": "Bide",
+    "type": "一般"
+  },
+  {
+    "name_cn": "挥指",
+    "name_en": "Metronome",
+    "type": "一般"
+  },
+  {
+    "name_cn": "鹦鹉学舌",
+    "name_en": "Mirror Move",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "自爆",
+    "name_en": "Self-Destruct",
+    "type": "一般"
+  },
+  {
+    "name_cn": "炸蛋",
+    "name_en": "Egg Bomb",
+    "type": "一般"
+  },
+  {
+    "name_cn": "舌舔",
+    "name_en": "Lick",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "浊雾",
+    "name_en": "Smog",
+    "type": "毒"
+  },
+  {
+    "name_cn": "污泥攻击",
+    "name_en": "Sludge",
+    "type": "毒"
+  },
+  {
+    "name_cn": "骨棒",
+    "name_en": "Bone Club",
+    "type": "地面"
+  },
+  {
+    "name_cn": "大字爆炎",
+    "name_en": "Fire Blast",
+    "type": "火"
+  },
+  {
+    "name_cn": "攀瀑",
+    "name_en": "Waterfall",
+    "type": "水"
+  },
+  {
+    "name_cn": "贝壳夹击",
+    "name_en": "Clamp",
+    "type": "水"
+  },
+  {
+    "name_cn": "高速星星",
+    "name_en": "Swift",
+    "type": "一般"
+  },
+  {
+    "name_cn": "火箭头锤",
+    "name_en": "Skull Bash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "尖刺加农炮",
+    "name_en": "Spike Cannon",
+    "type": "一般"
+  },
+  {
+    "name_cn": "缠绕",
+    "name_en": "Constrict",
+    "type": "一般"
+  },
+  {
+    "name_cn": "瞬间失忆",
+    "name_en": "Amnesia",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "折弯汤匙",
+    "name_en": "Kinesis",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "生蛋",
+    "name_en": "Soft-Boiled",
+    "type": "一般"
+  },
+  {
+    "name_cn": "飞膝踢",
+    "name_en": "High Jump Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "大蛇瞪眼",
+    "name_en": "Glare",
+    "type": "一般"
+  },
+  {
+    "name_cn": "食梦",
+    "name_en": "Dream Eater",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "毒瓦斯",
+    "name_en": "Poison Gas",
+    "type": "毒"
+  },
+  {
+    "name_cn": "投球",
+    "name_en": "Barrage",
+    "type": "一般"
+  },
+  {
+    "name_cn": "吸血",
+    "name_en": "Leech Life",
+    "type": "虫"
+  },
+  {
+    "name_cn": "恶魔之吻",
+    "name_en": "Lovely Kiss",
+    "type": "一般"
+  },
+  {
+    "name_cn": "神鸟猛击",
+    "name_en": "Sky Attack",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "变身",
+    "name_en": "Transform",
+    "type": "一般"
+  },
+  {
+    "name_cn": "泡沫",
+    "name_en": "Bubble",
+    "type": "水"
+  },
+  {
+    "name_cn": "迷昏拳",
+    "name_en": "Dizzy Punch",
+    "type": "一般"
+  },
+  {
+    "name_cn": "蘑菇孢子",
+    "name_en": "Spore",
+    "type": "草"
+  },
+  {
+    "name_cn": "闪光",
+    "name_en": "Flash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "精神波",
+    "name_en": "Psywave",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "跃起",
+    "name_en": "Splash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "溶化",
+    "name_en": "Acid Armor",
+    "type": "毒"
+  },
+  {
+    "name_cn": "蟹钳锤",
+    "name_en": "Crabhammer",
+    "type": "水"
+  },
+  {
+    "name_cn": "大爆炸",
+    "name_en": "Explosion",
+    "type": "一般"
+  },
+  {
+    "name_cn": "乱抓",
+    "name_en": "Fury Swipes",
+    "type": "一般"
+  },
+  {
+    "name_cn": "骨头回力镖",
+    "name_en": "Bonemerang",
+    "type": "地面"
+  },
+  {
+    "name_cn": "睡觉",
+    "name_en": "Rest",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "岩崩",
+    "name_en": "Rock Slide",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "必杀门牙",
+    "name_en": "Hyper Fang",
+    "type": "一般"
+  },
+  {
+    "name_cn": "棱角化",
+    "name_en": "Sharpen",
+    "type": "一般"
+  },
+  {
+    "name_cn": "纹理",
+    "name_en": "Conversion",
+    "type": "一般"
+  },
+  {
+    "name_cn": "三重攻击",
+    "name_en": "Tri Attack",
+    "type": "一般"
+  },
+  {
+    "name_cn": "愤怒门牙",
+    "name_en": "Super Fang",
+    "type": "一般"
+  },
+  {
+    "name_cn": "劈开",
+    "name_en": "Slash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "替身",
+    "name_en": "Substitute",
+    "type": "一般"
+  },
+  {
+    "name_cn": "挣扎",
+    "name_en": "Struggle",
+    "type": "一般"
+  },
+  {
+    "name_cn": "写生",
+    "name_en": "Sketch",
+    "type": "一般"
+  },
+  {
+    "name_cn": "三连踢",
+    "name_en": "Triple Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "小偷",
+    "name_en": "Thief",
+    "type": "恶"
+  },
+  {
+    "name_cn": "蛛网",
+    "name_en": "Spider Web",
+    "type": "虫"
+  },
+  {
+    "name_cn": "心之眼",
+    "name_en": "Mind Reader",
+    "type": "一般"
+  },
+  {
+    "name_cn": "恶梦",
+    "name_en": "Nightmare",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "火焰轮",
+    "name_en": "Flame Wheel",
+    "type": "火"
+  },
+  {
+    "name_cn": "打鼾",
+    "name_en": "Snore",
+    "type": "一般"
+  },
+  {
+    "name_cn": "诅咒",
+    "name_en": "Curse",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "抓狂",
+    "name_en": "Flail",
+    "type": "一般"
+  },
+  {
+    "name_cn": "纹理２",
+    "name_en": "Conversion 2",
+    "type": "一般"
+  },
+  {
+    "name_cn": "气旋攻击",
+    "name_en": "Aeroblast",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "棉孢子",
+    "name_en": "Cotton Spore",
+    "type": "草"
+  },
+  {
+    "name_cn": "起死回生",
+    "name_en": "Reversal",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "怨恨",
+    "name_en": "Spite",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "细雪",
+    "name_en": "Powder Snow",
+    "type": "冰"
+  },
+  {
+    "name_cn": "守住",
+    "name_en": "Protect",
+    "type": "一般"
+  },
+  {
+    "name_cn": "音速拳",
+    "name_en": "Mach Punch",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "鬼面",
+    "name_en": "Scary Face",
+    "type": "一般"
+  },
+  {
+    "name_cn": "出奇一击",
+    "name_en": "Feint Attack",
+    "type": "恶"
+  },
+  {
+    "name_cn": "天使之吻",
+    "name_en": "Sweet Kiss",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "腹鼓",
+    "name_en": "Belly Drum",
+    "type": "一般"
+  },
+  {
+    "name_cn": "污泥炸弹",
+    "name_en": "Sludge Bomb",
+    "type": "毒"
+  },
+  {
+    "name_cn": "掷泥",
+    "name_en": "Mud-Slap",
+    "type": "地面"
+  },
+  {
+    "name_cn": "章鱼桶炮",
+    "name_en": "Octazooka",
+    "type": "水"
+  },
+  {
+    "name_cn": "撒菱",
+    "name_en": "Spikes",
+    "type": "地面"
+  },
+  {
+    "name_cn": "电磁炮",
+    "name_en": "Zap Cannon",
+    "type": "电"
+  },
+  {
+    "name_cn": "识破",
+    "name_en": "Foresight",
+    "type": "一般"
+  },
+  {
+    "name_cn": "同命",
+    "name_en": "Destiny Bond",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "灭亡之歌",
+    "name_en": "Perish Song",
+    "type": "一般"
+  },
+  {
+    "name_cn": "冰冻之风",
+    "name_en": "Icy Wind",
+    "type": "冰"
+  },
+  {
+    "name_cn": "看穿",
+    "name_en": "Detect",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "骨棒乱打",
+    "name_en": "Bone Rush",
+    "type": "地面"
+  },
+  {
+    "name_cn": "锁定",
+    "name_en": "Lock-On",
+    "type": "一般"
+  },
+  {
+    "name_cn": "逆鳞",
+    "name_en": "Outrage",
+    "type": "龙"
+  },
+  {
+    "name_cn": "沙暴",
+    "name_en": "Sandstorm",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "终极吸取",
+    "name_en": "Giga Drain",
+    "type": "草"
+  },
+  {
+    "name_cn": "挺住",
+    "name_en": "Endure",
+    "type": "一般"
+  },
+  {
+    "name_cn": "撒娇",
+    "name_en": "Charm",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "滚动",
+    "name_en": "Rollout",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "点到为止",
+    "name_en": "False Swipe",
+    "type": "一般"
+  },
+  {
+    "name_cn": "虚张声势",
+    "name_en": "Swagger",
+    "type": "一般"
+  },
+  {
+    "name_cn": "喝牛奶",
+    "name_en": "Milk Drink",
+    "type": "一般"
+  },
+  {
+    "name_cn": "电光",
+    "name_en": "Spark",
+    "type": "电"
+  },
+  {
+    "name_cn": "连斩",
+    "name_en": "Fury Cutter",
+    "type": "虫"
+  },
+  {
+    "name_cn": "钢翼",
+    "name_en": "Steel Wing",
+    "type": "钢"
+  },
+  {
+    "name_cn": "黑色目光",
+    "name_en": "Mean Look",
+    "type": "一般"
+  },
+  {
+    "name_cn": "迷人",
+    "name_en": "Attract",
+    "type": "一般"
+  },
+  {
+    "name_cn": "梦话",
+    "name_en": "Sleep Talk",
+    "type": "一般"
+  },
+  {
+    "name_cn": "治愈铃声",
+    "name_en": "Heal Bell",
+    "type": "一般"
+  },
+  {
+    "name_cn": "报恩",
+    "name_en": "Return",
+    "type": "一般"
+  },
+  {
+    "name_cn": "礼物",
+    "name_en": "Present",
+    "type": "一般"
+  },
+  {
+    "name_cn": "迁怒",
+    "name_en": "Frustration",
+    "type": "一般"
+  },
+  {
+    "name_cn": "神秘守护",
+    "name_en": "Safeguard",
+    "type": "一般"
+  },
+  {
+    "name_cn": "分担痛楚",
+    "name_en": "Pain Split",
+    "type": "一般"
+  },
+  {
+    "name_cn": "神圣之火",
+    "name_en": "Sacred Fire",
+    "type": "火"
+  },
+  {
+    "name_cn": "震级",
+    "name_en": "Magnitude",
+    "type": "地面"
+  },
+  {
+    "name_cn": "爆裂拳",
+    "name_en": "Dynamic Punch",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "超级角击",
+    "name_en": "Megahorn",
+    "type": "虫"
+  },
+  {
+    "name_cn": "龙息",
+    "name_en": "Dragon Breath",
+    "type": "龙"
+  },
+  {
+    "name_cn": "接棒",
+    "name_en": "Baton Pass",
+    "type": "一般"
+  },
+  {
+    "name_cn": "再来一次",
+    "name_en": "Encore",
+    "type": "一般"
+  },
+  {
+    "name_cn": "追打",
+    "name_en": "Pursuit",
+    "type": "恶"
+  },
+  {
+    "name_cn": "高速旋转",
+    "name_en": "Rapid Spin",
+    "type": "一般"
+  },
+  {
+    "name_cn": "甜甜香气",
+    "name_en": "Sweet Scent",
+    "type": "一般"
+  },
+  {
+    "name_cn": "铁尾",
+    "name_en": "Iron Tail",
+    "type": "钢"
+  },
+  {
+    "name_cn": "金属爪",
+    "name_en": "Metal Claw",
+    "type": "钢"
+  },
+  {
+    "name_cn": "借力摔",
+    "name_en": "Vital Throw",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "晨光",
+    "name_en": "Morning Sun",
+    "type": "一般"
+  },
+  {
+    "name_cn": "光合作用",
+    "name_en": "Synthesis",
+    "type": "草"
+  },
+  {
+    "name_cn": "月光",
+    "name_en": "Moonlight",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "觉醒力量",
+    "name_en": "Hidden Power",
+    "type": "一般"
+  },
+  {
+    "name_cn": "十字劈",
+    "name_en": "Cross Chop",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "龙卷风",
+    "name_en": "Twister",
+    "type": "龙"
+  },
+  {
+    "name_cn": "求雨",
+    "name_en": "Rain Dance",
+    "type": "水"
+  },
+  {
+    "name_cn": "大晴天",
+    "name_en": "Sunny Day",
+    "type": "火"
+  },
+  {
+    "name_cn": "咬碎",
+    "name_en": "Crunch",
+    "type": "恶"
+  },
+  {
+    "name_cn": "镜面反射",
+    "name_en": "Mirror Coat",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "自我暗示",
+    "name_en": "Psych Up",
+    "type": "一般"
+  },
+  {
+    "name_cn": "神速",
+    "name_en": "Extreme Speed",
+    "type": "一般"
+  },
+  {
+    "name_cn": "原始之力",
+    "name_en": "Ancient Power",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "暗影球",
+    "name_en": "Shadow Ball",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "预知未来",
+    "name_en": "Future Sight",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "碎岩",
+    "name_en": "Rock Smash",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "潮旋",
+    "name_en": "Whirlpool",
+    "type": "水"
+  },
+  {
+    "name_cn": "围攻",
+    "name_en": "Beat Up",
+    "type": "恶"
+  },
+  {
+    "name_cn": "击掌奇袭",
+    "name_en": "Fake Out",
+    "type": "一般"
+  },
+  {
+    "name_cn": "吵闹",
+    "name_en": "Uproar",
+    "type": "一般"
+  },
+  {
+    "name_cn": "蓄力",
+    "name_en": "Stockpile",
+    "type": "一般"
+  },
+  {
+    "name_cn": "喷出",
+    "name_en": "Spit Up",
+    "type": "一般"
+  },
+  {
+    "name_cn": "吞下",
+    "name_en": "Swallow",
+    "type": "一般"
+  },
+  {
+    "name_cn": "热风",
+    "name_en": "Heat Wave",
+    "type": "火"
+  },
+  {
+    "name_cn": "冰雹",
+    "name_en": "Hail",
+    "type": "冰"
+  },
+  {
+    "name_cn": "无理取闹",
+    "name_en": "Torment",
+    "type": "恶"
+  },
+  {
+    "name_cn": "吹捧",
+    "name_en": "Flatter",
+    "type": "恶"
+  },
+  {
+    "name_cn": "鬼火",
+    "name_en": "Will-O-Wisp",
+    "type": "火"
+  },
+  {
+    "name_cn": "临别礼物",
+    "name_en": "Memento",
+    "type": "恶"
+  },
+  {
+    "name_cn": "硬撑",
+    "name_en": "Facade",
+    "type": "一般"
+  },
+  {
+    "name_cn": "真气拳",
+    "name_en": "Focus Punch",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "清醒",
+    "name_en": "Smelling Salts",
+    "type": "一般"
+  },
+  {
+    "name_cn": "看我嘛",
+    "name_en": "Follow Me",
+    "type": "一般"
+  },
+  {
+    "name_cn": "自然之力",
+    "name_en": "Nature Power",
+    "type": "一般"
+  },
+  {
+    "name_cn": "充电",
+    "name_en": "Charge",
+    "type": "电"
+  },
+  {
+    "name_cn": "挑衅",
+    "name_en": "Taunt",
+    "type": "恶"
+  },
+  {
+    "name_cn": "帮助",
+    "name_en": "Helping Hand",
+    "type": "一般"
+  },
+  {
+    "name_cn": "戏法",
+    "name_en": "Trick",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "扮演",
+    "name_en": "Role Play",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "祈愿",
+    "name_en": "Wish",
+    "type": "一般"
+  },
+  {
+    "name_cn": "借助",
+    "name_en": "Assist",
+    "type": "一般"
+  },
+  {
+    "name_cn": "扎根",
+    "name_en": "Ingrain",
+    "type": "草"
+  },
+  {
+    "name_cn": "蛮力",
+    "name_en": "Superpower",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "魔法反射",
+    "name_en": "Magic Coat",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "回收利用",
+    "name_en": "Recycle",
+    "type": "一般"
+  },
+  {
+    "name_cn": "报复",
+    "name_en": "Revenge",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "劈瓦",
+    "name_en": "Brick Break",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "哈欠",
+    "name_en": "Yawn",
+    "type": "一般"
+  },
+  {
+    "name_cn": "拍落",
+    "name_en": "Knock Off",
+    "type": "恶"
+  },
+  {
+    "name_cn": "蛮干",
+    "name_en": "Endeavor",
+    "type": "一般"
+  },
+  {
+    "name_cn": "喷火",
+    "name_en": "Eruption",
+    "type": "火"
+  },
+  {
+    "name_cn": "特性互换",
+    "name_en": "Skill Swap",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "封印",
+    "name_en": "Imprison",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "焕然一新",
+    "name_en": "Refresh",
+    "type": "一般"
+  },
+  {
+    "name_cn": "怨念",
+    "name_en": "Grudge",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "抢夺",
+    "name_en": "Snatch",
+    "type": "恶"
+  },
+  {
+    "name_cn": "秘密之力",
+    "name_en": "Secret Power",
+    "type": "一般"
+  },
+  {
+    "name_cn": "潜水",
+    "name_en": "Dive",
+    "type": "水"
+  },
+  {
+    "name_cn": "猛推",
+    "name_en": "Arm Thrust",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "保护色",
+    "name_en": "Camouflage",
+    "type": "一般"
+  },
+  {
+    "name_cn": "萤火",
+    "name_en": "Tail Glow",
+    "type": "虫"
+  },
+  {
+    "name_cn": "洁净光芒",
+    "name_en": "Luster Purge",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "薄霧球",
+    "name_en": "Mist Ball",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "羽毛舞",
+    "name_en": "Feather Dance",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "摇晃舞",
+    "name_en": "Teeter Dance",
+    "type": "一般"
+  },
+  {
+    "name_cn": "火焰踢",
+    "name_en": "Blaze Kick",
+    "type": "火"
+  },
+  {
+    "name_cn": "玩泥巴",
+    "name_en": "Mud Sport",
+    "type": "地面"
+  },
+  {
+    "name_cn": "冰球",
+    "name_en": "Ice Ball",
+    "type": "冰"
+  },
+  {
+    "name_cn": "尖刺臂",
+    "name_en": "Needle Arm",
+    "type": "草"
+  },
+  {
+    "name_cn": "偷懒",
+    "name_en": "Slack Off",
+    "type": "一般"
+  },
+  {
+    "name_cn": "巨声",
+    "name_en": "Hyper Voice",
+    "type": "一般"
+  },
+  {
+    "name_cn": "剧毒牙",
+    "name_en": "Poison Fang",
+    "type": "毒"
+  },
+  {
+    "name_cn": "撕裂爪",
+    "name_en": "Crush Claw",
+    "type": "一般"
+  },
+  {
+    "name_cn": "爆炸烈焰",
+    "name_en": "Blast Burn",
+    "type": "火"
+  },
+  {
+    "name_cn": "加农水炮",
+    "name_en": "Hydro Cannon",
+    "type": "水"
+  },
+  {
+    "name_cn": "彗星拳",
+    "name_en": "Meteor Mash",
+    "type": "钢"
+  },
+  {
+    "name_cn": "惊吓",
+    "name_en": "Astonish",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "气象球",
+    "name_en": "Weather Ball",
+    "type": "一般"
+  },
+  {
+    "name_cn": "芳香治疗",
+    "name_en": "Aromatherapy",
+    "type": "草"
+  },
+  {
+    "name_cn": "假哭",
+    "name_en": "Fake Tears",
+    "type": "恶"
+  },
+  {
+    "name_cn": "空气利刃",
+    "name_en": "Air Cutter",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "过热",
+    "name_en": "Overheat",
+    "type": "火"
+  },
+  {
+    "name_cn": "气味侦测",
+    "name_en": "Odor Sleuth",
+    "type": "一般"
+  },
+  {
+    "name_cn": "岩石封锁",
+    "name_en": "Rock Tomb",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "银色旋风",
+    "name_en": "Silver Wind",
+    "type": "虫"
+  },
+  {
+    "name_cn": "金属音",
+    "name_en": "Metal Sound",
+    "type": "钢"
+  },
+  {
+    "name_cn": "草笛",
+    "name_en": "Grass Whistle",
+    "type": "草"
+  },
+  {
+    "name_cn": "挠痒",
+    "name_en": "Tickle",
+    "type": "一般"
+  },
+  {
+    "name_cn": "宇宙力量",
+    "name_en": "Cosmic Power",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "喷水",
+    "name_en": "Water Spout",
+    "type": "水"
+  },
+  {
+    "name_cn": "信号光束",
+    "name_en": "Signal Beam",
+    "type": "虫"
+  },
+  {
+    "name_cn": "暗影拳",
+    "name_en": "Shadow Punch",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "神通力",
+    "name_en": "Extrasensory",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "冲天拳",
+    "name_en": "Sky Uppercut",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "流沙地狱",
+    "name_en": "Sand Tomb",
+    "type": "地面"
+  },
+  {
+    "name_cn": "绝对零度",
+    "name_en": "Sheer Cold",
+    "type": "冰"
+  },
+  {
+    "name_cn": "浊流",
+    "name_en": "Muddy Water",
+    "type": "水"
+  },
+  {
+    "name_cn": "种子机关枪",
+    "name_en": "Bullet Seed",
+    "type": "草"
+  },
+  {
+    "name_cn": "燕返",
+    "name_en": "Aerial Ace",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "冰锥",
+    "name_en": "Icicle Spear",
+    "type": "冰"
+  },
+  {
+    "name_cn": "铁壁",
+    "name_en": "Iron Defense",
+    "type": "钢"
+  },
+  {
+    "name_cn": "挡路",
+    "name_en": "Block",
+    "type": "一般"
+  },
+  {
+    "name_cn": "长嚎",
+    "name_en": "Howl",
+    "type": "一般"
+  },
+  {
+    "name_cn": "龙爪",
+    "name_en": "Dragon Claw",
+    "type": "龙"
+  },
+  {
+    "name_cn": "疯狂植物",
+    "name_en": "Frenzy Plant",
+    "type": "草"
+  },
+  {
+    "name_cn": "健美",
+    "name_en": "Bulk Up",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "弹跳",
+    "name_en": "Bounce",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "泥巴射击",
+    "name_en": "Mud Shot",
+    "type": "地面"
+  },
+  {
+    "name_cn": "毒尾",
+    "name_en": "Poison Tail",
+    "type": "毒"
+  },
+  {
+    "name_cn": "渴望",
+    "name_en": "Covet",
+    "type": "一般"
+  },
+  {
+    "name_cn": "伏特攻击",
+    "name_en": "Volt Tackle",
+    "type": "电"
+  },
+  {
+    "name_cn": "魔法叶",
+    "name_en": "Magical Leaf",
+    "type": "草"
+  },
+  {
+    "name_cn": "玩水",
+    "name_en": "Water Sport",
+    "type": "水"
+  },
+  {
+    "name_cn": "冥想",
+    "name_en": "Calm Mind",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "叶刃",
+    "name_en": "Leaf Blade",
+    "type": "草"
+  },
+  {
+    "name_cn": "龙之舞",
+    "name_en": "Dragon Dance",
+    "type": "龙"
+  },
+  {
+    "name_cn": "岩石爆击",
+    "name_en": "Rock Blast",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "电击波",
+    "name_en": "Shock Wave",
+    "type": "电"
+  },
+  {
+    "name_cn": "水之波动",
+    "name_en": "Water Pulse",
+    "type": "水"
+  },
+  {
+    "name_cn": "破灭之愿",
+    "name_en": "Doom Desire",
+    "type": "钢"
+  },
+  {
+    "name_cn": "精神突进",
+    "name_en": "Psycho Boost",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "羽栖",
+    "name_en": "Roost",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "重力",
+    "name_en": "Gravity",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "奇迹之眼",
+    "name_en": "Miracle Eye",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "唤醒巴掌",
+    "name_en": "Wake-Up Slap",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "臂錘",
+    "name_en": "Hammer Arm",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "陀螺球",
+    "name_en": "Gyro Ball",
+    "type": "钢"
+  },
+  {
+    "name_cn": "治愈之愿",
+    "name_en": "Healing Wish",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "盐水",
+    "name_en": "Brine",
+    "type": "水"
+  },
+  {
+    "name_cn": "自然之恩",
+    "name_en": "Natural Gift",
+    "type": "一般"
+  },
+  {
+    "name_cn": "佯攻",
+    "name_en": "Feint",
+    "type": "一般"
+  },
+  {
+    "name_cn": "啄食",
+    "name_en": "Pluck",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "顺风",
+    "name_en": "Tailwind",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "点穴",
+    "name_en": "Acupressure",
+    "type": "一般"
+  },
+  {
+    "name_cn": "金属爆炸",
+    "name_en": "Metal Burst",
+    "type": "钢"
+  },
+  {
+    "name_cn": "急速折返",
+    "name_en": "U-turn",
+    "type": "虫"
+  },
+  {
+    "name_cn": "近身战",
+    "name_en": "Close Combat",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "以牙還牙",
+    "name_en": "Payback",
+    "type": "恶"
+  },
+  {
+    "name_cn": "恶意追击",
+    "name_en": "Assurance",
+    "type": "恶"
+  },
+  {
+    "name_cn": "查封",
+    "name_en": "Embargo",
+    "type": "恶"
+  },
+  {
+    "name_cn": "投擲",
+    "name_en": "Fling",
+    "type": "恶"
+  },
+  {
+    "name_cn": "精神转移",
+    "name_en": "Psycho Shift",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "王牌",
+    "name_en": "Trump Card",
+    "type": "一般"
+  },
+  {
+    "name_cn": "回复封锁",
+    "name_en": "Heal Block",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "绞紧",
+    "name_en": "Wring Out",
+    "type": "一般"
+  },
+  {
+    "name_cn": "力量戏法",
+    "name_en": "Power Trick",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "胃液",
+    "name_en": "Gastro Acid",
+    "type": "毒"
+  },
+  {
+    "name_cn": "幸运咒语",
+    "name_en": "Lucky Chant",
+    "type": "一般"
+  },
+  {
+    "name_cn": "抢先一步",
+    "name_en": "Me First",
+    "type": "一般"
+  },
+  {
+    "name_cn": "仿效",
+    "name_en": "Copycat",
+    "type": "一般"
+  },
+  {
+    "name_cn": "力量互换",
+    "name_en": "Power Swap",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "防守互换",
+    "name_en": "Guard Swap",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "懲罰",
+    "name_en": "Punishment",
+    "type": "恶"
+  },
+  {
+    "name_cn": "珍藏",
+    "name_en": "Last Resort",
+    "type": "一般"
+  },
+  {
+    "name_cn": "烦恼种子",
+    "name_en": "Worry Seed",
+    "type": "草"
+  },
+  {
+    "name_cn": "突袭",
+    "name_en": "Sucker Punch",
+    "type": "恶"
+  },
+  {
+    "name_cn": "毒菱",
+    "name_en": "Toxic Spikes",
+    "type": "毒"
+  },
+  {
+    "name_cn": "心灵互换",
+    "name_en": "Heart Swap",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "水流环",
+    "name_en": "Aqua Ring",
+    "type": "水"
+  },
+  {
+    "name_cn": "电磁飘浮",
+    "name_en": "Magnet Rise",
+    "type": "电"
+  },
+  {
+    "name_cn": "闪焰冲锋",
+    "name_en": "Flare Blitz",
+    "type": "火"
+  },
+  {
+    "name_cn": "发劲",
+    "name_en": "Force Palm",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "波导弹",
+    "name_en": "Aura Sphere",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "岩石打磨",
+    "name_en": "Rock Polish",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "毒击",
+    "name_en": "Poison Jab",
+    "type": "毒"
+  },
+  {
+    "name_cn": "恶之波动",
+    "name_en": "Dark Pulse",
+    "type": "恶"
+  },
+  {
+    "name_cn": "暗袭要害",
+    "name_en": "Night Slash",
+    "type": "恶"
+  },
+  {
+    "name_cn": "水流尾",
+    "name_en": "Aqua Tail",
+    "type": "水"
+  },
+  {
+    "name_cn": "种子炸弹",
+    "name_en": "Seed Bomb",
+    "type": "草"
+  },
+  {
+    "name_cn": "空气斩",
+    "name_en": "Air Slash",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "十字剪",
+    "name_en": "X-Scissor",
+    "type": "虫"
+  },
+  {
+    "name_cn": "虫鸣",
+    "name_en": "Bug Buzz",
+    "type": "虫"
+  },
+  {
+    "name_cn": "龙之波动",
+    "name_en": "Dragon Pulse",
+    "type": "龙"
+  },
+  {
+    "name_cn": "龙之俯冲",
+    "name_en": "Dragon Rush",
+    "type": "龙"
+  },
+  {
+    "name_cn": "力量宝石",
+    "name_en": "Power Gem",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "吸取拳",
+    "name_en": "Drain Punch",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "真空波",
+    "name_en": "Vacuum Wave",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "真气弹",
+    "name_en": "Focus Blast",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "能量球",
+    "name_en": "Energy Ball",
+    "type": "草"
+  },
+  {
+    "name_cn": "勇鸟猛攻",
+    "name_en": "Brave Bird",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "大地之力",
+    "name_en": "Earth Power",
+    "type": "地面"
+  },
+  {
+    "name_cn": "掉包",
+    "name_en": "Switcheroo",
+    "type": "恶"
+  },
+  {
+    "name_cn": "终极冲击",
+    "name_en": "Giga Impact",
+    "type": "一般"
+  },
+  {
+    "name_cn": "诡计",
+    "name_en": "Nasty Plot",
+    "type": "恶"
+  },
+  {
+    "name_cn": "子弹拳",
+    "name_en": "Bullet Punch",
+    "type": "钢"
+  },
+  {
+    "name_cn": "雪崩",
+    "name_en": "Avalanche",
+    "type": "冰"
+  },
+  {
+    "name_cn": "冰砾",
+    "name_en": "Ice Shard",
+    "type": "冰"
+  },
+  {
+    "name_cn": "暗影爪",
+    "name_en": "Shadow Claw",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "雷电牙",
+    "name_en": "Thunder Fang",
+    "type": "电"
+  },
+  {
+    "name_cn": "冰冻牙",
+    "name_en": "Ice Fang",
+    "type": "冰"
+  },
+  {
+    "name_cn": "火焰牙",
+    "name_en": "Fire Fang",
+    "type": "火"
+  },
+  {
+    "name_cn": "影子偷袭",
+    "name_en": "Shadow Sneak",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "泥巴炸弹",
+    "name_en": "Mud Bomb",
+    "type": "地面"
+  },
+  {
+    "name_cn": "精神利刃",
+    "name_en": "Psycho Cut",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "意念头锤",
+    "name_en": "Zen Headbutt",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "镜光射击",
+    "name_en": "Mirror Shot",
+    "type": "钢"
+  },
+  {
+    "name_cn": "加农光炮",
+    "name_en": "Flash Cannon",
+    "type": "钢"
+  },
+  {
+    "name_cn": "攀岩",
+    "name_en": "Rock Climb",
+    "type": "一般"
+  },
+  {
+    "name_cn": "清除浓雾",
+    "name_en": "Defog",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "戏法空间",
+    "name_en": "Trick Room",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "流星群",
+    "name_en": "Draco Meteor",
+    "type": "龙"
+  },
+  {
+    "name_cn": "放电",
+    "name_en": "Discharge",
+    "type": "电"
+  },
+  {
+    "name_cn": "喷烟",
+    "name_en": "Lava Plume",
+    "type": "火"
+  },
+  {
+    "name_cn": "飞叶风暴",
+    "name_en": "Leaf Storm",
+    "type": "草"
+  },
+  {
+    "name_cn": "强力鞭打",
+    "name_en": "Power Whip",
+    "type": "草"
+  },
+  {
+    "name_cn": "岩石炮",
+    "name_en": "Rock Wrecker",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "十字毒刃",
+    "name_en": "Cross Poison",
+    "type": "毒"
+  },
+  {
+    "name_cn": "垃圾射击",
+    "name_en": "Gunk Shot",
+    "type": "毒"
+  },
+  {
+    "name_cn": "铁头",
+    "name_en": "Iron Head",
+    "type": "钢"
+  },
+  {
+    "name_cn": "磁铁炸弹",
+    "name_en": "Magnet Bomb",
+    "type": "钢"
+  },
+  {
+    "name_cn": "尖石攻击",
+    "name_en": "Stone Edge",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "诱惑",
+    "name_en": "Captivate",
+    "type": "一般"
+  },
+  {
+    "name_cn": "隐形岩",
+    "name_en": "Stealth Rock",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "打草结",
+    "name_en": "Grass Knot",
+    "type": "草"
+  },
+  {
+    "name_cn": "喋喋不休",
+    "name_en": "Chatter",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "制裁光砾",
+    "name_en": "Judgment",
+    "type": "一般"
+  },
+  {
+    "name_cn": "虫咬",
+    "name_en": "Bug Bite",
+    "type": "虫"
+  },
+  {
+    "name_cn": "充电光束",
+    "name_en": "Charge Beam",
+    "type": "电"
+  },
+  {
+    "name_cn": "木槌",
+    "name_en": "Wood Hammer",
+    "type": "草"
+  },
+  {
+    "name_cn": "水流喷射",
+    "name_en": "Aqua Jet",
+    "type": "水"
+  },
+  {
+    "name_cn": "攻击指令",
+    "name_en": "Attack Order",
+    "type": "虫"
+  },
+  {
+    "name_cn": "防御指令",
+    "name_en": "Defend Order",
+    "type": "虫"
+  },
+  {
+    "name_cn": "回复指令",
+    "name_en": "Heal Order",
+    "type": "虫"
+  },
+  {
+    "name_cn": "双刃头锤",
+    "name_en": "Head Smash",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "二连击",
+    "name_en": "Double Hit",
+    "type": "一般"
+  },
+  {
+    "name_cn": "时光咆哮",
+    "name_en": "Roar of Time",
+    "type": "龙"
+  },
+  {
+    "name_cn": "亚空裂斩",
+    "name_en": "Spacial Rend",
+    "type": "龙"
+  },
+  {
+    "name_cn": "新月舞",
+    "name_en": "Lunar Dance",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "捏碎",
+    "name_en": "Crush Grip",
+    "type": "一般"
+  },
+  {
+    "name_cn": "熔岩风暴",
+    "name_en": "Magma Storm",
+    "type": "火"
+  },
+  {
+    "name_cn": "暗黑洞",
+    "name_en": "Dark Void",
+    "type": "恶"
+  },
+  {
+    "name_cn": "种子闪光",
+    "name_en": "Seed Flare",
+    "type": "草"
+  },
+  {
+    "name_cn": "奇异之风",
+    "name_en": "Ominous Wind",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "暗影潜袭",
+    "name_en": "Shadow Force",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "磨爪",
+    "name_en": "Hone Claws",
+    "type": "恶"
+  },
+  {
+    "name_cn": "广域防守",
+    "name_en": "Wide Guard",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "防守平分",
+    "name_en": "Guard Split",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "力量平分",
+    "name_en": "Power Split",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "奇妙空间",
+    "name_en": "Wonder Room",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "精神衝擊",
+    "name_en": "Psyshock",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "毒液衝擊",
+    "name_en": "Venoshock",
+    "type": "毒"
+  },
+  {
+    "name_cn": "身体轻量化",
+    "name_en": "Autotomize",
+    "type": "钢"
+  },
+  {
+    "name_cn": "憤怒粉",
+    "name_en": "Rage Powder",
+    "type": "虫"
+  },
+  {
+    "name_cn": "意念移物",
+    "name_en": "Telekinesis",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "魔法空间",
+    "name_en": "Magic Room",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "击落",
+    "name_en": "Smack Down",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "山岚摔",
+    "name_en": "Storm Throw",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "烈焰溅射",
+    "name_en": "Flame Burst",
+    "type": "火"
+  },
+  {
+    "name_cn": "污泥波",
+    "name_en": "Sludge Wave",
+    "type": "毒"
+  },
+  {
+    "name_cn": "蝶舞",
+    "name_en": "Quiver Dance",
+    "type": "虫"
+  },
+  {
+    "name_cn": "重磅冲撞",
+    "name_en": "Heavy Slam",
+    "type": "钢"
+  },
+  {
+    "name_cn": "同步干擾",
+    "name_en": "Synchronoise",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "电球",
+    "name_en": "Electro Ball",
+    "type": "电"
+  },
+  {
+    "name_cn": "浸水",
+    "name_en": "Soak",
+    "type": "水"
+  },
+  {
+    "name_cn": "蓄能焰襲",
+    "name_en": "Flame Charge",
+    "type": "火"
+  },
+  {
+    "name_cn": "盤蜷",
+    "name_en": "Coil",
+    "type": "毒"
+  },
+  {
+    "name_cn": "下盘踢",
+    "name_en": "Low Sweep",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "酸液炸弹",
+    "name_en": "Acid Spray",
+    "type": "毒"
+  },
+  {
+    "name_cn": "欺诈",
+    "name_en": "Foul Play",
+    "type": "恶"
+  },
+  {
+    "name_cn": "单纯光束",
+    "name_en": "Simple Beam",
+    "type": "一般"
+  },
+  {
+    "name_cn": "找伙伴",
+    "name_en": "Entrainment",
+    "type": "一般"
+  },
+  {
+    "name_cn": "您先請",
+    "name_en": "After You",
+    "type": "一般"
+  },
+  {
+    "name_cn": "轮唱",
+    "name_en": "Round",
+    "type": "一般"
+  },
+  {
+    "name_cn": "迴声",
+    "name_en": "Echoed Voice",
+    "type": "一般"
+  },
+  {
+    "name_cn": "逐步击破",
+    "name_en": "Chip Away",
+    "type": "一般"
+  },
+  {
+    "name_cn": "清除之煙",
+    "name_en": "Clear Smog",
+    "type": "毒"
+  },
+  {
+    "name_cn": "辅助力量",
+    "name_en": "Stored Power",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "快速防守",
+    "name_en": "Quick Guard",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "交换场地",
+    "name_en": "Ally Switch",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "热水",
+    "name_en": "Scald",
+    "type": "水"
+  },
+  {
+    "name_cn": "破壳",
+    "name_en": "Shell Smash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "治愈波动",
+    "name_en": "Heal Pulse",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "祸不单行",
+    "name_en": "Hex",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "自由落体",
+    "name_en": "Sky Drop",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "换档",
+    "name_en": "Shift Gear",
+    "type": "钢"
+  },
+  {
+    "name_cn": "巴投",
+    "name_en": "Circle Throw",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "烧尽",
+    "name_en": "Incinerate",
+    "type": "火"
+  },
+  {
+    "name_cn": "延後",
+    "name_en": "Quash",
+    "type": "恶"
+  },
+  {
+    "name_cn": "杂技",
+    "name_en": "Acrobatics",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "镜面属性",
+    "name_en": "Reflect Type",
+    "type": "一般"
+  },
+  {
+    "name_cn": "報仇",
+    "name_en": "Retaliate",
+    "type": "一般"
+  },
+  {
+    "name_cn": "搏命",
+    "name_en": "Final Gambit",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "传递礼物",
+    "name_en": "Bestow",
+    "type": "一般"
+  },
+  {
+    "name_cn": "炼狱",
+    "name_en": "Inferno",
+    "type": "火"
+  },
+  {
+    "name_cn": "水之誓约",
+    "name_en": "Water Pledge",
+    "type": "水"
+  },
+  {
+    "name_cn": "火之誓約",
+    "name_en": "Fire Pledge",
+    "type": "火"
+  },
+  {
+    "name_cn": "草之誓约",
+    "name_en": "Grass Pledge",
+    "type": "草"
+  },
+  {
+    "name_cn": "伏特替换",
+    "name_en": "Volt Switch",
+    "type": "电"
+  },
+  {
+    "name_cn": "虫之抵抗",
+    "name_en": "Struggle Bug",
+    "type": "虫"
+  },
+  {
+    "name_cn": "重踏",
+    "name_en": "Bulldoze",
+    "type": "地面"
+  },
+  {
+    "name_cn": "冰息",
+    "name_en": "Frost Breath",
+    "type": "冰"
+  },
+  {
+    "name_cn": "龙尾",
+    "name_en": "Dragon Tail",
+    "type": "龙"
+  },
+  {
+    "name_cn": "自我激励",
+    "name_en": "Work Up",
+    "type": "一般"
+  },
+  {
+    "name_cn": "电网",
+    "name_en": "Electroweb",
+    "type": "电"
+  },
+  {
+    "name_cn": "瘋狂伏特",
+    "name_en": "Wild Charge",
+    "type": "电"
+  },
+  {
+    "name_cn": "直冲钻",
+    "name_en": "Drill Run",
+    "type": "地面"
+  },
+  {
+    "name_cn": "二连劈",
+    "name_en": "Dual Chop",
+    "type": "龙"
+  },
+  {
+    "name_cn": "愛心印章",
+    "name_en": "Heart Stamp",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "木角",
+    "name_en": "Horn Leech",
+    "type": "草"
+  },
+  {
+    "name_cn": "圣剑",
+    "name_en": "Sacred Sword",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "贝壳刃",
+    "name_en": "Razor Shell",
+    "type": "水"
+  },
+  {
+    "name_cn": "高溫重压",
+    "name_en": "Heat Crash",
+    "type": "火"
+  },
+  {
+    "name_cn": "青草搅拌器",
+    "name_en": "Leaf Tornado",
+    "type": "草"
+  },
+  {
+    "name_cn": "疯狂滚压",
+    "name_en": "Steamroller",
+    "type": "虫"
+  },
+  {
+    "name_cn": "棉花防守",
+    "name_en": "Cotton Guard",
+    "type": "草"
+  },
+  {
+    "name_cn": "暗黑爆破",
+    "name_en": "Night Daze",
+    "type": "恶"
+  },
+  {
+    "name_cn": "精神击破",
+    "name_en": "Psystrike",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "扫尾拍打",
+    "name_en": "Tail Slap",
+    "type": "一般"
+  },
+  {
+    "name_cn": "暴风",
+    "name_en": "Hurricane",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "爆炸头突击",
+    "name_en": "Head Charge",
+    "type": "一般"
+  },
+  {
+    "name_cn": "齿轮飞盘",
+    "name_en": "Gear Grind",
+    "type": "钢"
+  },
+  {
+    "name_cn": "火焰弹",
+    "name_en": "Searing Shot",
+    "type": "火"
+  },
+  {
+    "name_cn": "高科技光炮",
+    "name_en": "Techno Blast",
+    "type": "一般"
+  },
+  {
+    "name_cn": "古老之歌",
+    "name_en": "Relic Song",
+    "type": "一般"
+  },
+  {
+    "name_cn": "神秘之剑",
+    "name_en": "Secret Sword",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "冰封世界",
+    "name_en": "Glaciate",
+    "type": "冰"
+  },
+  {
+    "name_cn": "雷击",
+    "name_en": "Bolt Strike",
+    "type": "电"
+  },
+  {
+    "name_cn": "青焰",
+    "name_en": "Blue Flare",
+    "type": "火"
+  },
+  {
+    "name_cn": "火之舞",
+    "name_en": "Fiery Dance",
+    "type": "火"
+  },
+  {
+    "name_cn": "冰冻伏特",
+    "name_en": "Freeze Shock",
+    "type": "冰"
+  },
+  {
+    "name_cn": "极寒冷焰",
+    "name_en": "Ice Burn",
+    "type": "冰"
+  },
+  {
+    "name_cn": "大声咆哮",
+    "name_en": "Snarl",
+    "type": "恶"
+  },
+  {
+    "name_cn": "冰柱坠击",
+    "name_en": "Icicle Crash",
+    "type": "冰"
+  },
+  {
+    "name_cn": "Ｖ熱焰",
+    "name_en": "V-create",
+    "type": "火"
+  },
+  {
+    "name_cn": "交错火焰",
+    "name_en": "Fusion Flare",
+    "type": "火"
+  },
+  {
+    "name_cn": "交错闪电",
+    "name_en": "Fusion Bolt",
+    "type": "电"
+  },
+  {
+    "name_cn": "飞身重压",
+    "name_en": "Flying Press",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "掀榻榻米",
+    "name_en": "Mat Block",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "打嗝",
+    "name_en": "Belch",
+    "type": "毒"
+  },
+  {
+    "name_cn": "耕地",
+    "name_en": "Rototiller",
+    "type": "地面"
+  },
+  {
+    "name_cn": "黏黏网",
+    "name_en": "Sticky Web",
+    "type": "虫"
+  },
+  {
+    "name_cn": "致命针刺",
+    "name_en": "Fell Stinger",
+    "type": "虫"
+  },
+  {
+    "name_cn": "潜灵奇袭",
+    "name_en": "Phantom Force",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "万圣夜",
+    "name_en": "Trick-or-Treat",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "战吼",
+    "name_en": "Noble Roar",
+    "type": "一般"
+  },
+  {
+    "name_cn": "等离子浴",
+    "name_en": "Ion Deluge",
+    "type": "电"
+  },
+  {
+    "name_cn": "抛物面充电",
+    "name_en": "Parabolic Charge",
+    "type": "电"
+  },
+  {
+    "name_cn": "森林诅咒",
+    "name_en": "Forest's Curse",
+    "type": "草"
+  },
+  {
+    "name_cn": "落英缤纷",
+    "name_en": "Petal Blizzard",
+    "type": "草"
+  },
+  {
+    "name_cn": "冷冻干燥",
+    "name_en": "Freeze-Dry",
+    "type": "冰"
+  },
+  {
+    "name_cn": "魅惑之声",
+    "name_en": "Disarming Voice",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "抛下狠话",
+    "name_en": "Parting Shot",
+    "type": "恶"
+  },
+  {
+    "name_cn": "颠倒",
+    "name_en": "Topsy-Turvy",
+    "type": "惡"
+  },
+  {
+    "name_cn": "吸取之吻",
+    "name_en": "Draining Kiss",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "戏法防守",
+    "name_en": "Crafty Shield",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "鲜花防守",
+    "name_en": "Flower Shield",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "青草场地",
+    "name_en": "Grassy Terrain",
+    "type": "草"
+  },
+  {
+    "name_cn": "薄雾场地",
+    "name_en": "Misty Terrain",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "输电",
+    "name_en": "Electrify",
+    "type": "電"
+  },
+  {
+    "name_cn": "嬉闹",
+    "name_en": "Play Rough",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "妖精之风",
+    "name_en": "Fairy Wind",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "月亮之力",
+    "name_en": "Moonblast",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "爆音波",
+    "name_en": "Boomburst",
+    "type": "一般"
+  },
+  {
+    "name_cn": "妖精之锁",
+    "name_en": "Fairy Lock",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "王者盾牌",
+    "name_en": "King's Shield",
+    "type": "钢"
+  },
+  {
+    "name_cn": "和睦相处",
+    "name_en": "Play Nice",
+    "type": "一般"
+  },
+  {
+    "name_cn": "密语",
+    "name_en": "Confide",
+    "type": "一般"
+  },
+  {
+    "name_cn": "钻石风暴",
+    "name_en": "Diamond Storm",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "蒸汽爆炸",
+    "name_en": "Steam Eruption",
+    "type": "水"
+  },
+  {
+    "name_cn": "异次元洞",
+    "name_en": "Hyperspace Hole",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "飞水手里剑",
+    "name_en": "Water Shuriken",
+    "type": "水"
+  },
+  {
+    "name_cn": "魔法火焰",
+    "name_en": "Mystical Fire",
+    "type": "火"
+  },
+  {
+    "name_cn": "尖刺防守",
+    "name_en": "Spiky Shield",
+    "type": "草"
+  },
+  {
+    "name_cn": "芳香薄雾",
+    "name_en": "Aromatic Mist",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "怪异电波",
+    "name_en": "Eerie Impulse",
+    "type": "電"
+  },
+  {
+    "name_cn": "毒液陷阱",
+    "name_en": "Venom Drench",
+    "type": "毒"
+  },
+  {
+    "name_cn": "粉尘",
+    "name_en": "Powder",
+    "type": "虫"
+  },
+  {
+    "name_cn": "大地掌控",
+    "name_en": "Geomancy",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "磁场操控",
+    "name_en": "Magnetic Flux",
+    "type": "电"
+  },
+  {
+    "name_cn": "欢乐时光",
+    "name_en": "Happy Hour",
+    "type": "一般"
+  },
+  {
+    "name_cn": "电气场地",
+    "name_en": "Electric Terrain",
+    "type": "电"
+  },
+  {
+    "name_cn": "魔法闪耀",
+    "name_en": "Dazzling Gleam",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "庆祝",
+    "name_en": "Celebrate",
+    "type": "一般"
+  },
+  {
+    "name_cn": "牵手",
+    "name_en": "Hold Hands",
+    "type": "一般"
+  },
+  {
+    "name_cn": "圆瞳",
+    "name_en": "Baby-Doll Eyes",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "蹭蹭臉頰",
+    "name_en": "Nuzzle",
+    "type": "电"
+  },
+  {
+    "name_cn": "手下留情",
+    "name_en": "Hold Back",
+    "type": "一般"
+  },
+  {
+    "name_cn": "死缠烂打",
+    "name_en": "Infestation",
+    "type": "虫"
+  },
+  {
+    "name_cn": "增强拳",
+    "name_en": "Power-Up Punch",
+    "type": "格鬥"
+  },
+  {
+    "name_cn": "死亡之翼",
+    "name_en": "Oblivion Wing",
+    "type": "飛行"
+  },
+  {
+    "name_cn": "千箭齊發",
+    "name_en": "Thousand Arrows",
+    "type": "地面"
+  },
+  {
+    "name_cn": "千波激盪",
+    "name_en": "Thousand Waves",
+    "type": "地面"
+  },
+  {
+    "name_cn": "大地神力",
+    "name_en": "Land's Wrath",
+    "type": "地面"
+  },
+  {
+    "name_cn": "破灭之光",
+    "name_en": "Light of Ruin",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "根源波动",
+    "name_en": "Origin Pulse",
+    "type": "水"
+  },
+  {
+    "name_cn": "断崖之剑",
+    "name_en": "Precipice Blades",
+    "type": "地面"
+  },
+  {
+    "name_cn": "画龙点睛",
+    "name_en": "Dragon Ascent",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "异次元猛攻",
+    "name_en": "Hyperspace Fury",
+    "type": "惡"
+  },
+  {
+    "name_cn": "究极无敌大冲撞",
+    "name_en": "Breakneck Blitz",
+    "type": "一般"
+  },
+  {
+    "name_cn": "究极无敌大冲撞",
+    "name_en": "Breakneck Blitz",
+    "type": "一般"
+  },
+  {
+    "name_cn": "全力无双激烈拳",
+    "name_en": "All-Out Pummeling",
+    "type": "格鬥"
+  },
+  {
+    "name_cn": "全力无双激烈拳",
+    "name_en": "All-Out Pummeling",
+    "type": "格鬥"
+  },
+  {
+    "name_cn": "极速俯冲轰烈撞",
+    "name_en": "Supersonic Skystrike",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "极速俯冲轰烈撞",
+    "name_en": "Supersonic Skystrike",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "强酸剧毒灭绝雨",
+    "name_en": "Acid Downpour",
+    "type": "毒"
+  },
+  {
+    "name_cn": "强酸剧毒灭绝雨",
+    "name_en": "Acid Downpour",
+    "type": "毒"
+  },
+  {
+    "name_cn": "地隆啸天大终结",
+    "name_en": "Tectonic Rage",
+    "type": "地面"
+  },
+  {
+    "name_cn": "地隆啸天大终结",
+    "name_en": "Tectonic Rage",
+    "type": "地面"
+  },
+  {
+    "name_cn": "毁天灭地巨岩坠",
+    "name_en": "Continental Crush",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "毁天灭地巨岩坠",
+    "name_en": "Continental Crush",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "绝对捕食回旋斩",
+    "name_en": "Savage Spin-Out",
+    "type": "虫"
+  },
+  {
+    "name_cn": "绝对捕食回旋斩",
+    "name_en": "Savage Spin-Out",
+    "type": "虫"
+  },
+  {
+    "name_cn": "无尽暗夜之诱惑",
+    "name_en": "Never-Ending Nightmare",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "无尽暗夜之诱惑",
+    "name_en": "Never-Ending Nightmare",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "超绝螺旋连击",
+    "name_en": "Corkscrew Crash",
+    "type": "钢"
+  },
+  {
+    "name_cn": "超绝螺旋连击",
+    "name_en": "Corkscrew Crash",
+    "type": "钢"
+  },
+  {
+    "name_cn": "超强极限爆焰弹",
+    "name_en": "Inferno Overdrive",
+    "type": "火"
+  },
+  {
+    "name_cn": "超强极限爆焰弹",
+    "name_en": "Inferno Overdrive",
+    "type": "火"
+  },
+  {
+    "name_cn": "超级水流大漩涡",
+    "name_en": "Hydro Vortex",
+    "type": "水"
+  },
+  {
+    "name_cn": "超级水流大漩涡",
+    "name_en": "Hydro Vortex",
+    "type": "水"
+  },
+  {
+    "name_cn": "绚烂缤纷花怒放",
+    "name_en": "Bloom Doom",
+    "type": "草"
+  },
+  {
+    "name_cn": "绚烂缤纷花怒放",
+    "name_en": "Bloom Doom",
+    "type": "草"
+  },
+  {
+    "name_cn": "终极伏特狂雷闪",
+    "name_en": "Gigavolt Havoc",
+    "type": "电"
+  },
+  {
+    "name_cn": "终极伏特狂雷闪",
+    "name_en": "Gigavolt Havoc",
+    "type": "电"
+  },
+  {
+    "name_cn": "至高精神破坏波",
+    "name_en": "Shattered Psyche",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "至高精神破坏波",
+    "name_en": "Shattered Psyche",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "激狂大地万里冰",
+    "name_en": "Subzero Slammer",
+    "type": "冰"
+  },
+  {
+    "name_cn": "激狂大地万里冰",
+    "name_en": "Subzero Slammer",
+    "type": "冰"
+  },
+  {
+    "name_cn": "究极巨龙震天地",
+    "name_en": "Devastating Drake",
+    "type": "龙"
+  },
+  {
+    "name_cn": "究极巨龙震天地",
+    "name_en": "Devastating Drake",
+    "type": "龙"
+  },
+  {
+    "name_cn": "黑洞吞噬万物灭",
+    "name_en": "Black Hole Eclipse",
+    "type": "惡"
+  },
+  {
+    "name_cn": "黑洞吞噬万物灭",
+    "name_en": "Black Hole Eclipse",
+    "type": "惡"
+  },
+  {
+    "name_cn": "可愛星星飛天撞",
+    "name_en": "Twinkle Tackle",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "可愛星星飛天撞",
+    "name_en": "Twinkle Tackle",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "皮卡皮卡必杀击",
+    "name_en": "Catastropika",
+    "type": "电"
+  },
+  {
+    "name_cn": "集沙",
+    "name_en": "Shore Up",
+    "type": "地面"
+  },
+  {
+    "name_cn": "迎头一击",
+    "name_en": "First Impression",
+    "type": "虫"
+  },
+  {
+    "name_cn": "碉堡",
+    "name_en": "Baneful Bunker",
+    "type": "毒"
+  },
+  {
+    "name_cn": "缝影",
+    "name_en": "Spirit Shackle",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "ＤＤ金勾臂",
+    "name_en": "Darkest Lariat",
+    "type": "惡"
+  },
+  {
+    "name_cn": "泡影的咏叹调",
+    "name_en": "Sparkling Aria",
+    "type": "水"
+  },
+  {
+    "name_cn": "冰锤",
+    "name_en": "Ice Hammer",
+    "type": "冰"
+  },
+  {
+    "name_cn": "花疗",
+    "name_en": "Floral Healing",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "十万马力",
+    "name_en": "High Horsepower",
+    "type": "地面"
+  },
+  {
+    "name_cn": "吸取力量",
+    "name_en": "Strength Sap",
+    "type": "草"
+  },
+  {
+    "name_cn": "日光刃",
+    "name_en": "Solar Blade",
+    "type": "草"
+  },
+  {
+    "name_cn": "树叶",
+    "name_en": "Leafage",
+    "type": "草"
+  },
+  {
+    "name_cn": "聚光灯",
+    "name_en": "Spotlight",
+    "type": "一般"
+  },
+  {
+    "name_cn": "毒丝",
+    "name_en": "Toxic Thread",
+    "type": "毒"
+  },
+  {
+    "name_cn": "磨砺",
+    "name_en": "Laser Focus",
+    "type": "一般"
+  },
+  {
+    "name_cn": "辅助齿轮",
+    "name_en": "Gear Up",
+    "type": "钢"
+  },
+  {
+    "name_cn": "地狱突刺",
+    "name_en": "Throat Chop",
+    "type": "恶"
+  },
+  {
+    "name_cn": "花粉团",
+    "name_en": "Pollen Puff",
+    "type": "虫"
+  },
+  {
+    "name_cn": "掷锚",
+    "name_en": "Anchor Shot",
+    "type": "钢"
+  },
+  {
+    "name_cn": "精神场地",
+    "name_en": "Psychic Terrain",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "猛扑",
+    "name_en": "Lunge",
+    "type": "虫"
+  },
+  {
+    "name_cn": "火焰鞭",
+    "name_en": "Fire Lash",
+    "type": "火"
+  },
+  {
+    "name_cn": "嚣张",
+    "name_en": "Power Trip",
+    "type": "恶"
+  },
+  {
+    "name_cn": "燃尽",
+    "name_en": "Burn Up",
+    "type": "火"
+  },
+  {
+    "name_cn": "速度互换",
+    "name_en": "Speed Swap",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "修长之角",
+    "name_en": "Smart Strike",
+    "type": "钢"
+  },
+  {
+    "name_cn": "净化",
+    "name_en": "Purify",
+    "type": "毒"
+  },
+  {
+    "name_cn": "觉醒之舞",
+    "name_en": "Revelation Dance",
+    "type": "一般"
+  },
+  {
+    "name_cn": "核心惩罚者",
+    "name_en": "Core Enforcer",
+    "type": "龙"
+  },
+  {
+    "name_cn": "热带踢",
+    "name_en": "Trop Kick",
+    "type": "草"
+  },
+  {
+    "name_cn": "号令",
+    "name_en": "Instruct",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "鸟嘴加农炮",
+    "name_en": "Beak Blast",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "鳞片噪音",
+    "name_en": "Clanging Scales",
+    "type": "龙"
+  },
+  {
+    "name_cn": "龙锤",
+    "name_en": "Dragon Hammer",
+    "type": "龙"
+  },
+  {
+    "name_cn": "狂舞挥打",
+    "name_en": "Brutal Swing",
+    "type": "恶"
+  },
+  {
+    "name_cn": "极光幕",
+    "name_en": "Aurora Veil",
+    "type": "冰"
+  },
+  {
+    "name_cn": "遮天蔽日暗影箭",
+    "name_en": "Sinister Arrow Raid",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "极恶飞躍粉碎击",
+    "name_en": "Malicious Moonsault",
+    "type": "惡"
+  },
+  {
+    "name_cn": "海神庄严交响乐",
+    "name_en": "Oceanic Operetta",
+    "type": "水"
+  },
+  {
+    "name_cn": "巨人卫士・阿罗拉",
+    "name_en": "Guardian of Alola",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "七星夺魂腿",
+    "name_en": "Soul-Stealing 7-Star Strike",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "驾雷驭电戏冲浪",
+    "name_en": "Stoked Sparksurfer",
+    "type": "电"
+  },
+  {
+    "name_cn": "认真起来大爆击",
+    "name_en": "Pulverizing Pancake",
+    "type": "一般"
+  },
+  {
+    "name_cn": "九彩升华齐聚顶",
+    "name_en": "Extreme Evoboost",
+    "type": "一般"
+  },
+  {
+    "name_cn": "起源超新星大爆炸",
+    "name_en": "Genesis Supernova",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "陷阱甲壳",
+    "name_en": "Shell Trap",
+    "type": "火"
+  },
+  {
+    "name_cn": "花朵加农炮",
+    "name_en": "Fleur Cannon",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "精神之牙",
+    "name_en": "Psychic Fangs",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "跺脚",
+    "name_en": "Stomping Tantrum",
+    "type": "地面"
+  },
+  {
+    "name_cn": "暗影之骨",
+    "name_en": "Shadow Bone",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "冲岩",
+    "name_en": "Accelerock",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "水流裂破",
+    "name_en": "Liquidation",
+    "type": "水"
+  },
+  {
+    "name_cn": "棱镜镭射",
+    "name_en": "Prismatic Laser",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "暗影偷盗",
+    "name_en": "Spectral Thief",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "流星闪冲",
+    "name_en": "Sunsteel Strike",
+    "type": "钢"
+  },
+  {
+    "name_cn": "暗影之光",
+    "name_en": "Moongeist Beam",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "泪眼汪汪",
+    "name_en": "Tearful Look",
+    "type": "一般"
+  },
+  {
+    "name_cn": "麻麻刺刺",
+    "name_en": "Zing Zap",
+    "type": "电"
+  },
+  {
+    "name_cn": "自然之怒",
+    "name_en": "Nature's Madness",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "多属性攻击",
+    "name_en": "Multi-Attack",
+    "type": "一般"
+  },
+  {
+    "name_cn": "千万伏特",
+    "name_en": "10,000,000 Volt Thunderbolt",
+    "type": "电"
+  },
+  {
+    "name_cn": "惊爆大头",
+    "name_en": "Mind Blown",
+    "type": "火"
+  },
+  {
+    "name_cn": "等离子闪电拳",
+    "name_en": "Plasma Fists",
+    "type": "电"
+  },
+  {
+    "name_cn": "光子喷涌",
+    "name_en": "Photon Geyser",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "炽魂热舞烈音爆",
+    "name_en": "Clangorous Soulblaze",
+    "type": "龙"
+  },
+  {
+    "name_cn": "狼啸石牙飓风暴",
+    "name_en": "Splintered Stormshards",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "亲密无间大乱揍",
+    "name_en": "Let's Snuggle Forever",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "日光回旋下苍穹",
+    "name_en": "Searing Sunraze Smash",
+    "type": "钢"
+  },
+  {
+    "name_cn": "月华飞溅落灵霄",
+    "name_en": "Menacing Moonraze Maelstrom",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "焚天灭世炽光爆",
+    "name_en": "Light That Burns the Sky",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "电电加速",
+    "name_en": "Zippy Zap",
+    "type": "電"
+  },
+  {
+    "name_cn": "滔滔冲浪",
+    "name_en": "Splishy Splash",
+    "type": "水"
+  },
+  {
+    "name_cn": "飘飘坠落",
+    "name_en": "Floaty Fall",
+    "type": "飛行"
+  },
+  {
+    "name_cn": "闪闪雷光",
+    "name_en": "Pika Papow",
+    "type": "電"
+  },
+  {
+    "name_cn": "活活气泡",
+    "name_en": "Bouncy Bubble",
+    "type": "水"
+  },
+  {
+    "name_cn": "麻麻电击",
+    "name_en": "Buzzy Buzz",
+    "type": "電"
+  },
+  {
+    "name_cn": "熊熊火爆",
+    "name_en": "Sizzly Slide",
+    "type": "火"
+  },
+  {
+    "name_cn": "哗哗气场",
+    "name_en": "Glitzy Glow",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "坏坏领域",
+    "name_en": "Baddy Bad",
+    "type": "惡"
+  },
+  {
+    "name_cn": "茁茁轰炸",
+    "name_en": "Sappy Seed",
+    "type": "草"
+  },
+  {
+    "name_cn": "冰冰霜冻",
+    "name_en": "Freezy Frost",
+    "type": "冰"
+  },
+  {
+    "name_cn": "亮亮风暴",
+    "name_en": "Sparkly Swirl",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "砰砰击破",
+    "name_en": "Veevee Volley",
+    "type": "一般"
+  },
+  {
+    "name_cn": "钢拳双击",
+    "name_en": "Double Iron Bash",
+    "type": "鋼"
+  },
+  {
+    "name_cn": "极巨防壁",
+    "name_en": "Max Guard",
+    "type": "一般"
+  },
+  {
+    "name_cn": "极巨炮",
+    "name_en": "Dynamax Cannon",
+    "type": "龙"
+  },
+  {
+    "name_cn": "狙击",
+    "name_en": "Snipe Shot",
+    "type": "水"
+  },
+  {
+    "name_cn": "紧咬不放",
+    "name_en": "Jaw Lock",
+    "type": "恶"
+  },
+  {
+    "name_cn": "大快朵颐",
+    "name_en": "Stuff Cheeks",
+    "type": "一般"
+  },
+  {
+    "name_cn": "背水一战",
+    "name_en": "No Retreat",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "沥青射击",
+    "name_en": "Tar Shot",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "魔法粉",
+    "name_en": "Magic Powder",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "龙箭",
+    "name_en": "Dragon Darts",
+    "type": "龙"
+  },
+  {
+    "name_cn": "茶会",
+    "name_en": "Teatime",
+    "type": "一般"
+  },
+  {
+    "name_cn": "蛸固",
+    "name_en": "Octolock",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "电喙",
+    "name_en": "Bolt Beak",
+    "type": "电"
+  },
+  {
+    "name_cn": "鳃咬",
+    "name_en": "Fishious Rend",
+    "type": "水"
+  },
+  {
+    "name_cn": "换场",
+    "name_en": "Court Change",
+    "type": "一般"
+  },
+  {
+    "name_cn": "极巨火爆",
+    "name_en": "Max Flare",
+    "type": "火"
+  },
+  {
+    "name_cn": "极巨虫蛊",
+    "name_en": "Max Flutterby",
+    "type": "虫"
+  },
+  {
+    "name_cn": "极巨闪电",
+    "name_en": "Max Lightning",
+    "type": "电"
+  },
+  {
+    "name_cn": "极巨攻击",
+    "name_en": "Max Strike",
+    "type": "一般"
+  },
+  {
+    "name_cn": "极巨拳斗",
+    "name_en": "Max Knuckle",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "极巨幽魂",
+    "name_en": "Max Phantasm",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "极巨寒冰",
+    "name_en": "Max Hailstorm",
+    "type": "冰"
+  },
+  {
+    "name_cn": "极巨酸毒",
+    "name_en": "Max Ooze",
+    "type": "毒"
+  },
+  {
+    "name_cn": "极巨水流",
+    "name_en": "Max Geyser",
+    "type": "水"
+  },
+  {
+    "name_cn": "极巨飞冲",
+    "name_en": "Max Airstream",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "极巨妖精",
+    "name_en": "Max Starfall",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "极巨龙骑",
+    "name_en": "Max Wyrmwind",
+    "type": "龙"
+  },
+  {
+    "name_cn": "极巨超能",
+    "name_en": "Max Mindstorm",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "极巨岩石",
+    "name_en": "Max Rockfall",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "极巨大地",
+    "name_en": "Max Quake",
+    "type": "地面"
+  },
+  {
+    "name_cn": "极巨恶霸",
+    "name_en": "Max Darkness",
+    "type": "恶"
+  },
+  {
+    "name_cn": "极巨草原",
+    "name_en": "Max Overgrowth",
+    "type": "草"
+  },
+  {
+    "name_cn": "极巨钢铁",
+    "name_en": "Max Steelspike",
+    "type": "钢"
+  },
+  {
+    "name_cn": "魂舞烈音爆",
+    "name_en": "Clangorous Soul",
+    "type": "龙"
+  },
+  {
+    "name_cn": "扑击",
+    "name_en": "Body Press",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "装饰",
+    "name_en": "Decorate",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "鼓击",
+    "name_en": "Drum Beating",
+    "type": "草"
+  },
+  {
+    "name_cn": "捕兽夹",
+    "name_en": "Snap Trap",
+    "type": "草"
+  },
+  {
+    "name_cn": "火焰球",
+    "name_en": "Pyro Ball",
+    "type": "火"
+  },
+  {
+    "name_cn": "巨兽斩",
+    "name_en": "Behemoth Blade",
+    "type": "钢"
+  },
+  {
+    "name_cn": "巨兽弹",
+    "name_en": "Behemoth Bash",
+    "type": "钢"
+  },
+  {
+    "name_cn": "气场轮",
+    "name_en": "Aura Wheel",
+    "type": "电"
+  },
+  {
+    "name_cn": "广域破坏",
+    "name_en": "Breaking Swipe",
+    "type": "龙"
+  },
+  {
+    "name_cn": "木枝突刺",
+    "name_en": "Branch Poke",
+    "type": "草"
+  },
+  {
+    "name_cn": "破音",
+    "name_en": "Overdrive",
+    "type": "电"
+  },
+  {
+    "name_cn": "苹果酸",
+    "name_en": "Apple Acid",
+    "type": "草"
+  },
+  {
+    "name_cn": "万有引力",
+    "name_en": "Grav Apple",
+    "type": "草"
+  },
+  {
+    "name_cn": "灵魂冲击",
+    "name_en": "Spirit Break",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "神奇蒸汽",
+    "name_en": "Strange Steam",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "生命水滴",
+    "name_en": "Life Dew",
+    "type": "水"
+  },
+  {
+    "name_cn": "拦堵",
+    "name_en": "Obstruct",
+    "type": "恶"
+  },
+  {
+    "name_cn": "假跪真撞",
+    "name_en": "False Surrender",
+    "type": "恶"
+  },
+  {
+    "name_cn": "流星突击",
+    "name_en": "Meteor Assault",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "无极光束",
+    "name_en": "Eternabeam",
+    "type": "龙"
+  },
+  {
+    "name_cn": "铁蹄光线",
+    "name_en": "Steel Beam",
+    "type": "钢"
+  },
+  {
+    "name_cn": "广域战力",
+    "name_en": "Expanding Force",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "铁滚轮",
+    "name_en": "Steel Roller",
+    "type": "钢"
+  },
+  {
+    "name_cn": "鳞射",
+    "name_en": "Scale Shot",
+    "type": "龙"
+  },
+  {
+    "name_cn": "流星光束",
+    "name_en": "Meteor Beam",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "臂贝武器",
+    "name_en": "Shell Side Arm",
+    "type": "毒"
+  },
+  {
+    "name_cn": "薄雾炸裂",
+    "name_en": "Misty Explosion",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "青草滑梯",
+    "name_en": "Grassy Glide",
+    "type": "草"
+  },
+  {
+    "name_cn": "电力上升",
+    "name_en": "Rising Voltage",
+    "type": "电"
+  },
+  {
+    "name_cn": "大地波动",
+    "name_en": "Terrain Pulse",
+    "type": "一般"
+  },
+  {
+    "name_cn": "爬击",
+    "name_en": "Skitter Smack",
+    "type": "虫"
+  },
+  {
+    "name_cn": "妒火",
+    "name_en": "Burning Jealousy",
+    "type": "火"
+  },
+  {
+    "name_cn": "泄愤",
+    "name_en": "Lash Out",
+    "type": "恶"
+  },
+  {
+    "name_cn": "灵骚",
+    "name_en": "Poltergeist",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "腐蚀气体",
+    "name_en": "Corrosive Gas",
+    "type": "毒"
+  },
+  {
+    "name_cn": "指导",
+    "name_en": "Coaching",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "快速折返",
+    "name_en": "Flip Turn",
+    "type": "水"
+  },
+  {
+    "name_cn": "三旋击",
+    "name_en": "Triple Axel",
+    "type": "冰"
+  },
+  {
+    "name_cn": "双翼",
+    "name_en": "Dual Wingbeat",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "热沙大地",
+    "name_en": "Scorching Sands",
+    "type": "地面"
+  },
+  {
+    "name_cn": "丛林治疗",
+    "name_en": "Jungle Healing",
+    "type": "草"
+  },
+  {
+    "name_cn": "暗冥强击",
+    "name_en": "Wicked Blow",
+    "type": "恶"
+  },
+  {
+    "name_cn": "水流连打",
+    "name_en": "Surging Strikes",
+    "type": "水"
+  },
+  {
+    "name_cn": "雷电囚笼",
+    "name_en": "Thunder Cage",
+    "type": "电"
+  },
+  {
+    "name_cn": "巨龙威能",
+    "name_en": "Dragon Energy",
+    "type": "龙"
+  },
+  {
+    "name_cn": "冰冷视线",
+    "name_en": "Freezing Glare",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "怒火中烧",
+    "name_en": "Fiery Wrath",
+    "type": "恶"
+  },
+  {
+    "name_cn": "雷鸣蹴击",
+    "name_en": "Thunderous Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "雪矛",
+    "name_en": "Glacial Lance",
+    "type": "冰"
+  },
+  {
+    "name_cn": "星碎",
+    "name_en": "Astral Barrage",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "诡异咒语",
+    "name_en": "Eerie Spell",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "克命爪",
+    "name_en": "Dire Claw",
+    "type": "毒"
+  },
+  {
+    "name_cn": "屏障猛攻",
+    "name_en": "Psyshield Bash",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "力量转换",
+    "name_en": "Power Shift",
+    "type": "一般"
+  },
+  {
+    "name_cn": "岩斧",
+    "name_en": "Stone Axe",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "阳春风暴",
+    "name_en": "Springtide Storm",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "神秘之力",
+    "name_en": "Mystical Power",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "大愤慨",
+    "name_en": "Raging Fury",
+    "type": "火"
+  },
+  {
+    "name_cn": "波动冲",
+    "name_en": "Wave Crash",
+    "type": "水"
+  },
+  {
+    "name_cn": "叶绿爆震",
+    "name_en": "Chloroblast",
+    "type": "草"
+  },
+  {
+    "name_cn": "冰山风",
+    "name_en": "Mountain Gale",
+    "type": "冰"
+  },
+  {
+    "name_cn": "胜利之舞",
+    "name_en": "Victory Dance",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "突飞猛扑",
+    "name_en": "Headlong Rush",
+    "type": "地面"
+  },
+  {
+    "name_cn": "毒千针",
+    "name_en": "Barb Barrage",
+    "type": "毒"
+  },
+  {
+    "name_cn": "气场之翼",
+    "name_en": "Esper Wing",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "冤冤相报",
+    "name_en": "Bitter Malice",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "闭关",
+    "name_en": "Shelter",
+    "type": "钢"
+  },
+  {
+    "name_cn": "三连箭",
+    "name_en": "Triple Arrows",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "群魔乱舞",
+    "name_en": "Infernal Parade",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "秘剑・千重涛",
+    "name_en": "Ceaseless Edge",
+    "type": "恶"
+  },
+  {
+    "name_cn": "枯叶风暴",
+    "name_en": "Bleakwind Storm",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "鸣雷风暴",
+    "name_en": "Wildbolt Storm",
+    "type": "电"
+  },
+  {
+    "name_cn": "热沙风暴",
+    "name_en": "Sandsear Storm",
+    "type": "地面"
+  },
+  {
+    "name_cn": "新月祈祷",
+    "name_en": "Lunar Blessing",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "勇气填充",
+    "name_en": "Take Heart",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "太晶爆发",
+    "name_en": "Tera Blast",
+    "type": "一般"
+  },
+  {
+    "name_cn": "线阱",
+    "name_en": "Silk Trap",
+    "type": "虫"
+  },
+  {
+    "name_cn": "下压踢",
+    "name_en": "Axe Kick",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "扫墓",
+    "name_en": "Last Respects",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "琉光冲激",
+    "name_en": "Lumina Crash",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "上菜",
+    "name_en": "Order Up",
+    "type": "龙"
+  },
+  {
+    "name_cn": "喷射拳",
+    "name_en": "Jet Punch",
+    "type": "水"
+  },
+  {
+    "name_cn": "辣椒精华",
+    "name_en": "Spicy Extract",
+    "type": "草"
+  },
+  {
+    "name_cn": "疾速转轮",
+    "name_en": "Spin Out",
+    "type": "钢"
+  },
+  {
+    "name_cn": "鼠数儿",
+    "name_en": "Population Bomb",
+    "type": "一般"
+  },
+  {
+    "name_cn": "冰旋",
+    "name_en": "Ice Spinner",
+    "type": "冰"
+  },
+  {
+    "name_cn": "巨剑突击",
+    "name_en": "Glaive Rush",
+    "type": "龙"
+  },
+  {
+    "name_cn": "复生祈祷",
+    "name_en": "Revival Blessing",
+    "type": "一般"
+  },
+  {
+    "name_cn": "盐腌",
+    "name_en": "Salt Cure",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "三连钻",
+    "name_en": "Triple Dive",
+    "type": "水"
+  },
+  {
+    "name_cn": "晶光转转",
+    "name_en": "Mortal Spin",
+    "type": "毒"
+  },
+  {
+    "name_cn": "描绘",
+    "name_en": "Doodle",
+    "type": "一般"
+  },
+  {
+    "name_cn": "甩肉",
+    "name_en": "Fillet Away",
+    "type": "一般"
+  },
+  {
+    "name_cn": "仆刀",
+    "name_en": "Kowtow Cleave",
+    "type": "恶"
+  },
+  {
+    "name_cn": "千变万花",
+    "name_en": "Flower Trick",
+    "type": "草"
+  },
+  {
+    "name_cn": "闪焰高歌",
+    "name_en": "Torch Song",
+    "type": "火"
+  },
+  {
+    "name_cn": "流水旋舞",
+    "name_en": "Aqua Step",
+    "type": "水"
+  },
+  {
+    "name_cn": "怒牛",
+    "name_en": "Raging Bull",
+    "type": "一般"
+  },
+  {
+    "name_cn": "淘金潮",
+    "name_en": "Make It Rain",
+    "type": "钢"
+  },
+  {
+    "name_cn": "精神剑",
+    "name_en": "Psyblade",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "水蒸气",
+    "name_en": "Hydro Steam",
+    "type": "水"
+  },
+  {
+    "name_cn": "大灾难",
+    "name_en": "Ruination",
+    "type": "恶"
+  },
+  {
+    "name_cn": "全开猛撞",
+    "name_en": "Collision Course",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "闪电猛冲",
+    "name_en": "Electro Drift",
+    "type": "电"
+  },
+  {
+    "name_cn": "断尾",
+    "name_en": "Shed Tail",
+    "type": "一般"
+  },
+  {
+    "name_cn": "冷笑话",
+    "name_en": "Chilly Reception",
+    "type": "冰"
+  },
+  {
+    "name_cn": "大扫除",
+    "name_en": "Tidy Up",
+    "type": "一般"
+  },
+  {
+    "name_cn": "雪景",
+    "name_en": "Snowscape",
+    "type": "冰"
+  },
+  {
+    "name_cn": "虫扑",
+    "name_en": "Pounce",
+    "type": "虫"
+  },
+  {
+    "name_cn": "起草",
+    "name_en": "Trailblaze",
+    "type": "草"
+  },
+  {
+    "name_cn": "泼冷水",
+    "name_en": "Chilling Water",
+    "type": "水"
+  },
+  {
+    "name_cn": "强力钻",
+    "name_en": "Hyper Drill",
+    "type": "一般"
+  },
+  {
+    "name_cn": "双光束",
+    "name_en": "Twin Beam",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "愤怒之拳",
+    "name_en": "Rage Fist",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "铠农炮",
+    "name_en": "Armor Cannon",
+    "type": "火"
+  },
+  {
+    "name_cn": "悔念剑",
+    "name_en": "Bitter Blade",
+    "type": "火"
+  },
+  {
+    "name_cn": "电光双击",
+    "name_en": "Double Shock",
+    "type": "电"
+  },
+  {
+    "name_cn": "巨力锤",
+    "name_en": "Gigaton Hammer",
+    "type": "钢"
+  },
+  {
+    "name_cn": "复仇",
+    "name_en": "Comeuppance",
+    "type": "恶"
+  },
+  {
+    "name_cn": "水波刀",
+    "name_en": "Aqua Cutter",
+    "type": "水"
+  },
+  {
+    "name_cn": "灼热暴冲",
+    "name_en": "Blazing Torque",
+    "type": "火"
+  },
+  {
+    "name_cn": "黑暗暴冲",
+    "name_en": "Wicked Torque",
+    "type": "恶"
+  },
+  {
+    "name_cn": "剧毒暴冲",
+    "name_en": "Noxious Torque",
+    "type": "毒"
+  },
+  {
+    "name_cn": "格斗暴冲",
+    "name_en": "Combat Torque",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "魔法暴冲",
+    "name_en": "Magical Torque",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "血月",
+    "name_en": "Blood Moon",
+    "type": "一般"
+  },
+  {
+    "name_cn": "刷刷茶炮",
+    "name_en": "Matcha Gotcha",
+    "type": "草"
+  },
+  {
+    "name_cn": "糖浆炸弹",
+    "name_en": "Syrup Bomb‎",
+    "type": "草"
+  },
+  {
+    "name_cn": "棘藤棒",
+    "name_en": "Ivy Cudgel",
+    "type": "草"
+  },
+  {
+    "name_cn": "电光束",
+    "name_en": "Electro Shot",
+    "type": "电"
+  },
+  {
+    "name_cn": "晶光星群",
+    "name_en": "Tera Starstorm",
+    "type": "一般"
+  },
+  {
+    "name_cn": "随机光",
+    "name_en": "Fickle Beam",
+    "type": "龙"
+  },
+  {
+    "name_cn": "火焰守护",
+    "name_en": "Burning Bulwark",
+    "type": "火"
+  },
+  {
+    "name_cn": "迅雷",
+    "name_en": "Thunderclap",
+    "type": "电"
+  },
+  {
+    "name_cn": "强刃攻击",
+    "name_en": "Mighty Cleave",
+    "type": "岩石"
+  },
+  {
+    "name_cn": "迅子利刃",
+    "name_en": "Tachyon Cutter",
+    "type": "钢"
+  },
+  {
+    "name_cn": "硬压",
+    "name_en": "Hard Press",
+    "type": "钢"
+  },
+  {
+    "name_cn": "龙声鼓舞",
+    "name_en": "Dragon Cheer",
+    "type": "龙"
+  },
+  {
+    "name_cn": "魅诱之声",
+    "name_en": "Alluring Voice",
+    "type": "妖精"
+  },
+  {
+    "name_cn": "豁出去",
+    "name_en": "Temper Flare",
+    "type": "火"
+  },
+  {
+    "name_cn": "闪电强袭",
+    "name_en": "Supercell Slam",
+    "type": "电"
+  },
+  {
+    "name_cn": "精神噪音",
+    "name_en": "Psychic Noise",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "快手还击",
+    "name_en": "Upper Hand",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "邪毒锁链",
+    "name_en": "Malignant Chain",
+    "type": "毒"
+  },
+  {
+    "name_cn": "归无之光",
+    "name_en": "Nihil Light",
+    "type": "龙"
+  },
+  {
+    "name_cn": "磷火",
+    "name_en": "Will-O-Wisp",
+    "type": "火"
+  },
+  {
+    "name_cn": "臂锤",
+    "name_en": "Hammer Arm",
+    "type": "格斗"
+  },
+  {
+    "name_cn": "移花接木",
+    "name_en": "Grassy Glide",
+    "type": "草"
+  },
+  {
+    "name_cn": "精神冲击",
+    "name_en": "Psyshock",
+    "type": "超能力"
+  },
+  {
+    "name_cn": "咒术",
+    "name_en": "Curse",
+    "type": "幽灵"
+  },
+  {
+    "name_cn": "空气之刃",
+    "name_en": "Air Slash",
+    "type": "飞行"
+  },
+  {
+    "name_cn": "终焉之歌",
+    "name_en": "Perish Song",
+    "type": "一般"
+  },
+  {
+    "name_cn": "深渊突刺",
+    "name_en": "Ceaseless Edge",
+    "type": "恶"
+  },
+  {
+    "name_cn": "愤怒粉",
+    "name_en": "Rage Powder",
+    "type": "虫"
+  },
+  {
+    "name_cn": "蓄能焰袭",
+    "name_en": "Flare Blitz",
+    "type": "火"
+  },
+  {
+    "name_cn": "以牙还牙",
+    "name_en": "Payback",
+    "type": "恶"
+  },
+  {
+    "name_cn": "纠缠不休",
+    "name_en": "Infestation",
+    "type": "虫"
+  },
+  {
+    "name_cn": "玉石俱碎",
+    "name_en": "Shell Smash",
+    "type": "一般"
+  },
+  {
+    "name_cn": "投掷",
+    "name_en": "Fling",
+    "type": "恶"
+  },
+  {
+    "name_cn": "可怕面孔",
+    "name_en": "Scary Face",
+    "type": "一般"
+  },
+  {
+    "name_cn": "极落钳",
+    "name_en": "Guillotine",
+    "type": "一般"
+  },
+  {
+    "name_cn": "清除之烟",
+    "name_en": "Clear Smog",
+    "type": "毒"
+  },
+  {
+    "name_cn": "高温重压",
+    "name_en": "Heat Crash",
+    "type": "火"
+  },
+  {
+    "name_cn": "DDラリアット",
+    "name_en": "Darkest Lariat",
+    "type": "恶"
+  },
+  {
+    "name_cn": "盘蜷",
+    "name_en": "Coil",
+    "type": "毒"
+  },
+  {
+    "name_cn": "疯狂伏特",
+    "name_en": "Wild Charge",
+    "type": "电"
+  }
+]
