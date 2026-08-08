@@ -1,0 +1,6508 @@
+{
+  "trainers": [
+    {
+      "rank": "1",
+      "username": "マギカウラ",
+      "points": "2535.108",
+      "pokemon": [
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "地震",
+            "守住",
+            "岩崩",
+            "跺脚"
+          ],
+          "item": "烈咬陆鲨进化石",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "铁头",
+            "突袭",
+            "守住"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [
+            "克命爪",
+            "击掌奇袭",
+            "指导",
+            "近身战"
+          ],
+          "item": "气势披带",
+          "ability": "轻装",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [
+            "刷刷茶炮",
+            "愤怒粉",
+            "戏法空间",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "款待",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [
+            "闪焰冲锋",
+            "击掌奇袭",
+            "抛下狠话",
+            "帮助"
+          ],
+          "item": "吃剩的东西",
+          "ability": "威吓",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "魔法闪耀",
+            "吸取之吻",
+            "守住",
+            "冥想"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/magicauravgc"
+    },
+    {
+      "rank": "2",
+      "username": "やなぎ",
+      "points": "2509.112",
+      "pokemon": [
+        {
+          "name": "姆克鹰",
+          "moves": [],
+          "item": "姆克鹰进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "煤炭龟",
+          "moves": [],
+          "item": "木炭",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "坚盾剑怪",
+          "moves": [],
+          "item": "白色香草",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://www.youtube.com/channel/UCf65AQmdqjuTKYEnPluzsWg"
+    },
+    {
+      "rank": "3",
+      "username": "ふゆばれ",
+      "points": "2506.138",
+      "pokemon": [
+        {
+          "name": "化石翼龙",
+          "moves": [
+            "岩崩",
+            "双翼",
+            "冰冻牙",
+            "顺风"
+          ],
+          "item": "化石翼龙进化石",
+          "ability": "紧张感",
+          "evs": {
+            "hp": 16,
+            "atk": 18,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "铁头",
+            "突袭",
+            "踢倒"
+          ],
+          "item": "气势披带",
+          "ability": "不服输",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 2,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [
+            "精神强念",
+            "十万伏特",
+            "戏法空间",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "尾甲",
+          "evs": {
+            "hp": 29,
+            "atk": 0,
+            "def": 21,
+            "spa": 0,
+            "spd": 16,
+            "spe": 0
+          },
+          "nature": "冷静"
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "巨声",
+            "哈欠",
+            "电光一闪",
+            "看穿"
+          ],
+          "item": "妖精之羽",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 21,
+            "atk": 0,
+            "def": 25,
+            "spa": 13,
+            "spd": 0,
+            "spe": 7
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "日光束",
+            "气象球",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 22,
+            "atk": 0,
+            "def": 20,
+            "spa": 11,
+            "spd": 0,
+            "spe": 13
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "地震",
+            "龙爪",
+            "跺脚",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 6,
+            "atk": 28,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        }
+      ],
+      "url": "https://www.youtube.com/@Huyubare_poke"
+    },
+    {
+      "rank": "7",
+      "username": "まりるり",
+      "points": "2493.299",
+      "pokemon": [
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "顺风",
+            "再来一次",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 2,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙爪",
+            "跺脚",
+            "岩崩",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 29,
+            "atk": 15,
+            "def": 4,
+            "spa": 0,
+            "spd": 2,
+            "spe": 16
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "适应力",
+          "evs": {
+            "hp": 4,
+            "atk": 28,
+            "def": 11,
+            "spa": 0,
+            "spd": 8,
+            "spe": 15
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "铁头",
+            "踢倒",
+            "突袭"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 28,
+            "atk": 5,
+            "def": 1,
+            "spa": 0,
+            "spd": 32,
+            "spe": 0
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "月亮之力",
+            "魔法闪耀",
+            "破灭之光",
+            "守住"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 1,
+            "atk": 0,
+            "def": 1,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "日光束",
+            "气象球",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 16,
+            "atk": 0,
+            "def": 31,
+            "spa": 14,
+            "spd": 0,
+            "spe": 5
+          },
+          "nature": "大胆"
+        }
+      ],
+      "url": "https://twitter.com/mariruripokemo2"
+    },
+    {
+      "rank": "15",
+      "username": "Chloha",
+      "points": "2435.558",
+      "pokemon": [
+        {
+          "name": "火焰鸡",
+          "moves": [
+            "近身战",
+            "闪焰冲锋",
+            "岩崩",
+            "守住"
+          ],
+          "item": "火焰鸡进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "魔幻假面喵",
+          "moves": [
+            "千变万花",
+            "三旋击",
+            "突袭",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "茂盛",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "赛富豪",
+          "moves": [
+            "淘金潮",
+            "暗影球",
+            "力量宝石",
+            "真气弹"
+          ],
+          "item": "讲究围巾",
+          "ability": "黄金之躯",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "快龙",
+          "moves": [
+            "鳞射",
+            "蛮力",
+            "神速",
+            "守住"
+          ],
+          "item": "白色香草",
+          "ability": "多重鳞片",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "巨声",
+            "电光一闪",
+            "哈欠",
+            "看穿"
+          ],
+          "item": "气势披带",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "重泥挽马",
+          "moves": [
+            "十万马力",
+            "重磅冲撞",
+            "守住",
+            "咒术"
+          ],
+          "item": "文柚果",
+          "ability": "精神力",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/Kurohanolu"
+    },
+    {
+      "rank": "19",
+      "username": "いとも",
+      "points": "2426.957",
+      "pokemon": [
+        {
+          "name": "快龙",
+          "moves": [
+            "龙之波动",
+            "热风",
+            "神速",
+            "守住"
+          ],
+          "item": "快龙进化石",
+          "ability": "",
+          "evs": {
+            "hp": 8,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 26
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "巨声",
+            "破坏光线",
+            "月亮之力",
+            "电光一闪"
+          ],
+          "item": "讲究围巾",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "大狃拉",
+          "moves": [
+            "毒击",
+            "近身战",
+            "击掌奇袭",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "毒手",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "化石翼龙",
+          "moves": [
+            "双翼",
+            "守住",
+            "广域防守",
+            "顺风"
+          ],
+          "item": "化石翼龙进化石",
+          "ability": "",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "地震",
+            "龙爪",
+            "岩崩",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "突袭",
+            "铁头",
+            "守住"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 32,
+            "atk": 23,
+            "def": 1,
+            "spa": 0,
+            "spd": 9,
+            "spe": 1
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://twitter.com/itomo66_x_"
+    },
+    {
+      "rank": "22",
+      "username": "じーん",
+      "points": "2417.119",
+      "pokemon": [
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "突袭",
+            "踢倒",
+            "守住"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "气象球",
+            "替身",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "太阳之力",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "月亮之力",
+            "魔法闪耀",
+            "破灭之光",
+            "守住"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "顺风",
+            "再来一次",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "地震",
+            "岩崩",
+            "跺脚",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/zeen172M"
+    },
+    {
+      "rank": "24",
+      "username": "sudoz",
+      "points": "2414.552",
+      "pokemon": [
+        {
+          "name": "雪妖女",
+          "moves": [],
+          "item": "雪妖女进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "神秘水滴",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "快龙",
+          "moves": [],
+          "item": "快龙进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "洛玫果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "莲蒲果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/SudozZ"
+    },
+    {
+      "rank": "29",
+      "username": "Mitsu",
+      "points": "2409.074",
+      "pokemon": [],
+      "url": "https://twitter.com/Etsukocccc"
+    },
+    {
+      "rank": "30",
+      "username": "勝海/かつみ",
+      "points": "2407.777",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/Kaaaaatsumii"
+    },
+    {
+      "rank": "31",
+      "username": "りょうたろう",
+      "points": "2407.406",
+      "pokemon": [
+        {
+          "name": "水箭龟",
+          "moves": [
+            "喷水",
+            "恶之波动",
+            "波导弹",
+            "守住"
+          ],
+          "item": "水箭龟进化石",
+          "ability": "雨盘",
+          "evs": {
+            "hp": 1,
+            "atk": 0,
+            "def": 1,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "一家鼠",
+          "moves": [
+            "看我嘛",
+            "愤怒门牙",
+            "挑衅",
+            "守住"
+          ],
+          "item": "莲蒲果",
+          "ability": "友情防守",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 8,
+            "spa": 0,
+            "spd": 2,
+            "spe": 24
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "烈箭鹰",
+          "moves": [
+            "勇鸟猛攻",
+            "闪焰冲锋",
+            "顺风",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "疾风之翼",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "地震",
+            "龙爪",
+            "岩崩",
+            "守住"
+          ],
+          "item": "洛玫果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "月亮之力",
+            "魔法闪耀",
+            "破灭之光",
+            "守住"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "扫墓",
+            "波动冲",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        }
+      ],
+      "url": "https://twitter.com/INFP_poke"
+    },
+    {
+      "rank": "34",
+      "username": "Light",
+      "points": "2405.94",
+      "pokemon": [
+        {
+          "name": "化石翼龙",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈箭鹰",
+          "moves": [
+            "过热",
+            "顺风",
+            "挑衅",
+            "快速防守"
+          ],
+          "item": "木炭",
+          "ability": "疾风之翼",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/Light826poke"
+    },
+    {
+      "rank": "35",
+      "username": "은조순",
+      "points": "2404.904",
+      "pokemon": [
+        {
+          "name": "七夕青鸟",
+          "moves": [
+            "龙之波动",
+            "帮助",
+            "顺风",
+            "守住"
+          ],
+          "item": "番荔果",
+          "ability": "无关天气",
+          "evs": {
+            "hp": 27,
+            "atk": 0,
+            "def": 30,
+            "spa": 1,
+            "spd": 5,
+            "spe": 3
+          },
+          "nature": "温和"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "地震",
+            "守住",
+            "跺脚",
+            "岩崩"
+          ],
+          "item": "文柚果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 31,
+            "atk": 10,
+            "def": 10,
+            "spa": 0,
+            "spd": 4,
+            "spe": 11
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "大狃拉",
+          "moves": [
+            "近身战",
+            "克命爪",
+            "指导",
+            "击掌奇袭"
+          ],
+          "item": "白色香草",
+          "ability": "轻装",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "突袭",
+            "铁头",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "不服输",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "扫墓",
+            "波动冲",
+            "水流喷射",
+            "快速折返"
+          ],
+          "item": "讲究围巾",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 23,
+            "def": 11,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "破灭之光",
+            "魔法闪耀",
+            "替身",
+            "守住"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 8,
+            "atk": 0,
+            "def": 1,
+            "spa": 25,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        }
+      ],
+      "url": "https://twitter.com/IamSliverfish"
+    },
+    {
+      "rank": "36",
+      "username": "すどう",
+      "points": "2402.227",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "风妖精",
+          "moves": [],
+          "item": "妖精之羽",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "神秘水滴",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "姆克鹰",
+          "moves": [],
+          "item": "姆克鹰进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "晶光花",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/Sudo_00"
+    },
+    {
+      "rank": "37",
+      "username": "猪狩",
+      "points": "2401.913",
+      "pokemon": [
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "月亮之力",
+            "魔法闪耀",
+            "冥想",
+            "守住"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 5,
+            "spa": 15,
+            "spd": 0,
+            "spe": 14
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [
+            "闪焰冲锋",
+            "击掌奇袭",
+            "挑衅",
+            "抛下狠话"
+          ],
+          "item": "文柚果",
+          "ability": "威吓",
+          "evs": {
+            "hp": 30,
+            "atk": 0,
+            "def": 2,
+            "spa": 0,
+            "spd": 10,
+            "spe": 24
+          },
+          "nature": "慎重"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "扫墓",
+            "水流裂破",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [
+            "暗影球",
+            "愤怒粉",
+            "生命水滴",
+            "守住"
+          ],
+          "item": "刺耳果",
+          "ability": "款待",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 30,
+            "spe": 0
+          },
+          "nature": "温和"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "跺脚",
+            "岩崩",
+            "龙爪",
+            "地震"
+          ],
+          "item": "讲究围巾",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "烈箭鹰",
+          "moves": [
+            "勇鸟猛攻",
+            "磷火",
+            "佯攻",
+            "顺风"
+          ],
+          "item": "千香果",
+          "ability": "疾风之翼",
+          "evs": {
+            "hp": 22,
+            "atk": 17,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 27
+          },
+          "nature": "爽朗"
+        }
+      ],
+      "url": "https://megacresselia.hatenadiary.jp/entry/2026/08/06/213813"
+    },
+    {
+      "rank": "41",
+      "username": "johnny",
+      "points": "2393.345",
+      "pokemon": [
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [
+            "闪焰冲锋",
+            "ＤＤ金勾臂",
+            "近身战",
+            "击掌奇袭"
+          ],
+          "item": "白色香草",
+          "ability": "威吓",
+          "evs": {
+            "hp": 32,
+            "atk": 31,
+            "def": 3,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "勇敢"
+        },
+        {
+          "name": "布莉姆温",
+          "moves": [
+            "精神强念",
+            "戏法空间",
+            "魔法闪耀",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "魔法镜",
+          "evs": {
+            "hp": 27,
+            "atk": 0,
+            "def": 7,
+            "spa": 32,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "冷静"
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [
+            "精神强念",
+            "戏法空间",
+            "十万伏特",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "尾甲",
+          "evs": {
+            "hp": 29,
+            "atk": 0,
+            "def": 3,
+            "spa": 2,
+            "spd": 32,
+            "spe": 0
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "煤炭龟",
+          "moves": [
+            "喷火",
+            "气象球",
+            "大地之力",
+            "守住"
+          ],
+          "item": "木炭",
+          "ability": "日照",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 2,
+            "spe": 0
+          },
+          "nature": "冷静"
+        },
+        {
+          "name": "袋兽",
+          "moves": [
+            "舍身冲撞",
+            "击掌奇袭",
+            "踢倒",
+            "突袭"
+          ],
+          "item": "袋兽进化石",
+          "ability": "胆量",
+          "evs": {
+            "hp": 32,
+            "atk": 31,
+            "def": 3,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "勇敢"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "过热",
+            "日光束",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 22,
+            "atk": 0,
+            "def": 16,
+            "spa": 11,
+            "spd": 0,
+            "spe": 17
+          },
+          "nature": "内敛"
+        }
+      ],
+      "url": "https://twitter.com/Johnnychiou36"
+    },
+    {
+      "rank": "43",
+      "username": "アングル",
+      "points": "2383.198",
+      "pokemon": [
+        {
+          "name": "大嘴鸥",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "铝钢桥龙",
+          "moves": [],
+          "item": "吃剩的东西",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "讲究围巾",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "长毛巨魔",
+          "moves": [],
+          "item": "光之黏土",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "巨金怪",
+          "moves": [],
+          "item": "巨金怪进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/279angle"
+    },
+    {
+      "rank": "53",
+      "username": "リンヤ@TNR",
+      "points": "2364.687",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "风妖精",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "莲蒲果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [],
+          "item": "花叶蒂进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/gozira2004"
+    },
+    {
+      "rank": "57",
+      "username": "ゆヌぽんヌ",
+      "points": "2360.826",
+      "pokemon": [
+        {
+          "name": "花叶蒂",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "风妖精",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/yunuponnu"
+    },
+    {
+      "rank": "58",
+      "username": "Pizzamemes",
+      "points": "2360.77",
+      "pokemon": [
+        {
+          "name": "奇麒麟",
+          "moves": [
+            "帮助",
+            "精神强念",
+            "十万伏特",
+            "戏法空间"
+          ],
+          "item": "文柚果",
+          "ability": "尾甲",
+          "evs": {
+            "hp": 17,
+            "atk": 0,
+            "def": 32,
+            "spa": 0,
+            "spd": 17,
+            "spe": 0
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "火焰鸡",
+          "moves": [
+            "近身战",
+            "看穿",
+            "闪焰冲锋",
+            "岩崩"
+          ],
+          "item": "火焰鸡进化石",
+          "ability": "加速",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "守住",
+            "波动冲",
+            "扫墓",
+            "水流喷射"
+          ],
+          "item": "生命宝珠",
+          "ability": "适应力",
+          "evs": {
+            "hp": 14,
+            "atk": 28,
+            "def": 22,
+            "spa": 0,
+            "spd": 2,
+            "spe": 0
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "妙蛙花",
+          "moves": [
+            "守住",
+            "污泥炸弹",
+            "大地之力",
+            "终极吸取"
+          ],
+          "item": "妙蛙花进化石",
+          "ability": "叶绿素",
+          "evs": {
+            "hp": 30,
+            "atk": 0,
+            "def": 1,
+            "spa": 30,
+            "spd": 1,
+            "spe": 4
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "铁头",
+            "突袭",
+            "踢倒"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 23,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 11
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "阿罗拉九尾",
+          "moves": [
+            "暴风雪",
+            "极光幕",
+            "再来一次",
+            "守住"
+          ],
+          "item": "光之黏土",
+          "ability": "降雪",
+          "evs": {
+            "hp": 13,
+            "atk": 0,
+            "def": 1,
+            "spa": 19,
+            "spd": 1,
+            "spe": 32
+          },
+          "nature": "胆小"
+        }
+      ],
+      "url": "https://twitter.com/PizzamemesVGC"
+    },
+    {
+      "rank": "59",
+      "username": "じゅんや",
+      "points": "2360.352",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "日光束",
+            "气象球",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "再来一次",
+            "顺风",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙爪",
+            "地震",
+            "岩崩",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "神秘水滴",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "铁头",
+            "突袭",
+            "守住"
+          ],
+          "item": "黑色眼镜",
+          "ability": "不服输",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [
+            "精神强念",
+            "十万伏特",
+            "帮助",
+            "戏法空间"
+          ],
+          "item": "文柚果",
+          "ability": "尾甲",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/jun_poke918"
+    },
+    {
+      "rank": "62",
+      "username": "まさき",
+      "points": "2359.545",
+      "pokemon": [
+        {
+          "name": "蚊香蛙皇",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "暴鲤龙",
+          "moves": [],
+          "item": "白色香草",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "火焰鸡",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "三首恶龙",
+          "moves": [],
+          "item": "吃剩的东西",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "莲蒲果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "巨金怪",
+          "moves": [],
+          "item": "巨金怪进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/masakipokemon9h"
+    },
+    {
+      "rank": "63",
+      "username": "栗3㌔=トチノ",
+      "points": "2356.95",
+      "pokemon": [],
+      "url": "https://twitter.com/syatenie"
+    },
+    {
+      "rank": "64",
+      "username": "スライム",
+      "points": "2356.917",
+      "pokemon": [
+        {
+          "name": "姆克鹰",
+          "moves": [
+            "羽栖",
+            "近身战",
+            "双翼",
+            "守住"
+          ],
+          "item": "姆克鹰进化石",
+          "ability": "威吓",
+          "evs": {
+            "hp": 25,
+            "atk": 5,
+            "def": 2,
+            "spa": 0,
+            "spd": 2,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "河马兽",
+          "moves": [
+            "岩石封锁",
+            "十万马力",
+            "偷懒",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "扬沙",
+          "evs": {
+            "hp": 32,
+            "atk": 8,
+            "def": 2,
+            "spa": 0,
+            "spd": 24,
+            "spe": 0
+          },
+          "nature": "勇敢"
+        },
+        {
+          "name": "晶光花",
+          "moves": [
+            "力量宝石",
+            "大地之力",
+            "晶光转转",
+            "尖刺防守"
+          ],
+          "item": "气势披带",
+          "ability": "毒满地",
+          "evs": {
+            "hp": 1,
+            "atk": 0,
+            "def": 0,
+            "spa": 29,
+            "spd": 4,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "赛富豪",
+          "moves": [
+            "暗影球",
+            "真气弹",
+            "守住",
+            "替身"
+          ],
+          "item": "吃剩的东西",
+          "ability": "黄金之躯",
+          "evs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 5,
+            "spa": 7,
+            "spd": 9,
+            "spe": 14
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "谜拟Ｑ",
+          "moves": [
+            "嬉闹",
+            "潜灵奇袭",
+            "守住",
+            "影子偷袭"
+          ],
+          "item": "生命宝珠",
+          "ability": "画皮",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "怪颚龙",
+          "moves": [
+            "十万马力",
+            "岩崩",
+            "精神之牙",
+            "冰冻牙"
+          ],
+          "item": "讲究围巾",
+          "ability": "强壮之颚",
+          "evs": {
+            "hp": 16,
+            "atk": 18,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        }
+      ],
+      "url": "https://twitter.com/1803gi"
+    },
+    {
+      "rank": "65",
+      "username": "ぎんなん",
+      "points": "2356.622",
+      "pokemon": [
+        {
+          "name": "化石翼龙",
+          "moves": [
+            "岩崩",
+            "双翼",
+            "冰冻牙",
+            "顺风"
+          ],
+          "item": "化石翼龙进化石",
+          "ability": "紧张感",
+          "evs": {
+            "hp": 28,
+            "atk": 11,
+            "def": 0,
+            "spa": 0,
+            "spd": 1,
+            "spe": 26
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "妖火红狐",
+          "moves": [
+            "热风",
+            "精神强念",
+            "诡计",
+            "守住"
+          ],
+          "item": "妖火红狐进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 19,
+            "atk": 0,
+            "def": 21,
+            "spa": 1,
+            "spd": 0,
+            "spe": 25
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "杖尾鳞甲龙",
+          "moves": [
+            "鳞片噪音",
+            "魂舞烈音爆",
+            "波导弹",
+            "守住"
+          ],
+          "item": "博识眼镜",
+          "ability": "防弹",
+          "evs": {
+            "hp": 8,
+            "atk": 0,
+            "def": 0,
+            "spa": 30,
+            "spd": 0,
+            "spe": 28
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "巨钳螳螂",
+          "moves": [
+            "子弹拳",
+            "近身战",
+            "拍落",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "技术高手",
+          "evs": {
+            "hp": 11,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 23
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [
+            "戏法空间",
+            "愤怒粉",
+            "刷刷茶炮",
+            "守住"
+          ],
+          "item": "奇迹种子",
+          "ability": "款待",
+          "evs": {
+            "hp": 19,
+            "atk": 0,
+            "def": 0,
+            "spa": 29,
+            "spd": 0,
+            "spe": 18
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [
+            "击掌奇袭",
+            "闪焰冲锋",
+            "抛下狠话",
+            "挑衅"
+          ],
+          "item": "千香果",
+          "ability": "威吓",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 10,
+            "spa": 0,
+            "spd": 8,
+            "spe": 16
+          },
+          "nature": "淘气"
+        }
+      ],
+      "url": "https://note.com/icho_poke/n/nb80aad652bbc?sub_rt=share_pb"
+    },
+    {
+      "rank": "66",
+      "username": "ノ",
+      "points": "2356.203",
+      "pokemon": [
+        {
+          "name": "雪妖女",
+          "moves": [],
+          "item": "雪妖女进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "狠辣椒",
+          "moves": [],
+          "item": "狠辣椒进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "黑色眼镜",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "鬃岩狼人",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "白色香草",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/noginen_"
+    },
+    {
+      "rank": "67",
+      "username": "さみだれ",
+      "points": "2356.162",
+      "pokemon": [
+        {
+          "name": "大嘴娃",
+          "moves": [
+            "铁头",
+            "突袭",
+            "嬉闹",
+            "守住"
+          ],
+          "item": "大嘴娃进化石",
+          "ability": "怪力钳",
+          "evs": {
+            "hp": 26,
+            "atk": 25,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 15
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "化石翼龙",
+          "moves": [
+            "岩崩",
+            "广域防守",
+            "守住",
+            "顺风"
+          ],
+          "item": "气势披带",
+          "ability": "紧张感",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [
+            "精神强念",
+            "能量球",
+            "守住",
+            "戏法空间"
+          ],
+          "item": "文柚果",
+          "ability": "尾甲",
+          "evs": {
+            "hp": 15,
+            "atk": 0,
+            "def": 31,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙爪",
+            "地震",
+            "岩崩",
+            "跺脚"
+          ],
+          "item": "讲究围巾",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 8,
+            "atk": 30,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 26
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "水箭龟",
+          "moves": [
+            "水之波动",
+            "击掌奇袭",
+            "恶之波动",
+            "波导弹"
+          ],
+          "item": "水箭龟进化石",
+          "ability": "激流",
+          "evs": {
+            "hp": 21,
+            "atk": 0,
+            "def": 11,
+            "spa": 32,
+            "spd": 2,
+            "spe": 0
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "巨声",
+            "破坏光线",
+            "守住",
+            "月亮之力"
+          ],
+          "item": "妖精之羽",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 1,
+            "atk": 0,
+            "def": 1,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        }
+      ],
+      "url": "https://samidare281.hatenablog.com/entry/2026/08/06/073210"
+    },
+    {
+      "rank": "68",
+      "username": "阿塔Atalanta",
+      "points": "2355.561",
+      "pokemon": [
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "守住",
+            "跺脚",
+            "岩崩",
+            "地震"
+          ],
+          "item": "生命宝珠",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "守住",
+            "气象球",
+            "热风",
+            "吼叫"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 22,
+            "atk": 0,
+            "def": 13,
+            "spa": 1,
+            "spd": 0,
+            "spe": 30
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "守住",
+            "月亮之力",
+            "顺风",
+            "再来一次"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "守住",
+            "破灭之光",
+            "魔法闪耀",
+            "月亮之力"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "快速折返"
+          ],
+          "item": "讲究围巾",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "一家鼠",
+          "moves": [
+            "守住",
+            "鼠数儿",
+            "佯攻",
+            "看我嘛"
+          ],
+          "item": "广角镜",
+          "ability": "技术高手",
+          "evs": {
+            "hp": 10,
+            "atk": 30,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 26
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://twitter.com/WandaLi11688951"
+    },
+    {
+      "rank": "70",
+      "username": "はなしー",
+      "points": "2353.535",
+      "pokemon": [
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙爪",
+            "劈瓦",
+            "岩石封锁",
+            "地震"
+          ],
+          "item": "烈咬陆鲨进化石",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 30,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 1,
+            "spe": 1
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "挑衅",
+            "顺风",
+            "戏法空间"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 14,
+            "spa": 0,
+            "spd": 20,
+            "spe": 0
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "妖火红狐",
+          "moves": [
+            "封印",
+            "热风",
+            "精神强念",
+            "戏法空间"
+          ],
+          "item": "妖火红狐进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 15,
+            "atk": 0,
+            "def": 22,
+            "spa": 28,
+            "spd": 0,
+            "spe": 1
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "铁头",
+            "突袭",
+            "守住"
+          ],
+          "item": "黑色眼镜",
+          "ability": "不服输",
+          "evs": {
+            "hp": 18,
+            "atk": 32,
+            "def": 1,
+            "spa": 0,
+            "spd": 15,
+            "spe": 0
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "西狮海壬",
+          "moves": [
+            "巨声",
+            "能量球",
+            "月亮之力",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "湿润之声",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 2,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "大狃拉",
+          "moves": [
+            "近身战",
+            "克命爪",
+            "快手还击",
+            "守住"
+          ],
+          "item": "白色香草",
+          "ability": "轻装",
+          "evs": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://twitter.com/hanashi_874_"
+    },
+    {
+      "rank": "73",
+      "username": "ちゃぐま",
+      "points": "2352.996",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [
+            "气象球",
+            "日光束",
+            "热风",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 20,
+            "atk": 0,
+            "def": 26,
+            "spa": 1,
+            "spd": 0,
+            "spe": 19
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "月亮之力",
+            "魔法闪耀",
+            "帮助",
+            "守住"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 16,
+            "atk": 0,
+            "def": 12,
+            "spa": 15,
+            "spd": 0,
+            "spe": 23
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "再来一次",
+            "顺风",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "突袭",
+            "铁头",
+            "仆刀",
+            "踢倒"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 30,
+            "atk": 16,
+            "def": 0,
+            "spa": 0,
+            "spd": 18,
+            "spe": 2
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙爪",
+            "地震",
+            "岩崩",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 32,
+            "atk": 10,
+            "def": 4,
+            "spa": 0,
+            "spd": 1,
+            "spe": 19
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "适应力",
+          "evs": {
+            "hp": 4,
+            "atk": 28,
+            "def": 1,
+            "spa": 0,
+            "spd": 12,
+            "spe": 21
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://twitter.com/chaguma_poke90"
+    },
+    {
+      "rank": "76",
+      "username": "KGX2A7",
+      "points": "2352.408",
+      "pokemon": [
+        {
+          "name": "巨金怪",
+          "moves": [
+            "精神之牙",
+            "跺脚",
+            "子弹拳",
+            "守住"
+          ],
+          "item": "巨金怪进化石",
+          "ability": "恒净之躯",
+          "evs": {
+            "hp": 18,
+            "atk": 25,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 23
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "快龙",
+          "moves": [
+            "龙爪",
+            "神速",
+            "踢倒",
+            "顺风"
+          ],
+          "item": "丝绸围巾",
+          "ability": "多重鳞片",
+          "evs": {
+            "hp": 1,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 1,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "巨声",
+            "破坏光线",
+            "帮助",
+            "看穿"
+          ],
+          "item": "妖精之羽",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 25,
+            "atk": 0,
+            "def": 19,
+            "spa": 20,
+            "spd": 0,
+            "spe": 2
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "象牙猪",
+          "moves": [
+            "十万马力",
+            "岩崩",
+            "冰砾",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "迟钝",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "水箭龟",
+          "moves": [
+            "喷水",
+            "恶之波动",
+            "波导弹",
+            "守住"
+          ],
+          "item": "水箭龟进化石",
+          "ability": "雨盘",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 15,
+            "spd": 0,
+            "spe": 19
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "风速狗洗翠的样子",
+          "moves": [
+            "闪焰冲锋",
+            "疯狂伏特",
+            "神速",
+            "守住"
+          ],
+          "item": "千香果",
+          "ability": "威吓",
+          "evs": {
+            "hp": 32,
+            "atk": 30,
+            "def": 4,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://twitter.com/utakata21poke"
+    },
+    {
+      "rank": "77",
+      "username": "肩幅　pk",
+      "points": "2350.696",
+      "pokemon": [
+        {
+          "name": "泥偶巨人",
+          "moves": [],
+          "item": "泥偶巨人进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [],
+          "item": "妖精之羽",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [],
+          "item": "刺耳果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "煤炭龟",
+          "moves": [],
+          "item": "木炭",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://note.com/light_aster294/n/n2e44a1dbd3ba?sub_rt=share_pb"
+    },
+    {
+      "rank": "81",
+      "username": "ゆー",
+      "points": "2344.992",
+      "pokemon": [
+        {
+          "name": "风妖精",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "莲蒲果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [],
+          "item": "花叶蒂进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/yu_yan_poke"
+    },
+    {
+      "rank": "83",
+      "username": "醤油の素",
+      "points": "2343.738",
+      "pokemon": [
+        {
+          "name": "雪妖女",
+          "moves": [
+            "暴风雪",
+            "极光幕",
+            "守住",
+            "暗影球"
+          ],
+          "item": "雪妖女进化石",
+          "ability": "诅咒之躯",
+          "evs": {
+            "hp": 12,
+            "atk": 0,
+            "def": 0,
+            "spa": 22,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "踢倒",
+            "突袭",
+            "守住"
+          ],
+          "item": "莲蒲果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 32,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 2
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "风速狗洗翠的样子",
+          "moves": [
+            "闪焰冲锋",
+            "神速",
+            "守住",
+            "疯狂伏特"
+          ],
+          "item": "文柚果",
+          "ability": "引火",
+          "evs": {
+            "hp": 32,
+            "atk": 32,
+            "def": 1,
+            "spa": 0,
+            "spd": 1,
+            "spe": 0
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "巨声",
+            "破坏光线",
+            "看穿",
+            "电光一闪"
+          ],
+          "item": "妖精之羽",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 9,
+            "atk": 0,
+            "def": 22,
+            "spa": 30,
+            "spd": 0,
+            "spe": 5
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "清洗洛托姆",
+          "moves": [
+            "水炮",
+            "十万伏特",
+            "戏法",
+            "电网"
+          ],
+          "item": "讲究围巾",
+          "ability": "飘浮",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "快龙",
+          "moves": [
+            "龙爪",
+            "神速",
+            "劈瓦",
+            "顺风"
+          ],
+          "item": "生命宝珠",
+          "ability": "精神力",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://pokesol.app/u/shoyu_moto/articles/76141606a57d4813"
+    },
+    {
+      "rank": "88",
+      "username": "アルベガ",
+      "points": "2337.109",
+      "pokemon": [
+        {
+          "name": "风妖精",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "莲蒲果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "快龙",
+          "moves": [],
+          "item": "快龙进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/arubega_poke"
+    },
+    {
+      "rank": "89",
+      "username": "yura",
+      "points": "2336.826",
+      "pokemon": [],
+      "url": "https://twitter.com/yurayura_pon"
+    },
+    {
+      "rank": "90",
+      "username": "ちゃあじ",
+      "points": "2336.73",
+      "pokemon": [
+        {
+          "name": "班基拉斯",
+          "moves": [
+            "岩崩",
+            "拍落",
+            "踢倒",
+            "守住"
+          ],
+          "item": "班基拉斯进化石",
+          "ability": "扬沙",
+          "evs": {
+            "hp": 18,
+            "atk": 16,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "龙头地鼠",
+          "moves": [
+            "铁头",
+            "十万马力",
+            "岩崩",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "拨沙",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "赛富豪",
+          "moves": [
+            "淘金潮",
+            "暗影球",
+            "诡计",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "黄金之躯",
+          "evs": {
+            "hp": 7,
+            "atk": 0,
+            "def": 10,
+            "spa": 17,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "姆克鹰",
+          "moves": [
+            "近身战",
+            "勇鸟猛攻",
+            "顺风",
+            "守住"
+          ],
+          "item": "姆克鹰进化石",
+          "ability": "威吓",
+          "evs": {
+            "hp": 23,
+            "atk": 11,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "美纳斯",
+          "moves": [
+            "热水",
+            "冰冻光束",
+            "催眠术",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "好胜",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 11,
+            "spa": 10,
+            "spd": 0,
+            "spe": 13
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [
+            "刷刷茶炮",
+            "愤怒粉",
+            "戏法空间",
+            "守住"
+          ],
+          "item": "刺耳果",
+          "ability": "款待",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 30,
+            "spe": 0
+          },
+          "nature": "大胆"
+        }
+      ],
+      "url": "https://twitter.com/charge_poke"
+    },
+    {
+      "rank": "92",
+      "username": "Jhin",
+      "points": "2334.714",
+      "pokemon": [
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [],
+          "item": "花叶蒂进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [],
+          "item": "佛柑果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "讲究围巾",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/Jhin0213"
+    },
+    {
+      "rank": "100",
+      "username": "阿塔Atalanta",
+      "points": "2330.286",
+      "pokemon": [
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "守住",
+            "跺脚",
+            "岩崩",
+            "地震"
+          ],
+          "item": "生命宝珠",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "守住",
+            "气象球",
+            "热风",
+            "吼叫"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 22,
+            "atk": 0,
+            "def": 13,
+            "spa": 1,
+            "spd": 0,
+            "spe": 30
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "守住",
+            "月亮之力",
+            "顺风",
+            "再来一次"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [
+            "守住",
+            "破灭之光",
+            "魔法闪耀",
+            "月亮之力"
+          ],
+          "item": "花叶蒂进化石",
+          "ability": "花幕",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "快速折返"
+          ],
+          "item": "讲究围巾",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "一家鼠",
+          "moves": [
+            "守住",
+            "鼠数儿",
+            "佯攻",
+            "看我嘛"
+          ],
+          "item": "广角镜",
+          "ability": "技术高手",
+          "evs": {
+            "hp": 10,
+            "atk": 30,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 26
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://twitter.com/WandaLi11688951"
+    },
+    {
+      "rank": "124",
+      "username": "やましょー",
+      "points": "2320.363",
+      "pokemon": [
+        {
+          "name": "雪妖女",
+          "moves": [
+            "守住",
+            "暴风雪",
+            "挑衅",
+            "暗影球"
+          ],
+          "item": "雪妖女进化石",
+          "ability": "诅咒之躯",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 2,
+            "spa": 13,
+            "spd": 0,
+            "spe": 23
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "杖尾鳞甲龙",
+          "moves": [
+            "守住",
+            "波导弹",
+            "鳞片噪音",
+            "真空波"
+          ],
+          "item": "生命宝珠",
+          "ability": "防尘",
+          "evs": {
+            "hp": 19,
+            "atk": 0,
+            "def": 2,
+            "spa": 32,
+            "spd": 0,
+            "spe": 13
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "班基拉斯",
+          "moves": [
+            "岩崩",
+            "拍落",
+            "冰冻拳",
+            "踢倒"
+          ],
+          "item": "讲究围巾",
+          "ability": "扬沙",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "龙头地鼠",
+          "moves": [
+            "守住",
+            "岩崩",
+            "铁头",
+            "十万马力"
+          ],
+          "item": "气势披带",
+          "ability": "拨沙",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "守住",
+            "热风",
+            "日光束",
+            "气象球"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 9,
+            "spa": 12,
+            "spd": 0,
+            "spe": 13
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "大狃拉",
+          "moves": [
+            "佯攻",
+            "克命爪",
+            "近身战",
+            "击掌奇袭"
+          ],
+          "item": "白色香草",
+          "ability": "轻装",
+          "evs": {
+            "hp": 20,
+            "atk": 10,
+            "def": 20,
+            "spa": 0,
+            "spd": 0,
+            "spe": 16
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://iq-3.hatenablog.com/entry/2026/08/05/180000"
+    },
+    {
+      "rank": "165",
+      "username": "ヤシの木",
+      "points": "2314.31",
+      "pokemon": [
+        {
+          "name": "妖火红狐",
+          "moves": [],
+          "item": "妖火红狐进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "水箭龟",
+          "moves": [],
+          "item": "水箭龟进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [],
+          "item": "刺耳果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/xx_z2z"
+    },
+    {
+      "rank": "168",
+      "username": "T",
+      "points": "2313.909",
+      "pokemon": [
+        {
+          "name": "耿鬼",
+          "moves": [],
+          "item": "耿鬼进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "勾魂眼",
+          "moves": [],
+          "item": "洛玫果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "三首恶龙",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "弃世猴",
+          "moves": [],
+          "item": "吃剩的东西",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "黑色眼镜",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/T60773312"
+    },
+    {
+      "rank": "174",
+      "username": "あきひ",
+      "points": "2313.329",
+      "pokemon": [
+        {
+          "name": "沙奈朵",
+          "moves": [
+            "巨声",
+            "精神强念",
+            "戏法空间",
+            "守住"
+          ],
+          "item": "沙奈朵进化石",
+          "ability": "复制",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 9,
+            "spa": 24,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "一家鼠",
+          "moves": [
+            "愤怒门牙",
+            "看我嘛",
+            "挑衅",
+            "守住"
+          ],
+          "item": "莲蒲果",
+          "ability": "友情防守",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 20,
+            "spa": 0,
+            "spd": 14,
+            "spe": 0
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "扫墓",
+            "波动冲",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "适应力",
+          "evs": {
+            "hp": 0,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "仆刀",
+            "踢倒",
+            "突袭",
+            "守住"
+          ],
+          "item": "黑色眼镜",
+          "ability": "大将",
+          "evs": {
+            "hp": 32,
+            "atk": 29,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 5
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "铝钢桥龙",
+          "moves": [
+            "流星群",
+            "加农光炮",
+            "波导弹",
+            "守住"
+          ],
+          "item": "文柚果",
+          "ability": "结实",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "化石翼龙",
+          "moves": [
+            "岩崩",
+            "双翼",
+            "顺风",
+            "守住"
+          ],
+          "item": "硬石头",
+          "ability": "紧张感",
+          "evs": {
+            "hp": 28,
+            "atk": 6,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        }
+      ],
+      "url": "https://pokesol.app/u/akihi/articles/4ebd493f78076c86"
+    },
+    {
+      "rank": "176",
+      "username": "レッドナル",
+      "points": "2313.321",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "妙蛙花",
+          "moves": [],
+          "item": "光粉",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大嘴鸥",
+          "moves": [],
+          "item": "讲究围巾",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "铝钢桥龙",
+          "moves": [],
+          "item": "先制之爪",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "好胜毛蟹",
+          "moves": [],
+          "item": "好胜毛蟹进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/Lun1118"
+    },
+    {
+      "rank": "178",
+      "username": "ハッチ",
+      "points": "2313.225",
+      "pokemon": [
+        {
+          "name": "化石翼龙",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "水箭龟",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "红莲铠骑",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "甜冷美后",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/HACCI_0217"
+    },
+    {
+      "rank": "195",
+      "username": "ハッチ",
+      "points": "2311.283",
+      "pokemon": [
+        {
+          "name": "化石翼龙",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "水箭龟",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "红莲铠骑",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "甜冷美后",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/HACCI_0217"
+    },
+    {
+      "rank": "209",
+      "username": "りょうま",
+      "points": "2310.219",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "气象球",
+            "原始之力",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "巨金怪",
+          "moves": [
+            "臂锤",
+            "精神之牙",
+            "子弹拳",
+            "守住"
+          ],
+          "item": "巨金怪进化石",
+          "ability": "恒净之躯",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "炽焰咆哮虎",
+          "moves": [
+            "闪焰冲锋",
+            "守住",
+            "击掌奇袭",
+            "抛下狠话"
+          ],
+          "item": "文柚果",
+          "ability": "威吓",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "超坏星",
+          "moves": [
+            "纠缠不休",
+            "剧毒",
+            "广域防守",
+            "碉堡"
+          ],
+          "item": "吃剩的东西",
+          "ability": "再生力",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙爪",
+            "跺脚",
+            "岩崩",
+            "地震"
+          ],
+          "item": "讲究围巾",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "快龙",
+          "moves": [
+            "龙爪",
+            "神速",
+            "踢倒",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "精神力",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://www.youtube.com/@ryoma-poke/featured"
+    },
+    {
+      "rank": "212",
+      "username": "ohiyA",
+      "points": "2309.687",
+      "pokemon": [
+        {
+          "name": "勾魂眼",
+          "moves": [],
+          "item": "光之黏土",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大嘴鸥",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "魔幻假面喵",
+          "moves": [],
+          "item": "讲究围巾",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "巨沼怪",
+          "moves": [],
+          "item": "巨沼怪进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "铝钢桥龙",
+          "moves": [],
+          "item": "吃剩的东西",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "巨金怪",
+          "moves": [],
+          "item": "巨金怪进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/pohiya0407"
+    },
+    {
+      "rank": "216",
+      "username": "MichaelderBeste",
+      "points": "2309.515",
+      "pokemon": [],
+      "url": "https://twitter.com/MichaelderBeste"
+    },
+    {
+      "rank": "232",
+      "username": "よーよー",
+      "points": "2308.622",
+      "pokemon": [
+        {
+          "name": "大钢蛇",
+          "moves": [
+            "扑击",
+            "重磅冲撞",
+            "守住",
+            "广域防守"
+          ],
+          "item": "大钢蛇进化石",
+          "ability": "结实",
+          "evs": {
+            "hp": 32,
+            "atk": 2,
+            "def": 0,
+            "spa": 0,
+            "spd": 32,
+            "spe": 0
+          },
+          "nature": "悠闲"
+        },
+        {
+          "name": "班基拉斯",
+          "moves": [
+            "岩崩",
+            "拍落",
+            "守住",
+            "踢倒"
+          ],
+          "item": "气势披带",
+          "ability": "扬沙",
+          "evs": {
+            "hp": 1,
+            "atk": 32,
+            "def": 1,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [
+            "守住",
+            "刷刷茶炮",
+            "愤怒粉",
+            "戏法空间"
+          ],
+          "item": "刺耳果",
+          "ability": "款待",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 30,
+            "spe": 0
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "雪妖女",
+          "moves": [
+            "暴风雪",
+            "暗影球",
+            "气象球",
+            "守住"
+          ],
+          "item": "雪妖女进化石",
+          "ability": "诅咒之躯",
+          "evs": {
+            "hp": 30,
+            "atk": 0,
+            "def": 2,
+            "spa": 8,
+            "spd": 1,
+            "spe": 25
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "清洗洛托姆",
+          "moves": [
+            "十万伏特",
+            "守住",
+            "磷火",
+            "光墙"
+          ],
+          "item": "吃剩的东西",
+          "ability": "飘浮",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 13,
+            "spa": 0,
+            "spd": 12,
+            "spe": 9
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "守住",
+            "龙尾",
+            "跺脚",
+            "隐形岩"
+          ],
+          "item": "文柚果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 15,
+            "spa": 0,
+            "spd": 8,
+            "spe": 11
+          },
+          "nature": "淘气"
+        }
+      ],
+      "url": "https://yoyopoke.hatenablog.com/entry/2026/08/06/235254"
+    },
+    {
+      "rank": "237",
+      "username": "カノソ",
+      "points": "2308.244",
+      "pokemon": [
+        {
+          "name": "妖火红狐",
+          "moves": [
+            "热风",
+            "守住",
+            "精神强念",
+            "诡计"
+          ],
+          "item": "妖火红狐进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 9,
+            "atk": 0,
+            "def": 23,
+            "spa": 5,
+            "spd": 0,
+            "spe": 29
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "一家鼠",
+          "moves": [
+            "围攻",
+            "守住",
+            "掉包",
+            "看我嘛"
+          ],
+          "item": "木子果",
+          "ability": "友情防守",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 30,
+            "spa": 0,
+            "spd": 4,
+            "spe": 0
+          },
+          "nature": "淘气"
+        },
+        {
+          "name": "赛富豪",
+          "moves": [
+            "淘金潮",
+            "守住",
+            "暗影球",
+            "诡计"
+          ],
+          "item": "金属膜",
+          "ability": "黄金之躯",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 25,
+            "spa": 0,
+            "spd": 9,
+            "spe": 0
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [
+            "终极吸取",
+            "愤怒粉",
+            "生命水滴",
+            "戏法空间"
+          ],
+          "item": "文柚果",
+          "ability": "款待",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 30,
+            "spe": 0
+          },
+          "nature": "大胆"
+        },
+        {
+          "name": "长毛巨魔",
+          "moves": [
+            "击掌奇袭",
+            "反射壁",
+            "光墙",
+            "抛下狠话"
+          ],
+          "item": "光之黏土",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 32,
+            "atk": 1,
+            "def": 13,
+            "spa": 0,
+            "spd": 15,
+            "spe": 5
+          },
+          "nature": "慎重"
+        },
+        {
+          "name": "弃世猴",
+          "moves": [
+            "愤怒之拳",
+            "守住",
+            "吸取拳",
+            "健美"
+          ],
+          "item": "吃剩的东西",
+          "ability": "不服输",
+          "evs": {
+            "hp": 23,
+            "atk": 1,
+            "def": 9,
+            "spa": 0,
+            "spd": 30,
+            "spe": 3
+          },
+          "nature": "慎重"
+        }
+      ],
+      "url": "https://kan0s0.hatenablog.com/entry/2026/08/05/161211"
+    },
+    {
+      "rank": "249",
+      "username": "いぶちねるぱっち",
+      "points": "2306.904",
+      "pokemon": [
+        {
+          "name": "奇麒麟",
+          "moves": [],
+          "item": "心灵香草",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "姆克鹰",
+          "moves": [],
+          "item": "姆克鹰进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "水箭龟",
+          "moves": [],
+          "item": "水箭龟进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "黑色铁球",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/ibuchiner_patch"
+    },
+    {
+      "rank": "251",
+      "username": "フィル",
+      "points": "2306.53",
+      "pokemon": [
+        {
+          "name": "大嘴鸥",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "铝钢桥龙",
+          "moves": [],
+          "item": "吃剩的东西",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "妙蛙花",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "长毛巨魔",
+          "moves": [],
+          "item": "光之黏土",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "讲究围巾",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/firpokemon"
+    },
+    {
+      "rank": "254",
+      "username": "ヨッ★シー☆(yuuki)",
+      "points": "2306.467",
+      "pokemon": [
+        {
+          "name": "雪妖女",
+          "moves": [],
+          "item": "雪妖女进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "鬃岩狼人",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "文柚果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "莲蒲果",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "大狃拉",
+          "moves": [],
+          "item": "白色香草",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "狠辣椒",
+          "moves": [],
+          "item": "狠辣椒进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/y0ssh1_pkmn"
+    },
+    {
+      "rank": "259",
+      "username": "しゃちほこぽけ",
+      "points": "2305.899",
+      "pokemon": [
+        {
+          "name": "喷火龙",
+          "moves": [],
+          "item": "超级喷火龙Y进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [],
+          "item": "生命宝珠",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "花叶蒂",
+          "moves": [],
+          "item": "花叶蒂进化石",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "风妖精",
+          "moves": [],
+          "item": "气势披带",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [],
+          "item": "神秘水滴",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [],
+          "item": "黑色眼镜",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://twitter.com/syatihokopoke2"
+    },
+    {
+      "rank": "263",
+      "username": "あゆむん",
+      "points": "2305.587",
+      "pokemon": [
+        {
+          "name": "姆克鹰",
+          "moves": [
+            "近身战",
+            "勇鸟猛攻",
+            "羽栖",
+            "守住"
+          ],
+          "item": "姆克鹰进化石",
+          "ability": "威吓",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 1,
+            "spa": 0,
+            "spd": 1,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "气象球",
+            "日光束",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 16,
+            "atk": 0,
+            "def": 19,
+            "spa": 12,
+            "spd": 0,
+            "spe": 19
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "烈咬陆鲨",
+          "moves": [
+            "龙尾",
+            "地震",
+            "岩崩",
+            "毒击"
+          ],
+          "item": "文柚果",
+          "ability": "粗糙皮肤",
+          "evs": {
+            "hp": 32,
+            "atk": 10,
+            "def": 9,
+            "spa": 0,
+            "spd": 4,
+            "spe": 11
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "顺风",
+            "再来一次",
+            "守住"
+          ],
+          "item": "妖精之羽",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "晶光花",
+          "moves": [
+            "污泥炸弹",
+            "力量宝石",
+            "大地之力",
+            "尖刺防守"
+          ],
+          "item": "气势披带",
+          "ability": "毒满地",
+          "evs": {
+            "hp": 1,
+            "atk": 0,
+            "def": 1,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "生命宝珠",
+          "ability": "适应力",
+          "evs": {
+            "hp": 4,
+            "atk": 31,
+            "def": 11,
+            "spa": 0,
+            "spd": 0,
+            "spe": 20
+          },
+          "nature": "固执"
+        }
+      ],
+      "url": "https://note.com/ayumun063/n/n757d71d41783"
+    },
+    {
+      "rank": "277",
+      "username": "ポポッコ",
+      "points": "2304.388",
+      "pokemon": [
+        {
+          "name": "风妖精",
+          "moves": [
+            "月亮之力",
+            "撒娇",
+            "再来一次",
+            "顺风"
+          ],
+          "item": "气势披带",
+          "ability": "恶作剧之心",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 2,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "扫墓",
+            "波动冲",
+            "快速折返",
+            "水流喷射"
+          ],
+          "item": "讲究围巾",
+          "ability": "适应力",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "谜拟Ｑ",
+          "moves": [
+            "暗影爪",
+            "嬉闹",
+            "吸取拳",
+            "影子偷袭"
+          ],
+          "item": "生命宝珠",
+          "ability": "画皮",
+          "evs": {
+            "hp": 1,
+            "atk": 32,
+            "def": 1,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "铁头",
+            "踢倒",
+            "突袭",
+            "守住"
+          ],
+          "item": "巧可果",
+          "ability": "不服输",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "固执"
+        },
+        {
+          "name": "喷火龙",
+          "moves": [
+            "热风",
+            "气象球",
+            "日光束",
+            "守住"
+          ],
+          "item": "超级喷火龙Y进化石",
+          "ability": "猛火",
+          "evs": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "姆克鹰",
+          "moves": [
+            "近身战",
+            "勇鸟猛攻",
+            "羽栖",
+            "守住"
+          ],
+          "item": "姆克鹰进化石",
+          "ability": "威吓",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        }
+      ],
+      "url": "https://popocckoitazuragokoro.hatenablog.com/entry/2026/08/05/185925"
+    },
+    {
+      "rank": "284",
+      "username": "バルドル",
+      "points": "2304.025",
+      "pokemon": [
+        {
+          "name": "阿罗拉九尾",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "杖尾鳞甲龙",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "暴鲤龙",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "苍炎刃鬼",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "雷丘阿罗拉的样子",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        },
+        {
+          "name": "来悲粗茶",
+          "moves": [],
+          "item": "",
+          "ability": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": ""
+        }
+      ],
+      "url": "https://youtube.com/@barudoru?si=dAWaxonEWqeyUFKZ"
+    },
+    {
+      "rank": "364",
+      "username": "たこやき",
+      "points": "2254.684",
+      "pokemon": [
+        {
+          "name": "雷丘阿罗拉的样子",
+          "moves": [
+            "伏特攻击",
+            "拍落",
+            "伏特替换",
+            "击掌奇袭"
+          ],
+          "item": "雷丘进化石X",
+          "ability": "静电",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "杖尾鳞甲龙",
+          "moves": [
+            "鳞片噪音",
+            "波导弹",
+            "喷射火焰",
+            "真空波"
+          ],
+          "item": "生命宝珠",
+          "ability": "防尘",
+          "evs": {
+            "hp": 29,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 5,
+            "spe": 0
+          },
+          "nature": "冷静"
+        },
+        {
+          "name": "幽尾玄鱼",
+          "moves": [
+            "波动冲",
+            "扫墓",
+            "水流喷射",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "适应力",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "奇麒麟",
+          "moves": [
+            "精神噪音",
+            "十万伏特",
+            "戏法空间",
+            "魔法闪耀"
+          ],
+          "item": "刺耳果",
+          "ability": "尾甲",
+          "evs": {
+            "hp": 12,
+            "atk": 0,
+            "def": 12,
+            "spa": 30,
+            "spd": 12,
+            "spe": 0
+          },
+          "nature": "冷静"
+        },
+        {
+          "name": "电龙",
+          "moves": [
+            "电力上升",
+            "魔法闪耀",
+            "十万伏特",
+            "守住"
+          ],
+          "item": "磁铁",
+          "ability": "正电",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 2,
+            "spa": 32,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "冷静"
+        },
+        {
+          "name": "芳香精",
+          "moves": [
+            "月亮之力",
+            "魔法闪耀",
+            "戏法空间",
+            "再来一次"
+          ],
+          "item": "霹霹果",
+          "ability": "芳香幕",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 2,
+            "spe": 0
+          },
+          "nature": "冷静"
+        }
+      ],
+      "url": "https://takoyaki-games.hatenablog.com/entry/2026/08/07/100839"
+    },
+    {
+      "rank": "547",
+      "username": "ろく",
+      "points": "2202.112",
+      "pokemon": [
+        {
+          "name": "仆刀将军",
+          "moves": [
+            "铁头",
+            "仆刀",
+            "突袭",
+            "守住"
+          ],
+          "item": "气势披带",
+          "ability": "大将",
+          "evs": {
+            "hp": 32,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 2,
+            "spe": 0
+          },
+          "nature": "勇敢"
+        },
+        {
+          "name": "大狃拉",
+          "moves": [
+            "深渊突刺",
+            "近身战",
+            "岩崩",
+            "守住"
+          ],
+          "item": "木子果",
+          "ability": "轻装",
+          "evs": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "钢铠鸦",
+          "moves": [
+            "勇鸟猛攻",
+            "铁壁",
+            "羽栖",
+            "扑击"
+          ],
+          "item": "吃剩的东西",
+          "ability": "镜甲",
+          "evs": {
+            "hp": 32,
+            "atk": 1,
+            "def": 4,
+            "spa": 0,
+            "spd": 28,
+            "spe": 0
+          },
+          "nature": "淘气"
+        },
+        {
+          "name": "蚊香蛙皇",
+          "moves": [
+            "守住",
+            "终焉之歌",
+            "催眠术",
+            "气象球"
+          ],
+          "item": "文柚果",
+          "ability": "降雨",
+          "evs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 23,
+            "spa": 0,
+            "spd": 12,
+            "spe": 0
+          },
+          "nature": "自大"
+        },
+        {
+          "name": "诅咒娃娃",
+          "moves": [
+            "灵骚",
+            "戏法空间",
+            "同命",
+            "虚张声势"
+          ],
+          "item": "诅咒娃娃进化石",
+          "ability": "察觉",
+          "evs": {
+            "hp": 32,
+            "atk": 3,
+            "def": 30,
+            "spa": 0,
+            "spd": 1,
+            "spe": 0
+          },
+          "nature": "悠闲"
+        },
+        {
+          "name": "仙子伊布",
+          "moves": [
+            "看穿",
+            "破坏光线",
+            "巨声",
+            "电光一闪"
+          ],
+          "item": "妖精之羽",
+          "ability": "妖精皮肤",
+          "evs": {
+            "hp": 25,
+            "atk": 0,
+            "def": 9,
+            "spa": 32,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "冷静"
+        }
+      ],
+      "url": "https://note.com/roku385/n/naaf7569e9f59?v=2"
+    },
+    {
+      "rank": "822",
+      "username": "くろもけけ",
+      "points": "2153.616",
+      "pokemon": [
+        {
+          "name": "洗翠索罗亚克",
+          "moves": [
+            "挑衅",
+            "临别礼物",
+            "大声咆哮",
+            "磷火"
+          ],
+          "item": "气势披带",
+          "ability": "幻觉",
+          "evs": {
+            "hp": 29,
+            "atk": 0,
+            "def": 2,
+            "spa": 0,
+            "spd": 3,
+            "spe": 32
+          },
+          "nature": "胆小"
+        },
+        {
+          "name": "姆克鹰",
+          "moves": [
+            "搏命",
+            "勇鸟猛攻",
+            "急速折返",
+            "吹飞"
+          ],
+          "item": "讲究围巾",
+          "ability": "舍身",
+          "evs": {
+            "hp": 32,
+            "atk": 2,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "nature": "爽朗"
+        },
+        {
+          "name": "卡比兽",
+          "moves": [
+            "扑击",
+            "地裂",
+            "蓄力",
+            "睡觉"
+          ],
+          "item": "吃剩的东西",
+          "ability": "厚脂肪",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 32,
+            "spa": 0,
+            "spd": 2,
+            "spe": 0
+          },
+          "nature": "悠闲"
+        },
+        {
+          "name": "差不多娃娃",
+          "moves": [
+            "单纯光束",
+            "戏法空间",
+            "治愈波动",
+            "再来一次"
+          ],
+          "item": "心灵香草",
+          "ability": "再生力",
+          "evs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 20,
+            "spa": 0,
+            "spd": 15,
+            "spe": 0
+          },
+          "nature": "自大"
+        },
+        {
+          "name": "芳香精",
+          "moves": [
+            "月亮之力",
+            "睡觉",
+            "自我暗示",
+            "诡计"
+          ],
+          "item": "零余果",
+          "ability": "芳香幕",
+          "evs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 15,
+            "spa": 11,
+            "spd": 9,
+            "spe": 0
+          },
+          "nature": "内敛"
+        },
+        {
+          "name": "呆壳兽伽勒尔的样子",
+          "moves": [
+            "辅助力量",
+            "扑击",
+            "偷懒",
+            "自我暗示"
+          ],
+          "item": "呆壳兽进化石",
+          "ability": "再生力",
+          "evs": {
+            "hp": 32,
+            "atk": 0,
+            "def": 2,
+            "spa": 0,
+            "spd": 32,
+            "spe": 0
+          },
+          "nature": "温和"
+        }
+      ],
+      "url": "https://krmkk.hatenablog.com/entry/2026/08/05/211220"
+    }
+  ]
+}
